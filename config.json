@@ -1,0 +1,14 @@
+{
+    "notifications": {
+        "interval": 50,
+        "duration": 10
+    },
+
+    "infile_paths": [
+        "/home/tobi/Downloads/dict.cc/Abstracta.txt",
+        "/home/tobi/Downloads/dict.cc/Colloquials.txt",
+        "/home/tobi/Downloads/dict.cc/Concreta.txt",
+        "/home/tobi/Downloads/dict.cc/Miscellaneous.txt",
+        "/home/tobi/Downloads/dict.cc/Phrases.txt"
+    ]
+}
