@@ -1,14 +1,28 @@
 {
     "notifications": {
         "interval": 50,
-        "duration": 10
+        "duration": 10,
+        "verbose" : "True"
     },
 
-    "infile_paths": [
-        "/home/tobi/Downloads/dict.cc/Abstracta.txt",
-        "/home/tobi/Downloads/dict.cc/Colloquials.txt",
-        "/home/tobi/Downloads/dict.cc/Concreta.txt",
-        "/home/tobi/Downloads/dict.cc/Miscellaneous.txt",
-        "/home/tobi/Downloads/dict.cc/Phrases.txt"
+    "account_data": {
+        "user": "",
+        "pass": ""
+    },
+
+    "remote_paths": [
+        "http://deen.my.dict.cc/export/746615/EN-DE-16439.txt",
+        "http://deen.my.dict.cc/export/710362/EN-DE-16606.txt",
+        "http://deen.my.dict.cc/export/731190/EN-DE-16653.txt",
+        "http://deen.my.dict.cc/export/706790/EN-DE-16683.txt",
+        "http://deen.my.dict.cc/export/706698/EN-DE-16710.txt"
+    ],
+
+    "source_paths": [
+        "./samples/Abstracta.txt",
+        "./samples/Colloquials.txt",
+        "./samples/Concreta.txt",
+        "./samples/Phrases.txt",
+        "./samples/Miscellaneous.txt"
     ]
 }

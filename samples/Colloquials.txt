@@ -1,0 +1,91 @@
+stone-cold	eiskalt	0001-01-01 00:00:00	0
+darn [coll.]	verdammt [salopp pej.]	0001-01-01 00:00:00	0
+clout [coll.]	Einfluss {m}	0001-01-01 00:00:00	0
+to go ballistic [coll.]	an die Decke gehen [fig.] [ugs.]	0001-01-01 00:00:00	0
+voracious	unersättlich	0001-01-01 00:00:00	0
+on the cheap [coll.]	billig	0001-01-01 00:00:00	0
+to burp [coll.]	rülpsen [ugs.]	0001-01-01 00:00:00	0
+lingo [coll.]	Fachjargon {m}	0001-01-01 00:00:00	0
+nifty  [coll.]	schick	0001-01-01 00:00:00	0
+confer <cf.>	vergleiche <vgl.>	0001-01-01 00:00:00	0
+off colour  [Br.]	nicht gesund	0001-01-01 00:00:00	0
+I can't be bothered.	Ich habe keinen Bock. [ugs.]	0001-01-01 00:00:00	0
+perk [coll.] [advantage]	Vorteil {m}	0001-01-01 00:00:00	0
+You're barmy! [Br.] [coll.]	Du hast einen Knall! [ugs.]	0001-01-01 00:00:00	0
+chow [coll.] [food]	Futter {n} [ugs.] [Essen]	0001-01-01 00:00:00	0
+to get along	klarkommen [ugs.]	0001-01-01 00:00:00	0
+to jibe with sth. [Am.] [coll.]	mit etw. übereinstimmen	0001-01-01 00:00:00	0
+frat [coll.]	Studentenverbindung {f}	0001-01-01 00:00:00	0
+antsy  [Am.]  [coll.]	kribbelig [ugs.]	0001-01-01 00:00:00	0
+chopper [coll.]	Helikopter {m}	0001-01-01 00:00:00	0
+iffy  [coll.]	fraglich	0001-01-01 00:00:00	0
+Is anyone on for ... ? [coll.]	Hat jemand Bock auf ... ? [ugs.]	0001-01-01 00:00:00	0
+booger [Am.] [coll.]	Popel {m} [ugs.]	0001-01-01 00:00:00	0
+lad [coll.]	Bursche {m}	0001-01-01 00:00:00	0
+smidgen [coll.]	klitzekleines bisschen [ugs.]	0001-01-01 00:00:00	0
+badass [esp. Am.] [sl.]	krass [ugs.]	0001-01-01 00:00:00	0
+back-of-the-envelope calculation [coll.]	Überschlagsrechnung {f}	0001-01-01 00:00:00	0
+Stay healthy.	Bleib gesund.	0001-01-01 00:00:00	0
+to pop the question to sb. [coll.]	jdm. einen Heiratsantrag machen	0001-01-01 00:00:00	0
+pesky  [coll.]	lästig	0001-01-01 00:00:00	0
+spiffy  [Am.]  [coll.]	schick	0001-01-01 00:00:00	0
+stone-cold crazy  [coll.]	vollkommen verrückt	0001-01-01 00:00:00	0
+ding [coll.]	Delle {f}	0001-01-01 00:00:00	0
+dunce [pej.]	Dummkopf {m} [pej.]	0001-01-01 00:00:00	0
+to cringe at sth. [coll.] [feel embarrassed]	etw. höchst peinlich finden	0001-01-01 00:00:00	0
+silly-ass  [Am.]  [vulg.]	Schwachsinns- [ugs.]	0001-01-01 00:00:00	0
+clinger [coll.]	Klette {f} [fig.] [ugs.]	0001-01-01 00:00:00	0
+thingy [coll.]	Dingsda {n} [ugs.]	0001-01-01 00:00:00	0
+blind drunk	sternhagelvoll [ugs.]	0001-01-01 00:00:00	0
+to veg out	rumhängen	0001-01-01 00:00:00	0
+jiffy [coll.]	Augenblick {m}	0001-01-01 00:00:00	0
+-wise [coll.] [as regards]	-mäßig [ugs.]	0001-01-01 00:00:00	0
+to chomp [coll.]	mampfen [ugs.]	0001-01-01 00:00:00	0
+nitty-gritty  [coll.]	praktisch veranlagt	0001-01-01 00:00:00	0
+dang  [esp. Am.]  [coll.]	verflixt [ugs.]	0001-01-01 00:00:00	0
+to get tarted up [coll.]	sich aufdonnern [ugs.]	0001-01-01 00:00:00	0
+spoof [Br.] [coll.]	Parodie {f}	0001-01-01 00:00:00	0
+So long! [Am.]	Bis dann!	0001-01-01 00:00:00	0
+wimp [coll.]	Niete {f} [ugs.] [Versager]	0001-01-01 00:00:00	0
+monkey business [coll.]	Blödsinn {m}	0001-01-01 00:00:00	0
+to marmalise sb. [Br.] [coll.] [to defeat decisively]	jdn. abservieren [ugs.]	0001-01-01 00:00:00	0
+totes [coll.] [totally]	total	0001-01-01 00:00:00	0
+crush [Am.] [coll.]	Schwarm {m}	0001-01-01 00:00:00	0
+icky  [sl.]	eklig	0001-01-01 00:00:00	0
+avail  [coll.]	verfügbar	0001-01-01 00:00:00	0
+to poop [coll.] [to defecate]	kacken [vulg.]	0001-01-01 00:00:00	0
+booby [coll.] [a woman's breast]	Titte {f} [vulg.]	0001-01-01 00:00:00	0
+slew [Am.] [coll.]	Menge {f}	0001-01-01 00:00:00	0
+nifty  [coll.]	raffiniert	0001-01-01 00:00:00	0
+cringe-making [Br.] [coll.]	extrem peinlich	0001-01-01 00:00:00	0
+rad	krass [ugs.] [toll]	0001-01-01 00:00:00	0
+natty  [coll.]	schick [ugs.]	0001-01-01 00:00:00	0
+tit-for-tat response	Retourkutsche {f} [ugs.]	0001-01-01 00:00:00	0
+to grope sb. [coll.]	jdn. begrabschen [ugs.]	0001-01-01 00:00:00	0
+critter [Am.] [coll.] [creature]	Viech {n} [ugs.]	0001-01-01 00:00:00	0
+poop [sl.]	Scheiß {m} [vulg.]	0001-01-01 00:00:00	0
+to be in the know [coll.] [idiom]	Bescheid wissen [Redewendung]	0001-01-01 00:00:00	0
+jabberwocky	Quark {m} [ugs.] [Unsinn]	0001-01-01 00:00:00	0
+gump [Am.] [coll.]	Schwachkopf {m}	0001-01-01 00:00:00	0
+freeloader [coll.]	Schmarotzer {m}	0001-01-01 00:00:00	0
+floozy [coll.] [pej.]	Flittchen {n} [ugs.] [pej.]	0001-01-01 00:00:00	0
+way too [coll.] [esp. Am.]	viel zu	0001-01-01 00:00:00	0
+vibe [coll.]	Stimmung {f} [Gefühl]	0001-01-01 00:00:00	0
+for your information <FYI>	zu deiner Information	0001-01-01 00:00:00	0
+crappy  [sl.]	beschissen [ugs.]	0001-01-01 00:00:00	0
+run-of-the-mill	Allerwelts-	0001-01-01 00:00:00	0
+to graft [Br.] [coll.]	schuften [ugs.]	0001-01-01 00:00:00	0
+shut-in [Am.] [coll.]	ans Haus / Bett gefesselt [Kranker etc.]	0001-01-01 00:00:00	0
+Gee! [esp. Am.] [coll.]	Meine Güte!	0001-01-01 00:00:00	0
+hale and hearty	gesund und munter	0001-01-01 00:00:00	0
+to catcall	ausbuhen	0001-01-01 00:00:00	0
+goofy  [Am.]  [coll.]	albern	0001-01-01 00:00:00	0
+in good company	in geselliger Runde	0001-01-01 00:00:00	0
+moron [coll.]	Idiot {m} [ugs.]	0001-01-01 00:00:00	0
+wally [Br.] [sl.]	Trottel {m}	0001-01-01 00:00:00	0
+hassle [coll.]	Ärger {m}	0001-01-01 00:00:00	0
+booby [coll.]	Trottel {m} [ugs.]	0001-01-01 00:00:00	0
+on the baker's list [Irish] [coll.] [in good health]	gesund (und munter)	2017-08-13 22:04:40.203512	1
+jittery [coll.]	hibbelig [ugs.]	2017-08-13 21:25:38.191641	1
+bossy	rechthaberisch	2017-08-13 22:15:40.695396	1
+hubby [coll.]	Ehemann {m}	2017-08-13 21:16:37.705692	1

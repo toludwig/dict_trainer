@@ -1,0 +1,405 @@
+bladder	Blase {f}	0001-01-01 00:00:00	0
+pinafore	Schürze {f}	0001-01-01 00:00:00	0
+bun [hairstyle]	Dutt {m} [regional] [Haarknoten]	0001-01-01 00:00:00	0
+pork	Schweinefleisch {n}	0001-01-01 00:00:00	0
+to glean	sammeln [Informationen, Fakten; i. d. R. mühsam]	0001-01-01 00:00:00	0
+debit	Lastschrift {f}	0001-01-01 00:00:00	0
+traineeship	Praktikum {n}	0001-01-01 00:00:00	0
+tangerine [Citrus reticulata]	Mandarine {f}	0001-01-01 00:00:00	0
+maw [also fig.]	Schlund {m}	0001-01-01 00:00:00	0
+vapor [Am.]	Dunst {m}	0001-01-01 00:00:00	0
+bra	BH {m}	0001-01-01 00:00:00	0
+deluge [also fig.]	Flut {f} [Überschwemmung] [auch fig.]	0001-01-01 00:00:00	0
+ribbon	Schleife {f} [Band, Kranzschleife]	0001-01-01 00:00:00	0
+bud	Knospe {f}	0001-01-01 00:00:00	0
+mat	Matte {f}	0001-01-01 00:00:00	0
+sheet [bed sheet]	Bettlaken {n}	0001-01-01 00:00:00	0
+beaker	Becherglas {n} [Labor]	0001-01-01 00:00:00	0
+aisle	Gang {m} [zwischen Sitzbänken etc.]	0001-01-01 00:00:00	0
+batch	Stapel {m}	0001-01-01 00:00:00	0
+ink	Tinte {f}	0001-01-01 00:00:00	0
+coy	schüchtern	0001-01-01 00:00:00	0
+to quench sth. [flames, thirst]	etw. löschen [Flammen, Durst]	0001-01-01 00:00:00	0
+trench	Graben {m}	0001-01-01 00:00:00	0
+shelter	Unterschlupf {m}	0001-01-01 00:00:00	0
+to adorn	zieren	0001-01-01 00:00:00	0
+blunder	Fehler {m}	0001-01-01 00:00:00	0
+brook	Bach {m}	0001-01-01 00:00:00	0
+to dabble in sth.	sich in einem Gebiet versuchen	0001-01-01 00:00:00	0
+to frown	böse gucken [ugs.]	0001-01-01 00:00:00	0
+to scoop	schaufeln	0001-01-01 00:00:00	0
+to jest	spaßen	0001-01-01 00:00:00	0
+ostrich	Strauß {m}	0001-01-01 00:00:00	0
+attorney [Am.]	Anwalt {m}	0001-01-01 00:00:00	0
+thigh	Oberschenkel {m}	0001-01-01 00:00:00	0
+to retire [from employment]	ausscheiden [in Rente, Pension gehen]	0001-01-01 00:00:00	0
+stag	Hirsch {m}	0001-01-01 00:00:00	0
+to sift sth.	etw. überprüfen	0001-01-01 00:00:00	0
+swallow	Schwalbe {f}	0001-01-01 00:00:00	0
+priest	Priester {m}	0001-01-01 00:00:00	0
+eligible	berechtigt	0001-01-01 00:00:00	0
+jelly	Gelee {n} {m}	0001-01-01 00:00:00	0
+waffle	Waffel {f}	0001-01-01 00:00:00	0
+buzzer	Wecker {m}	0001-01-01 00:00:00	0
+to fizz	sprudeln	0001-01-01 00:00:00	0
+to falter	schwanken	0001-01-01 00:00:00	0
+to sift sth.	etw. sieben	0001-01-01 00:00:00	0
+to butcher	schlachten	0001-01-01 00:00:00	0
+bachelor	Junggeselle {m}	0001-01-01 00:00:00	0
+tack [Am.] [thumbtack]	Reißzwecke {f}	0001-01-01 00:00:00	0
+helm	Steuer {n}	0001-01-01 00:00:00	0
+nursery [day nursery]	Kindertagesstätte {f} <Kita>	0001-01-01 00:00:00	0
+tinfoil [popular misnomer]	Aluminiumfolie {f}	0001-01-01 00:00:00	0
+lump	Klumpen {m}	0001-01-01 00:00:00	0
+ivy [Hedera helix]	Efeu {m} [auch {n}]	0001-01-01 00:00:00	0
+fringe	Saum {m}	0001-01-01 00:00:00	0
+damp	Dampf {m}	0001-01-01 00:00:00	0
+meager [Am.]	mager [dürftig kärglich, selten auch hager]	0001-01-01 00:00:00	0
+to yawn	gähnen	0001-01-01 00:00:00	0
+rook [chess]	Turm {m} [Schach]	0001-01-01 00:00:00	0
+sprout	Spross {m}	0001-01-01 00:00:00	0
+to berate	beschimpfen	0001-01-01 00:00:00	0
+sludge	Schlamm {m}	0001-01-01 00:00:00	0
+to clobber sb. [coll.]	jdn. verprügeln	0001-01-01 00:00:00	0
+nap	Nickerchen {n} [ugs.]	0001-01-01 00:00:00	0
+pip	Kern {m} [v. Obst]	0001-01-01 00:00:00	0
+brittle	spröde	0001-01-01 00:00:00	0
+gland	Drüse {f}	0001-01-01 00:00:00	0
+refugee	Flüchtling {m}	0001-01-01 00:00:00	0
+bog	Sumpf {m}	0001-01-01 00:00:00	0
+bun [bread roll]	Brötchen {n} [meist für Hamburger etc.]	0001-01-01 00:00:00	0
+copse	Wäldchen {n}	0001-01-01 00:00:00	0
+crab	Krebs {m}	0001-01-01 00:00:00	0
+to whine	jammern	0001-01-01 00:00:00	0
+caterpillar	Raupe {f}	0001-01-01 00:00:00	0
+to grind	zerreiben	0001-01-01 00:00:00	0
+spouse	Ehegatte {m} [geh.] [Ehemann; jur. auch: einer der beiden Ehepartner]	0001-01-01 00:00:00	0
+to hoist	heben	0001-01-01 00:00:00	0
+grocery	Lebensmittelgeschäft {n}	0001-01-01 00:00:00	0
+to reek	riechen	0001-01-01 00:00:00	0
+pitchfork	Heugabel {f}	0001-01-01 00:00:00	0
+expiry date	Verfallsdatum {n}	0001-01-01 00:00:00	0
+forge	Schmiede {f}	0001-01-01 00:00:00	0
+palate	Gaumen {m}	0001-01-01 00:00:00	0
+notch	Kerbe {f}	0001-01-01 00:00:00	0
+cog [cogwheel]	Zahnrad {n}	0001-01-01 00:00:00	0
+scroll [roll of parchment, paper, etc., with writing on it]	Schriftrolle {f}	0001-01-01 00:00:00	0
+giddy	schwindlig	0001-01-01 00:00:00	0
+hawk	Habicht {m}	0001-01-01 00:00:00	0
+grater	Reibe {f}	0001-01-01 00:00:00	0
+to trawl sth. [esp. Br.] [fig.] [scour, sift]	etw. durchkämmen [fig.]	0001-01-01 00:00:00	0
+padding	Polsterung {f}	0001-01-01 00:00:00	0
+puppy	Welpe {m}	0001-01-01 00:00:00	0
+pillar	Säule {f}	0001-01-01 00:00:00	0
+tip	Trinkgeld {n}	0001-01-01 00:00:00	0
+tip [Br.] [rubbish tip]	Müllhalde {f}	0001-01-01 00:00:00	0
+to take a shit [Am.] [vulg.]	kacken [vulg.]	0001-01-01 00:00:00	0
+to ramify	(sich) verzweigen [auch fig.]	0001-01-01 00:00:00	0
+to knead	massieren	0001-01-01 00:00:00	0
+to writhe [emotionally]	beben [erschauern]	0001-01-01 00:00:00	0
+maple [genus Acer]	Ahorn {m}	0001-01-01 00:00:00	0
+burglar	Einbrecher {m}	0001-01-01 00:00:00	0
+stove	Herd {m}	0001-01-01 00:00:00	0
+pigeonhole	Sortierfach {n}	0001-01-01 00:00:00	0
+to braid sth.	etw. flechten [Haare, Garn etc.]	0001-01-01 00:00:00	0
+to stir sth.	etw. rühren [beim Kochen etc.]	0001-01-01 00:00:00	0
+frantic	hektisch	0001-01-01 00:00:00	0
+on the baker's list [Irish] [coll.] [in good health]	gesund (und munter)	0001-01-01 00:00:00	0
+drain	Abfluss {m}	0001-01-01 00:00:00	0
+carrion	Aas {n}	0001-01-01 00:00:00	0
+to fray	ausfransen	0001-01-01 00:00:00	0
+bathtub	Badewanne {f}	0001-01-01 00:00:00	0
+spruce [genus Picea]	Fichte {f}	0001-01-01 00:00:00	0
+to chop	hacken	0001-01-01 00:00:00	0
+roster	Liste {f}	0001-01-01 00:00:00	0
+spiteful	gehässig	0001-01-01 00:00:00	0
+ratchet	Ratsche {f}	0001-01-01 00:00:00	0
+off colour  [Br.]	nicht gesund	0001-01-01 00:00:00	0
+thistle	Distel {f}	0001-01-01 00:00:00	0
+trolley [Am.] [trolley car]	Straßenbahn {f}	0001-01-01 00:00:00	0
+falcon	Falke {m}	0001-01-01 00:00:00	0
+pedigree	Stammbaum {m}	0001-01-01 00:00:00	0
+to grate	reiben [zerkleinern]	0001-01-01 00:00:00	0
+hairdo [coll.]	Frisur {f}	0001-01-01 00:00:00	0
+faint	Ohnmacht {f}	0001-01-01 00:00:00	0
+tenement	Mietshaus {n}	0001-01-01 00:00:00	0
+tendon	Sehne {f}	0001-01-01 00:00:00	0
+driveway	Einfahrt {f}	0001-01-01 00:00:00	0
+fodder	Futter {n} [bes. f. Kühe, Pferde]	0001-01-01 00:00:00	0
+squat	Kniebeuge {f}	0001-01-01 00:00:00	0
+grate	Gitter {n}	0001-01-01 00:00:00	0
+toad	Kröte {f}	0001-01-01 00:00:00	0
+plant [factory]	Fabrikanlage {f}	0001-01-01 00:00:00	0
+rye [Secale cereale]	Roggen {m}	0001-01-01 00:00:00	0
+fuse	Zündschnur {f}	0001-01-01 00:00:00	0
+hairdryer	Föhn {m} [Haartrockner]	0001-01-01 00:00:00	0
+fervor [Am.]	Eifer {m}	0001-01-01 00:00:00	0
+to strap sb. in	jdn. anschnallen	0001-01-01 00:00:00	0
+to reek of sth.	nach etw. stinken	0001-01-01 00:00:00	0
+fudge {sg} [sweets]	Karamellen {pl} [Bonbons]	0001-01-01 00:00:00	0
+groom [bridegroom]	Bräutigam {m}	0001-01-01 00:00:00	0
+poll	Umfrage {f}	0001-01-01 00:00:00	0
+fir [genus Abies]	Tanne {f}	0001-01-01 00:00:00	0
+ridge	Erhöhung {f}	0001-01-01 00:00:00	0
+to douche	duschen	0001-01-01 00:00:00	0
+to drool	sabbern [ugs.]	0001-01-01 00:00:00	0
+chunk	Brocken {m}	0001-01-01 00:00:00	0
+sieve	Sieb {n}	0001-01-01 00:00:00	0
+walker [Am.]	Gehhilfe {f}	0001-01-01 00:00:00	0
+fur [thick fur, e.g. on a bear or fox]	Pelz {m}	0001-01-01 00:00:00	0
+wheelbarrow	Schubkarre {f}	0001-01-01 00:00:00	0
+to nag [find fault]	nörgeln [kleinlich kritisch sein]	0001-01-01 00:00:00	0
+loath	abgeneigt	0001-01-01 00:00:00	0
+mansion [large, imposing house]	Villa {f} [groß]	0001-01-01 00:00:00	0
+cozy  [Am.]	gemütlich	0001-01-01 00:00:00	0
+to rinse	ausspülen	0001-01-01 00:00:00	0
+liquorice [Br.]	Lakritz {m} {n} [regional]	0001-01-01 00:00:00	0
+soil	Erde {f} [Erdreich, Bodenart]	0001-01-01 00:00:00	0
+to squirm	sich krümmen	0001-01-01 00:00:00	0
+squash [Cucurbita maxima]	Speisekürbis {m}	0001-01-01 00:00:00	0
+poacher	Wilderer {m}	0001-01-01 00:00:00	0
+grease	Fett {n}	0001-01-01 00:00:00	0
+slant	schräg	0001-01-01 00:00:00	0
+to commute [to travel between home and work]	pendeln	0001-01-01 00:00:00	0
+hale and hearty	gesund und munter	0001-01-01 00:00:00	0
+drought	Dürre {f}	0001-01-01 00:00:00	0
+vacancy	Stellenangebot {n}	0001-01-01 00:00:00	0
+to afford [have the money for]	sich leisten können	0001-01-01 00:00:00	0
+to clobber sth. [to overwrite data]	etw. überschreiben [normalerweise unabsichtlich]	0001-01-01 00:00:00	0
+uphill	bergauf	0001-01-01 00:00:00	0
+fee	Gebühr {f}	0001-01-01 00:00:00	0
+to drown	ertrinken	0001-01-01 00:00:00	0
+to gobble sth.	etw. hinunterschlingen	0001-01-01 00:00:00	0
+lane	Fahrbahn {f}	0001-01-01 00:00:00	0
+to dye	färben [Haar, Stoff]	0001-01-01 00:00:00	0
+timber-framed	Fachwerk-	0001-01-01 00:00:00	0
+varnish	Lack {m}	0001-01-01 00:00:00	0
+to shrug (one's shoulders)	mit den Schultern zucken	0001-01-01 00:00:00	0
+akin to	verwandt mit	0001-01-01 00:00:00	0
+hairdresser	Frisör {m}	0001-01-01 00:00:00	0
+freelancer	Freiberufler {m}	0001-01-01 00:00:00	0
+tar	Teer {m}	0001-01-01 00:00:00	0
+to go off pat	nach Schema F gehen	0001-01-01 00:00:00	0
+thumb drive	USB-Stick {m}	0001-01-01 00:00:00	0
+bedsheet	Bettlaken {n}	0001-01-01 00:00:00	0
+to chuckle	kichern	0001-01-01 00:00:00	0
+goo	Schmiere {f} [schmieriges Zeug]	0001-01-01 00:00:00	0
+to drain	entleeren	0001-01-01 00:00:00	0
+waning moon	abnehmender Mond {m}	0001-01-01 00:00:00	0
+shard	Scherbe {f}	0001-01-01 00:00:00	0
+warrior	Krieger {m}	0001-01-01 00:00:00	0
+scaffold	Gerüst {n}	0001-01-01 00:00:00	0
+kindred	verwandt	0001-01-01 00:00:00	0
+to pickle	einlegen	0001-01-01 00:00:00	0
+to fray	abnutzen	0001-01-01 00:00:00	0
+compass	Zirkel {m}	0001-01-01 00:00:00	0
+cheetah [Acinonyx jubatus]	Gepard {m}	0001-01-01 00:00:00	0
+loom	Webstuhl {m}	0001-01-01 00:00:00	0
+to tie one's shoes	sich [Dat.] die Schuhe binden	0001-01-01 00:00:00	0
+to wink	zwinkern	0001-01-01 00:00:00	0
+to veer	ausscheren	0001-01-01 00:00:00	0
+gagging [retch]	Würgen {n} [Brechreiz]	0001-01-01 00:00:00	0
+meadow	Wiese {f}	0001-01-01 00:00:00	0
+pea	Erbse {f}	0001-01-01 00:00:00	0
+to cringe	zusammenzucken	0001-01-01 00:00:00	0
+to wobble [chin, jelly, etc.]	schwabbeln [ugs.] [schwabbelige Masse i. A., Kinn, Pudding usw.]	0001-01-01 00:00:00	0
+to scoff [mock]	spotten	0001-01-01 00:00:00	0
+entree [esp. Am.] [main course]	Hauptgang {m}	0001-01-01 00:00:00	0
+porridge	Haferbrei {m}	0001-01-01 00:00:00	0
+inmate	Gefängnisinsasse {m}	0001-01-01 00:00:00	0
+boar	Wildschwein {n}	0001-01-01 00:00:00	0
+to murmur	murmeln	0001-01-01 00:00:00	0
+mug	Becher {m} [bes. mit Henkel]	0001-01-01 00:00:00	0
+to sow	säen	0001-01-01 00:00:00	0
+vet [esp. Br.]	Tierarzt {m} <TA>	0001-01-01 00:00:00	0
+to swirl	strudeln	0001-01-01 00:00:00	0
+stroll	Spaziergang {m}	0001-01-01 00:00:00	0
+gnat	Mücke {f}	0001-01-01 00:00:00	0
+waistcoat [Br.]	Weste {f}	0001-01-01 00:00:00	0
+culprit	Täter {m}	0001-01-01 00:00:00	0
+rutabaga [Am.]	Steckrübe {f}	0001-01-01 00:00:00	0
+gullet	Speiseröhre {f}	0001-01-01 00:00:00	0
+sinew	Sehne {f}	0001-01-01 00:00:00	0
+streak	Strähne {f} [Glücks-, Pech-, Haar-]	0001-01-01 00:00:00	0
+ravine	Schlucht {f}	0001-01-01 00:00:00	0
+to sweep [with a broom] [also move fast]	fegen	0001-01-01 00:00:00	0
+to pummel	verprügeln	0001-01-01 00:00:00	0
+tub	Wanne {f}	0001-01-01 00:00:00	0
+dandelion [Taraxacum officinale]	Löwenzahn {m}	0001-01-01 00:00:00	0
+match [matchstick]	Streichholz {n}	0001-01-01 00:00:00	0
+grooming	Körperpflege {f}	0001-01-01 00:00:00	0
+to hover	schweben	0001-01-01 00:00:00	0
+closet [esp. Am.]	Wandschrank {m}	0001-01-01 00:00:00	0
+expiration date	Ablaufdatum {n} [österr.] [Haltbarkeitsdatum]	0001-01-01 00:00:00	0
+to mourn	trauern	0001-01-01 00:00:00	0
+bounty	Belohnung {f}	0001-01-01 00:00:00	0
+tinfoil	Alufolie {f} [ugs.]	0001-01-01 00:00:00	0
+barbell	Hantel {f} [groß, für beide Arme]	0001-01-01 00:00:00	0
+to crouch	hocken	0001-01-01 00:00:00	0
+to flick sth. on [switch]	etw. anknipsen [ugs.] [Schalter]	0001-01-01 00:00:00	0
+to stomp	stampfen	0001-01-01 00:00:00	0
+to toil	hart arbeiten	0001-01-01 00:00:00	0
+to wither	verwelken	0001-01-01 00:00:00	0
+pulp	Fruchtfleisch {n}	0001-01-01 00:00:00	0
+to tally	abhaken	0001-01-01 00:00:00	0
+to hop	hüpfen	0001-01-01 00:00:00	0
+peg	Wäscheklammer {f}	0001-01-01 00:00:00	0
+to shatter	zerbrechen	0001-01-01 00:00:00	0
+to plummet	abstürzen	0001-01-01 00:00:00	0
+to ignore sb.'s right of way	jdm. die Vorfahrt nehmen	0001-01-01 00:00:00	0
+crate	Kiste {f} [Lattenkiste, ugs.: Auto, Flugzeug]	0001-01-01 00:00:00	0
+pickle [Am.] [Can.] [pickled cucumber]	Essiggurke {f}	0001-01-01 00:00:00	0
+to honk [car horn]	hupen	0001-01-01 00:00:00	0
+fuse	Sicherung {f}	0001-01-01 00:00:00	0
+to tune	stimmen [Instrumente]	0001-01-01 00:00:00	0
+blob	Klecks {m}	0001-01-01 00:00:00	0
+prone [lying flat esp. face down]	liegend [in Bauchlage]	0001-01-01 00:00:00	0
+tart	Torte {f}	0001-01-01 00:00:00	0
+punch	Locher {m}	0001-01-01 00:00:00	0
+fringe [chiefly Br.]	Pony {m} [Frisur]	0001-01-01 00:00:00	0
+to trawl	mit dem Netz fischen	0001-01-01 00:00:00	0
+pawn [chess]	Bauer {m} [Schach]	0001-01-01 00:00:00	0
+pear [Pyrus communis] [common pear]	Birne {f}	0001-01-01 00:00:00	0
+hit and run	Fahrerflucht {f}	0001-01-01 00:00:00	0
+to blur (into sth.)	(zu etw.) verschwimmen	0001-01-01 00:00:00	0
+hose	Schlauch {m}	0001-01-01 00:00:00	0
+entrepreneur	Unternehmer {m}	0001-01-01 00:00:00	0
+to deceive	betrügen	0001-01-01 00:00:00	0
+beak	Schnabel {m}	0001-01-01 00:00:00	0
+intestine	Darm {m}	0001-01-01 00:00:00	0
+tally	Strichliste {f}	0001-01-01 00:00:00	0
+wheat [genus Triticum]	Weizen {m}	0001-01-01 00:00:00	0
+vinegar	Essig {m}	0001-01-01 00:00:00	0
+funnel	Trichter {m}	0001-01-01 00:00:00	0
+mainframe	Großrechner {m}	0001-01-01 00:00:00	0
+sober	nüchtern [nicht alkoholisiert] [auch: ernst, vernünftig, schlicht]	0001-01-01 00:00:00	0
+fuse	Zünder {m}	0001-01-01 00:00:00	0
+black eye	blaues Auge {n}	0001-01-01 00:00:00	0
+to wad	zusammenknüllen	0001-01-01 00:00:00	0
+to fudge sth. [falsify, manipulate]	etw. fälschen [manipulieren, frisieren]	0001-01-01 00:00:00	0
+to squat	hocken	0001-01-01 00:00:00	0
+to choke	ersticken	0001-01-01 00:00:00	0
+to lag	nachhinken	0001-01-01 00:00:00	0
+streak	Streifen {m}	0001-01-01 00:00:00	0
+spread	Brotaufstrich {m}	0001-01-01 00:00:00	0
+faucet [Am.] [water faucet]	Wasserhahn {m}	0001-01-01 00:00:00	0
+to scratch oneself	sich kratzen	0001-01-01 00:00:00	0
+to recover	(wieder) gesund werden	0001-01-01 00:00:00	0
+sermon	Predigt {f}	0001-01-01 00:00:00	0
+internship	Praktikum {n}	0001-01-01 00:00:00	0
+cabbage	Kohl {m}	0001-01-01 00:00:00	0
+plumber	Klempner {m}	0001-01-01 00:00:00	0
+to furnish sth. [a room, etc.]	etw. einrichten [ein Zimmer etc.]	0001-01-01 00:00:00	0
+slate	Schiefer-	0001-01-01 00:00:00	0
+beam	Balken {m} [Holzbalken, Schwebebalken, an Waage]	0001-01-01 00:00:00	0
+gums {pl}	Zahnfleisch {n}	0001-01-01 00:00:00	0
+cloak	Umhang {m}	0001-01-01 00:00:00	0
+jigsaw (puzzle)	Puzzle {n}	0001-01-01 00:00:00	0
+to staple [with a tacker]	tackern [ugs.]	0001-01-01 00:00:00	0
+gill	Kieme {f}	0001-01-01 00:00:00	0
+hinge	Scharnier {n}	0001-01-01 00:00:00	0
+foam	Schaum {m}	0001-01-01 00:00:00	0
+suds [mostly foam]	Schaum {m} [Seifenschaum, Waschlauge]	0001-01-01 00:00:00	0
+purse [for carrying money]	Geldbeutel {m}	0001-01-01 00:00:00	0
+obituary	Todesanzeige {f}	0001-01-01 00:00:00	0
+honeymoon {sg}	Flitterwochen {pl}	0001-01-01 00:00:00	0
+to give a jump	zusammenzucken	0001-01-01 00:00:00	0
+petal	Blumenblatt {n}	0001-01-01 00:00:00	0
+mucus	Schleim {m}	0001-01-01 00:00:00	0
+robin	Rotkehlchen {n}	0001-01-01 00:00:00	0
+to scoop	ausschöpfen	0001-01-01 00:00:00	0
+daisy [Bellis perennis]	Gänseblümchen {n}	0001-01-01 00:00:00	0
+to sprout	aufkeimen	0001-01-01 00:00:00	0
+to abide by sth.	sich an etw. [Akk.] halten [etw. befolgen]	0001-01-01 00:00:00	0
+to blend	mischen	0001-01-01 00:00:00	0
+to shun sb./sth.	jdn./etw. meiden	0001-01-01 00:00:00	0
+envelope	Briefumschlag {m}	0001-01-01 00:00:00	0
+pushups [Am.]	Liegestütze {pl}	0001-01-01 00:00:00	0
+platypus [Ornithorhynchus anatinus]	Schnabeltier {n}	0001-01-01 00:00:00	0
+to itch	jucken	0001-01-01 00:00:00	0
+vessel [also anat., bot.]	Gefäß {n} [auch anat., bot.]	0001-01-01 00:00:00	0
+furnace	Ofen {m}	0001-01-01 00:00:00	0
+Stay healthy.	Bleib gesund.	0001-01-01 00:00:00	0
+forefinger	Zeigefinger {m}	0001-01-01 00:00:00	0
+mainstay	Standbein {n}	0001-01-01 00:00:00	0
+rodent	Nagetier {n}	0001-01-01 00:00:00	0
+peg	Haken {m} [Kleiderhaken]	0001-01-01 00:00:00	0
+pulp	Brei {m}	0001-01-01 00:00:00	0
+vial	Ampulle {f}	0001-01-01 00:00:00	0
+to tilt	kippen	0001-01-01 00:00:00	0
+heir	Erbe {m}	0001-01-01 00:00:00	0
+bong	Wasserpfeife {f} [für Haschisch]	0001-01-01 00:00:00	0
+ottoman	Sitzkissen {n}	0001-01-01 00:00:00	0
+lightsaber [Am.] [Star Wars]	Lichtschwert {n}	0001-01-01 00:00:00	0
+stent	Lumenspirale {f} [für Arterien]	0001-01-01 00:00:00	0
+immersion	Vertiefung {f}	0001-01-01 00:00:00	0
+to garnish	garnieren	0001-01-01 00:00:00	0
+embassy	Botschaft {f}	0001-01-01 00:00:00	0
+buttercup [genus Ranunculus]	Hahnenfuß {m}	0001-01-01 00:00:00	0
+pelvic	Becken-	0001-01-01 00:00:00	0
+gorge	Schlucht {f}	0001-01-01 00:00:00	0
+skit [act]	Nummer {f} [Sketch]	0001-01-01 00:00:00	0
+cider	Apfelwein {m}	0001-01-01 00:00:00	0
+cradle	Wiege {f}	0001-01-01 00:00:00	0
+cathode ray tube <CRT>	Röhrenbildschirm {m}	0001-01-01 00:00:00	0
+to flout	missachten [Befehl]	0001-01-01 00:00:00	0
+magpie [Pica pica]	Elster {f}	0001-01-01 00:00:00	0
+to purge	reinigen	0001-01-01 00:00:00	0
+lilac [genus Syringa]	Flieder {m}	0001-01-01 00:00:00	0
+jack hammer	Anschlaghammer {m}	0001-01-01 00:00:00	0
+dime [Am.] [Can.]	Zehncentstück {n} [Dollar]	0001-01-01 00:00:00	0
+centipede [any of the class Chilopoda] [coll. also: thousand legger]	Tausendfüßer {m} [ugs.] [Hundertfüßer (Klasse)]	0001-01-01 00:00:00	0
+bolt [thunderbolt]	Blitz {m}	0001-01-01 00:00:00	0
+checkered  [Am.]	kariert	0001-01-01 00:00:00	0
+sheets [bedlinen]	Laken {pl}	0001-01-01 00:00:00	0
+carpet	Teppich {m}	0001-01-01 00:00:00	0
+jug	Krug {m}	0001-01-01 00:00:00	0
+roster [duty roster]	Dienstplan {m}	0001-01-01 00:00:00	0
+to blow-dry one's hair	sich [Dat.] die Haare mit dem Föhn trocknen	0001-01-01 00:00:00	0
+to hobble	humpeln	0001-01-01 00:00:00	0
+flock	Herde {f} [Schafherde]	0001-01-01 00:00:00	0
+bile	Galle {f} [Flüssigkeit]	0001-01-01 00:00:00	0
+to rack sb.	jdn. foltern	0001-01-01 00:00:00	0
+grasp	Griff {m} [Handgriff]	0001-01-01 00:00:00	0
+to veer [wind]	drehen [Wind]	0001-01-01 00:00:00	0
+abyss	Abgrund {m}	0001-01-01 00:00:00	0
+grub	Larve {f} [Insekt]	0001-01-01 00:00:00	0
+mermaid	Meerjungfrau {f}	0001-01-01 00:00:00	0
+swamp	Sumpf {m}	0001-01-01 00:00:00	0
+jowl [cheek, fold of flesh]	Wange {f} [bes. hängende Wange, Hängebacke]	0001-01-01 00:00:00	0
+vessel	Schiff {n}	0001-01-01 00:00:00	0
+to crush	zerdrücken	0001-01-01 00:00:00	0
+India ink [Am.]	Tusche {f}	0001-01-01 00:00:00	0
+to flatter sb.	jdm. schmeicheln [auch Farbe, Licht etc.]	0001-01-01 00:00:00	0
+wedge	Keil {m}	0001-01-01 00:00:00	0
+pavement [Br.] [footpath]	Bürgersteig {m}	0001-01-01 00:00:00	0
+cemetery	Friedhof {m}	0001-01-01 00:00:00	0
+chore	Hausarbeit {f}	0001-01-01 00:00:00	0
+to rummage	durchstöbern	0001-01-01 00:00:00	0
+torso	Oberkörper {m}	0001-01-01 00:00:00	0
+stuffed	ausgestopft	0001-01-01 00:00:00	0
+raid	Angriff {m}	0001-01-01 00:00:00	0
+to shun sth.	etw. scheuen [Licht, Menschen]	0001-01-01 00:00:00	0
+to hint at sth.	auf etw. hinweisen	2017-08-13 21:15:37.663588	1
+to zest	würzen	2017-08-13 22:00:39.990331	1
+to tickle	kitzeln	2017-08-13 21:32:38.545829	1
+yeast [attr.]	Hefe-	2017-08-13 21:23:38.075240	1
+rake	Harke {f} [bes. nordd.]	2017-08-13 21:18:37.787773	1
+clover [genus Trifolium]	Klee {m}	2017-08-13 21:26:38.249594	1
+wasteland	Einöde {f}	2017-08-13 21:17:37.728684	1
+well [water well, fountain]	Brunnen {m}	2017-08-13 22:05:40.263203	1
+yeast	Hefe {f}	2017-08-13 22:27:41.221191	1
+spire	Spitze {f} [eines Daches, Turms]	2017-08-13 22:28:41.283715	1
+lather	Seifenschaum {m}	2017-08-13 21:11:37.514621	1
+stiff	steif	2017-08-13 21:27:38.296472	1
+ridge	Kamm {m} [Gebirgskamm]	2017-08-13 22:30:41.393038	1
+to cuddle	kuscheln	2017-08-13 21:02:37.098920	1
+to flush [rinse]	hinunterspülen	2017-08-13 22:10:40.436022	1
+to craze	verrückt machen	2017-08-13 21:05:37.235238	1
+to bust	sprengen	2017-08-13 21:29:38.399163	1
+to smirk	schmunzeln	2017-08-13 21:33:38.567475	1
+to squash	zerquetschen	2017-08-13 21:20:37.889404	1
+to snap [fingers]	schnipsen	2017-08-13 22:02:40.089180	1
+gem	Edelstein {m}	2017-08-13 21:58:39.911695	1
+collar	Kragen {m}	2017-08-13 21:37:38.771957	1
+lopsided	schief	2017-08-13 21:10:37.453457	1
