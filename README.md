@@ -1,7 +1,7 @@
 Offline Dict Trainer
 ====================
 
-For people like me who have collected a lot of vocabulary on [dict.cc](www.dict.cc)
+For people like me who have collected a lot of vocabulary on [dict.cc](http://www.dict.cc)
 and want to actually learn it. This, I suppose, is best done offline with
 regular reminders popping up every 5 minutes, or so.
 
