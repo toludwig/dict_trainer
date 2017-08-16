@@ -15,7 +15,7 @@ class DictDownloader:
         payload["kunz"] = self.account_data["pass"]
         payload["rmotc"] = "on"
         p = self.session.post(login_URL, data=payload)
-        print(p.text) # TEST
+        print(p)
 
     def download_list(self, remote):
         with self.session as s:

@@ -1,637 +1,720 @@
-culpable	strafbar	0001-01-01 00:00:00	0
-to facilitate	erleichtern	0001-01-01 00:00:00	0
-bulky	sperrig	0001-01-01 00:00:00	0
-gracious [courteous, kind]	liebenswürdig [höflich, freundlich]	0001-01-01 00:00:00	0
-to stifle sth. [a discussion, a debate, etc.]	etw. abwürgen [ugs.] [eine Diskussion, eine Debatte etc.]	0001-01-01 00:00:00	0
-tenure [office period]	Amtszeit {f}	0001-01-01 00:00:00	0
-boar	Wildschwein {n}	0001-01-01 00:00:00	0
-rapt [in contemplation, thought etc.]	versunken [vertieft]	0001-01-01 00:00:00	0
-gist	Wesentliches {n}	0001-01-01 00:00:00	0
-whimsical	skurril	0001-01-01 00:00:00	0
-archetype	Urform {f}	0001-01-01 00:00:00	0
-of late	kürzlich	0001-01-01 00:00:00	0
-credence	Glaube {m}	0001-01-01 00:00:00	0
-sincere	aufrichtig	0001-01-01 00:00:00	0
-wily	hinterlistig	0001-01-01 00:00:00	0
-to relay	übermitteln	0001-01-01 00:00:00	0
-dominion	Herrschaft {f}	0001-01-01 00:00:00	0
-prospect	Aussicht {f}	0001-01-01 00:00:00	0
-to relegate	verbannen	0001-01-01 00:00:00	0
-syllabus	Lehrplan {m}	0001-01-01 00:00:00	0
-to assess	einschätzen	0001-01-01 00:00:00	0
-banter	Neckerei {f}	0001-01-01 00:00:00	0
-contagious [disease; laughter, yawn]	ansteckend	0001-01-01 00:00:00	0
-to stand pat [esp. Am.]	stur bleiben [bei seiner Meinung oder Entscheidung bleiben]	0001-01-01 00:00:00	0
-oddball [attr.] [coll.]	schrullig	0001-01-01 00:00:00	0
-commitment [obligation]	Verpflichtung {f}	0001-01-01 00:00:00	0
-makeshift	provisorisch	0001-01-01 00:00:00	0
-squarely	direkt	0001-01-01 00:00:00	0
-belligerence	Streitlust {f}	0001-01-01 00:00:00	0
-alleged	angeblich	0001-01-01 00:00:00	0
-assertiveness	Durchsetzungsvermögen {n}	0001-01-01 00:00:00	0
-slope	Steigung {f}	0001-01-01 00:00:00	0
-to divine sth. [guess]	etw. erraten	0001-01-01 00:00:00	0
-stint [workload]	Arbeitspensum {n}	0001-01-01 00:00:00	0
-pervasive	tiefgreifend	0001-01-01 00:00:00	0
-to retire	zurücktreten	0001-01-01 00:00:00	0
-per capita	pro Kopf	0001-01-01 00:00:00	0
-at will	absichtlich	0001-01-01 00:00:00	0
-tangible	handfest	0001-01-01 00:00:00	0
-putrid	verdorben	0001-01-01 00:00:00	0
-to percolate	durchsickern [auch fig.]	0001-01-01 00:00:00	0
-peek	kurzer Blick {m}	0001-01-01 00:00:00	0
-bemused	verwirrt	0001-01-01 00:00:00	0
-to pledge sth. [promise]	etw. versprechen	0001-01-01 00:00:00	0
-to grasp [understand]	begreifen	0001-01-01 00:00:00	0
-country lore	Bauernregel {f}	0001-01-01 00:00:00	0
-pernickety  [Br.]	penibel	0001-01-01 00:00:00	0
-hoax	Falschmeldung {f}	0001-01-01 00:00:00	0
-to shoo sb./sth.	jdn./etw. scheuchen	0001-01-01 00:00:00	0
-intellectual edifice	Denkgebäude {n}	0001-01-01 00:00:00	0
-fiend	Feind {m}	0001-01-01 00:00:00	0
-astute	scharfsinnig	0001-01-01 00:00:00	0
-commencement [graduation ceremony]	Abschlussfeier {f}	0001-01-01 00:00:00	0
-streak [characteristic]	Charakterzug {m}	0001-01-01 00:00:00	0
-vicious	böse	0001-01-01 00:00:00	0
-man-month	Arbeitsmonat {m}	0001-01-01 00:00:00	0
-to menace sb.	jdn. bedrohen	0001-01-01 00:00:00	0
-sorcery	Hexerei {f}	0001-01-01 00:00:00	0
-primeval soup	Ursuppe {f}	0001-01-01 00:00:00	0
-diehard	hartnäckig	0001-01-01 00:00:00	0
-plight	Notlage {f}	0001-01-01 00:00:00	0
-puffy	geschwollen	0001-01-01 00:00:00	0
-breach	Bruch {m} [z. B. des Vertrauens]	0001-01-01 00:00:00	0
-indelible	unauslöschlich	0001-01-01 00:00:00	0
-like-minded	gleichgesinnt	0001-01-01 00:00:00	0
-to endorse	bestätigen	0001-01-01 00:00:00	0
-grievance	Missstand {m}	0001-01-01 00:00:00	0
-to gleam [metal]	schimmern [Metall]	0001-01-01 00:00:00	0
-fudge	Fälschung {f} [Schummelei, Frisieren von Büchern]	0001-01-01 00:00:00	0
-apprentice	Lehrling {m}	0001-01-01 00:00:00	0
-avocation	Nebenbeschäftigung {f}	0001-01-01 00:00:00	0
-mayhem	Chaos {n}	0001-01-01 00:00:00	0
-impervious	unempfindlich	0001-01-01 00:00:00	0
-naughty	ungezogen	0001-01-01 00:00:00	0
-to gleam	glänzen	0001-01-01 00:00:00	0
-invaluable	unschätzbar	0001-01-01 00:00:00	0
-voracious	unersättlich	0001-01-01 00:00:00	0
-congestion	Stau {m}	0001-01-01 00:00:00	0
-to soar	aufsteigen	0001-01-01 00:00:00	0
-by profession	von Beruf	0001-01-01 00:00:00	0
-greedily	gierig	0001-01-01 00:00:00	0
-austere [severely plain]	nüchtern [asketisch, schmucklos, karg]	0001-01-01 00:00:00	0
-echelon form	Stufenform {f}	0001-01-01 00:00:00	0
-charitable [public benefit]	gemeinnützig	0001-01-01 00:00:00	0
-frantic	krampfhaft [angestrengt, verzweifelt]	0001-01-01 00:00:00	0
-to surmise	vermuten	0001-01-01 00:00:00	0
-compassion	Mitleid {n}	0001-01-01 00:00:00	0
-to sustain	aufrechterhalten	0001-01-01 00:00:00	0
-bogus	betrügerisch	0001-01-01 00:00:00	0
-notch [point, degree]	Stufe {f} [fig.]	0001-01-01 00:00:00	0
-to elicit sth.	etw. hervorrufen	0001-01-01 00:00:00	0
-exhaustive	vollständig	0001-01-01 00:00:00	0
-eponymous	gleichnamig	0001-01-01 00:00:00	0
-policy [set of rules, regulations]	Regelwerk {n}	0001-01-01 00:00:00	0
-mutual [reciprocal]	gegenseitig	0001-01-01 00:00:00	0
-hallmark	Kennzeichen {n} [für Qualität]	0001-01-01 00:00:00	0
-to abet	aufhetzen	0001-01-01 00:00:00	0
-impeccable	einwandfrei	0001-01-01 00:00:00	0
-umbrella term	Sammelbezeichnung {f}	0001-01-01 00:00:00	0
-full stop [Br.]	Punkt {m} [Satzzeichen]	0001-01-01 00:00:00	0
-vital	unverzichtbar	0001-01-01 00:00:00	0
-vigilance	Wachsamkeit {f}	0001-01-01 00:00:00	0
-[to ruminate]	wiederkauen [FALSCH für: wiederkäuen]	0001-01-01 00:00:00	0
-peculiar [strange, odd]	seltsam	0001-01-01 00:00:00	0
-to vindicate	rechtfertigen	0001-01-01 00:00:00	0
-to groove sth. [make a groove in]	etw. einkerben	0001-01-01 00:00:00	0
-replete	satt [gesättigt]	0001-01-01 00:00:00	0
-felicitous	gelungen	0001-01-01 00:00:00	0
-to pacify	beruhigen	0001-01-01 00:00:00	0
-hibernation	Winterschlaf {m}	0001-01-01 00:00:00	0
-vignette	Charakterskizze {f}	0001-01-01 00:00:00	0
-to mortify sb.	jdn. demütigen	0001-01-01 00:00:00	0
-epiphany	Erleuchtung {f}	0001-01-01 00:00:00	0
-presumably	vermutlich	0001-01-01 00:00:00	0
-diamonds {pl} [sometimes treated as sg.] [card suit]	Karo {n} [meist ohne Artikel] [Farbe im französischen Blatt]	0001-01-01 00:00:00	0
-eligible	berechtigt	0001-01-01 00:00:00	0
-debris {sg}	Trümmer {pl}	0001-01-01 00:00:00	0
-exuberant	ausgelassen	0001-01-01 00:00:00	0
-to prune	zurechtstutzen	0001-01-01 00:00:00	0
-inane	dumm	0001-01-01 00:00:00	0
-bounteous [archaic]	reichlich	0001-01-01 00:00:00	0
-to leverage	aushebeln	0001-01-01 00:00:00	0
-lattice	Gitter {n}	0001-01-01 00:00:00	0
-to elucidate	erläutern	0001-01-01 00:00:00	0
-casual	lässig	0001-01-01 00:00:00	0
-repercussion	Auswirkung {f}	0001-01-01 00:00:00	0
-combustion	Verbrennung {f}	0001-01-01 00:00:00	0
-salience	Hervorspringen {n}	0001-01-01 00:00:00	0
-indecent	anstößig [unanständig]	0001-01-01 00:00:00	0
-to be fond of sb.	jdn. lieb haben	0001-01-01 00:00:00	0
-meticulous	sorgfältig	0001-01-01 00:00:00	0
-to decoy	anlocken	0001-01-01 00:00:00	0
-entirety	Gesamtheit {f}	0001-01-01 00:00:00	0
-soothing	beruhigend	0001-01-01 00:00:00	0
-primacy	Vorrang {m}	0001-01-01 00:00:00	0
-to tout [frequently pej.: advertise]	werben [Reklame machen, propagieren]	0001-01-01 00:00:00	0
-vigilant	wachsam	0001-01-01 00:00:00	0
-censorship	Zensur {f}	0001-01-01 00:00:00	0
-pristine	makellos	0001-01-01 00:00:00	0
-sleazy	schäbig	0001-01-01 00:00:00	0
-eloquent	redegewandt	0001-01-01 00:00:00	0
-stampede	Massenpanik {f}	0001-01-01 00:00:00	0
-to intrigue sb. [fascinate sb.]	jdn. faszinieren	0001-01-01 00:00:00	0
-to assent	zustimmen	0001-01-01 00:00:00	0
-to conflate	verschmelzen	0001-01-01 00:00:00	0
-overly	übermäßig	0001-01-01 00:00:00	0
-primordial	ursprünglich	0001-01-01 00:00:00	0
-tedious	nervtötend [langweilig]	0001-01-01 00:00:00	0
-allusion	Anspielung {f}	0001-01-01 00:00:00	0
-to negotiate	verhandeln	0001-01-01 00:00:00	0
-to avenge	rächen	0001-01-01 00:00:00	0
-blooper	Versprecher {m}	0001-01-01 00:00:00	0
-enrichment	Bereicherung {f}	0001-01-01 00:00:00	0
-scarce	knapp	0001-01-01 00:00:00	0
-adamant	hartnäckig	0001-01-01 00:00:00	0
-vernal	Frühlings-	0001-01-01 00:00:00	0
-stinging [also pain]	stechend [auch Schmerz]	0001-01-01 00:00:00	0
-curfew	Ausgangssperre {f}	0001-01-01 00:00:00	0
-to rebut	entkräften	0001-01-01 00:00:00	0
-to comprise	beinhalten	0001-01-01 00:00:00	0
-obnoxious	widerlich	0001-01-01 00:00:00	0
-delicate [sensitive]	empfindlich	0001-01-01 00:00:00	0
-cue	Stichwort {n}	0001-01-01 00:00:00	0
-to clobber sth. [to overwrite data]	etw. überschreiben [normalerweise unabsichtlich]	0001-01-01 00:00:00	0
-mania	Wahnsinn {m}	0001-01-01 00:00:00	0
-hereafter	im Folgenden	0001-01-01 00:00:00	0
-reimbursements	Rückerstattungen {pl}	0001-01-01 00:00:00	0
-avid [assiduous]	eifrig [begeistert, passioniert]	0001-01-01 00:00:00	0
-mock	Pseudo-	0001-01-01 00:00:00	0
-fairy tale	Fabel {f}	0001-01-01 00:00:00	0
-cursory	oberflächlich	0001-01-01 00:00:00	0
-to splash	spritzen	0001-01-01 00:00:00	0
-fatigue	Ermüdung {f}	0001-01-01 00:00:00	0
-inclined	geneigt	0001-01-01 00:00:00	0
-verbatim	wortwörtlich	0001-01-01 00:00:00	0
-polyglot	mehrsprachig	0001-01-01 00:00:00	0
-buzzword	Modewort {n}	0001-01-01 00:00:00	0
-nought	Null {f}	0001-01-01 00:00:00	0
-internship	Praktikum {n}	0001-01-01 00:00:00	0
-to dub	nennen	0001-01-01 00:00:00	0
-tantalizing	verlockend	0001-01-01 00:00:00	0
-to prosper	gedeihen [florieren]	2017-01-01 00:00:00	0
-adjacent (side) [of a right-angled triangle]	Ankathete {f}	0001-01-01 00:00:00	0
-terse	knapp	0001-01-01 00:00:00	0
-reprieve	Atempause {f} [fig.]	0001-01-01 00:00:00	0
-to stymie	hindern	0001-01-01 00:00:00	0
-to prevail [in numbers etc.]	überwiegen	0001-01-01 00:00:00	0
-to retire	in Rente gehen	0001-01-01 00:00:00	0
-versed	bewandert	0001-01-01 00:00:00	0
-unalloyed [pure]	rein [pur, völlig]	0001-01-01 00:00:00	0
-to withdraw sth. [e.g. offer]	etw. zurückziehen [z. B. Angebot]	0001-01-01 00:00:00	0
-to weasel (out)	sich herauswinden [aus einer unangenehmen, heiklen Lage]	0001-01-01 00:00:00	0
-punctual	pünktlich	0001-01-01 00:00:00	0
-to gloss sth.	etw. erläutern [ein Wort oder einen Ausdruck]	0001-01-01 00:00:00	0
-scant	knapp	0001-01-01 00:00:00	0
-to vouch	verbürgen	0001-01-01 00:00:00	0
-indulgence	Genuss {m}	0001-01-01 00:00:00	0
-to revolve	umkreisen	0001-01-01 00:00:00	0
-rigid	starr	0001-01-01 00:00:00	0
-sth. is borne out [e. g. a guess]	etw. erhärtet sich [fig.] [z. B. eine Vermutung ]	0001-01-01 00:00:00	0
-to ratify	bestätigen	0001-01-01 00:00:00	0
-seduction	Verführung {f}	0001-01-01 00:00:00	0
-to spawn sth. [to give rise to]	hervorbringen [etw. entstehen lassen]	0001-01-01 00:00:00	0
-acute [shrewd]	scharfsinnig	0001-01-01 00:00:00	0
-to commit sb. to sth.	jdn. zu etw. verpflichten	0001-01-01 00:00:00	0
-to retail	wiederverkaufen	0001-01-01 00:00:00	0
-sated	satt [Essen]	0001-01-01 00:00:00	0
-relentless	unbarmherzig	0001-01-01 00:00:00	0
-to jibe at sb.	jdn. verhöhnen	0001-01-01 00:00:00	0
-to vanish	verschwinden	0001-01-01 00:00:00	0
-benefit	Nutzen {m}	0001-01-01 00:00:00	0
-toil	Mühe {f}	0001-01-01 00:00:00	0
-to endeavor (to) [Am.]	streben (nach)	0001-01-01 00:00:00	0
-to succumb	unterliegen	0001-01-01 00:00:00	0
-agreeable [pleasant]	angenehm	0001-01-01 00:00:00	0
-to contemplate	nachdenken	0001-01-01 00:00:00	0
-to plummet	abstürzen	0001-01-01 00:00:00	0
-to evade	ausweichen	0001-01-01 00:00:00	0
-parlance	Jargon {m}	0001-01-01 00:00:00	0
-to sustain	erleiden	0001-01-01 00:00:00	0
-putrid	faulig	0001-01-01 00:00:00	0
-to choke	ersticken	0001-01-01 00:00:00	0
-deterrent	abschreckend	0001-01-01 00:00:00	0
-to dare sb. [challenge]	jdn. herausfordern	0001-01-01 00:00:00	0
-cheerful	gut gelaunt	0001-01-01 00:00:00	0
-compelling	zwingend	0001-01-01 00:00:00	0
-catchy  [name, tune]	einprägsam	0001-01-01 00:00:00	0
-avail	Nutzen {m}	0001-01-01 00:00:00	0
-rotten	verfault	0001-01-01 00:00:00	0
-hurdle	Hindernis {n}	0001-01-01 00:00:00	0
-snob	Wichtigtuer {m}	0001-01-01 00:00:00	0
-indulgence	Schwäche {f}	0001-01-01 00:00:00	0
-vocation	Berufung {f}	0001-01-01 00:00:00	0
-to incline	tendieren	0001-01-01 00:00:00	0
-austere  [ascetic]	asketisch	0001-01-01 00:00:00	0
-fond	verliebt	0001-01-01 00:00:00	0
-grumpy	mürrisch	0001-01-01 00:00:00	0
-rear	hintere	0001-01-01 00:00:00	0
-to remedy	abhelfen	0001-01-01 00:00:00	0
-contraception	Verhütung {f} [Schwangerschaftsverhütung]	0001-01-01 00:00:00	0
-stone-cold	eiskalt	0001-01-01 00:00:00	0
-to affirm	behaupten	0001-01-01 00:00:00	0
-to draw on sth.	auf etw. zurückgreifen	0001-01-01 00:00:00	0
-sinister	finster	0001-01-01 00:00:00	0
-apophenia	Apophänie {f}	0001-01-01 00:00:00	0
-culmination	Höhepunkt {m}	0001-01-01 00:00:00	0
-to revise	überarbeiten	0001-01-01 00:00:00	0
-traffic jam	Stau {m}	0001-01-01 00:00:00	0
-hoax	Schwindel {m}	0001-01-01 00:00:00	0
-endowment	Ausstattung {f} [Aussteuer]	0001-01-01 00:00:00	0
-to flake	abplatzen	0001-01-01 00:00:00	0
-to sustain	aushalten	0001-01-01 00:00:00	0
-prowess {sg} [skill]	Fähigkeiten {pl}	0001-01-01 00:00:00	0
-flush	bündig	0001-01-01 00:00:00	0
-to sue sb.	jdn. verklagen	0001-01-01 00:00:00	0
-to heed sb./sth.	jdn./etw. beachten	0001-01-01 00:00:00	0
-acuity	Schärfe {f} [Bild, Sehen]	0001-01-01 00:00:00	0
-to fudge sth. [falsify, manipulate]	etw. fälschen [manipulieren, frisieren]	0001-01-01 00:00:00	0
-endowment	Begabung {f}	0001-01-01 00:00:00	0
-to adorn	zieren	0001-01-01 00:00:00	0
-misogynous	misogyn [geh.] [frauenfeindlich]	0001-01-01 00:00:00	0
-inconclusive	ergebnislos	0001-01-01 00:00:00	0
-to maim	verstümmeln	0001-01-01 00:00:00	0
-to hone	verbessern	0001-01-01 00:00:00	0
-fierce	heftig	0001-01-01 00:00:00	0
-precursor	Vorläufer {m}	0001-01-01 00:00:00	0
-immaculate	makellos	0001-01-01 00:00:00	0
-homage	Huldigung {f}	0001-01-01 00:00:00	0
-endowment	Stiftung {f}	0001-01-01 00:00:00	0
-to incubate	ausbrüten	0001-01-01 00:00:00	0
-to undermine sth. [fig.] [e.g. sb.'s reputation]	etw. untergraben [z. B. jds. Ruf]	0001-01-01 00:00:00	0
-convolute	zusammengerollt	0001-01-01 00:00:00	0
-mortgage	Hypothek {f}	0001-01-01 00:00:00	0
-merit	Verdienst {n} [Anspruch auf Anerkennung]	0001-01-01 00:00:00	0
-prodigy	Wunderkind {n}	0001-01-01 00:00:00	0
-backlash	Rückwirkung {f}	0001-01-01 00:00:00	0
-defeasible	anfechtbar	0001-01-01 00:00:00	0
-capricious	launisch	0001-01-01 00:00:00	0
-obsolete <obs.> [No longer in use, and no longer likely to be understood. Obsolete is a stronger term than archaic, and a much stronger term than dated.]	veraltet	0001-01-01 00:00:00	0
-friction	Reibung {f} [auch fig.]	0001-01-01 00:00:00	0
-texture	Beschaffenheit {f}	0001-01-01 00:00:00	0
-contract	Vertrag {m}	0001-01-01 00:00:00	0
-to combat	bekämpfen	0001-01-01 00:00:00	0
-stamina	Ausdauer {f}	0001-01-01 00:00:00	0
-salient [conspicuous, prominent]	auffällig	0001-01-01 00:00:00	0
-to malinger	Krankheit vortäuschen	0001-01-01 00:00:00	0
-to assess sth. [evaluate, judge]	etw. beurteilen	0001-01-01 00:00:00	0
-histrionic	theatralisch	0001-01-01 00:00:00	0
-adjacent	angrenzend	0001-01-01 00:00:00	0
-to covenant	vereinbaren	0001-01-01 00:00:00	0
-wary	achtsam	0001-01-01 00:00:00	0
-tedious	langweilig	0001-01-01 00:00:00	0
-deft	geschickt	0001-01-01 00:00:00	0
-selfish	egoistisch	0001-01-01 00:00:00	0
-to boost sth. [strengthen, increase]	etw. antreiben [ankurbeln, verstärken]	0001-01-01 00:00:00	0
-to misfire	fehlschlagen	0001-01-01 00:00:00	0
-disposed	gesinnt	0001-01-01 00:00:00	0
-sorry [sad]	traurig	0001-01-01 00:00:00	0
-eloquence	Redegewandtheit {f}	0001-01-01 00:00:00	0
-circumference	Umfang {m}	0001-01-01 00:00:00	0
-grievance	Beschwerde {f}	0001-01-01 00:00:00	0
-detriment	Nachteil {m}	0001-01-01 00:00:00	0
-overbearing	anmaßend	0001-01-01 00:00:00	0
-nanite	Nanomaschine {f}	0001-01-01 00:00:00	0
-to deceive	betrügen	0001-01-01 00:00:00	0
-pidgin	Kauderwelsch {n} [aus mehreren Sprachen gemischte Sprache]	0001-01-01 00:00:00	0
-remedy	Heilmittel {n}	0001-01-01 00:00:00	0
-contemptuously <contempt.>	abwertend	0001-01-01 00:00:00	0
-echelon [level of command, responsibility etc.]	Rang {m} [in Hierarchie]	0001-01-01 00:00:00	0
-to graft	transplantieren	0001-01-01 00:00:00	0
-to confide	anvertrauen	0001-01-01 00:00:00	0
-hash <#> [esp. Br.]	Raute {f} <#>	0001-01-01 00:00:00	0
-to purport	behaupten	0001-01-01 00:00:00	0
-to loom	auftauchen	0001-01-01 00:00:00	0
-actuality	Wirklichkeit {f}	0001-01-01 00:00:00	0
-paralysis	Lähmung {f}	0001-01-01 00:00:00	0
-to fathom	ergründen	0001-01-01 00:00:00	0
-curse	Fluch {m}	0001-01-01 00:00:00	0
-to dissent	widersprechen	0001-01-01 00:00:00	0
-to condone sth.	etw. verzeihen	0001-01-01 00:00:00	0
-stake	Beteiligung {f}	0001-01-01 00:00:00	0
-meticulous	akribisch [geh.]	0001-01-01 00:00:00	0
-stubborn	hartnäckig	0001-01-01 00:00:00	0
-to rush	drängen	0001-01-01 00:00:00	0
-conceivably	denkbar	0001-01-01 00:00:00	0
-palsy	Lähmung {f}	0001-01-01 00:00:00	0
-mirage [something illusory]	Illusion {f}	0001-01-01 00:00:00	0
-adept	erfahren	0001-01-01 00:00:00	0
-myriad	unzählig	0001-01-01 00:00:00	0
-gimmick	Trick {m}	0001-01-01 00:00:00	0
-to tot up sth. [esp. Br.] [coll.]	etw. addieren [zusammenzählen]	0001-01-01 00:00:00	0
-dark horse	unbekanntes Rennpferd {n}	0001-01-01 00:00:00	0
-arduous	anstrengend	0001-01-01 00:00:00	0
-resurgent	wiederauflebend	0001-01-01 00:00:00	0
-tenet	Grundsatz {m}	0001-01-01 00:00:00	0
-concise	knapp	0001-01-01 00:00:00	0
-dashy	ins Auge fallend	0001-01-01 00:00:00	0
-exposure [burden]	Belastung {f} [durch Strahlen etc.]	0001-01-01 00:00:00	0
-defiance	Trotz {m}	0001-01-01 00:00:00	0
-grade point average <GPA> [Am.]	Durchschnittsnote {f}	0001-01-01 00:00:00	0
-lease	Miete {f}	0001-01-01 00:00:00	0
-perimeter	Umfang {m}	0001-01-01 00:00:00	0
-to reproach	vorwerfen	0001-01-01 00:00:00	0
-disapproval	Missbilligung {f}	0001-01-01 00:00:00	0
-wear and tear	Verschleiß {m}	0001-01-01 00:00:00	0
-to erode	zerfressen	0001-01-01 00:00:00	0
-squeamish	zimperlich [empfindlich]	0001-01-01 00:00:00	0
-to thaw	tauen	0001-01-01 00:00:00	0
-letter of intent	Willenserklärung {f}	0001-01-01 00:00:00	0
-onerous	beschwerlich	0001-01-01 00:00:00	0
-luddite	technikfeindlich	0001-01-01 00:00:00	0
-swift	schnell	0001-01-01 00:00:00	0
-seductive	verführerisch	0001-01-01 00:00:00	0
-indecisive [irresolute]	unentschlossen	0001-01-01 00:00:00	0
-smug [conceited]	eingebildet [selbstgefällig]	0001-01-01 00:00:00	0
-canny	pfiffig	0001-01-01 00:00:00	0
-to keep sth. up	etw. fortführen	0001-01-01 00:00:00	0
-thrust	Schub {m}	0001-01-01 00:00:00	0
-ubiquitous	allgegenwärtig	0001-01-01 00:00:00	0
-case in point	Paradebeispiel {n}	0001-01-01 00:00:00	0
-apocryphal	unecht [nicht wahr, nicht belegt]	0001-01-01 00:00:00	0
-faint	schwach	0001-01-01 00:00:00	0
-nexus	Verknüpfung {f}	0001-01-01 00:00:00	0
-lewd	anstößig	0001-01-01 00:00:00	0
-commitment [dedication, devotedness]	Hingabe {f}	0001-01-01 00:00:00	0
-presumptuous	anmaßend	0001-01-01 00:00:00	0
-affable	umgänglich	0001-01-01 00:00:00	0
-coarse	grob	0001-01-01 00:00:00	0
-akin	ähnlich	0001-01-01 00:00:00	0
-to defer	verschieben	0001-01-01 00:00:00	0
-gloss	Glanz {m}	0001-01-01 00:00:00	0
-wholesale [fig.]	umfassend [weitgehend]	0001-01-01 00:00:00	0
-angst-ridden	angstbeherrscht	0001-01-01 00:00:00	0
-pensive	nachdenklich	0001-01-01 00:00:00	0
-bovine	einfältig	0001-01-01 00:00:00	0
-overt	offenkundig	0001-01-01 00:00:00	0
-vertex	Ecke {f} [Knoten]	0001-01-01 00:00:00	0
-remorse	Reue {f}	0001-01-01 00:00:00	0
-leverage	Einfluss {m}	0001-01-01 00:00:00	0
-pervasive	beherrschend	0001-01-01 00:00:00	0
-to crave	ersehnen [geh.]	0001-01-01 00:00:00	0
-buoyancy [of liquid] [also fig.]	Auftrieb {m} [auch fig.]	0001-01-01 00:00:00	0
-pace ...	bei allem Respekt ... gegenüber	0001-01-01 00:00:00	0
-to veil	verbergen	0001-01-01 00:00:00	0
-stash	Versteck {n}	0001-01-01 00:00:00	0
-to bribe	bestechen	0001-01-01 00:00:00	0
-ever so slightly	ein klein wenig	0001-01-01 00:00:00	0
-tacitly	stillschweigend	0001-01-01 00:00:00	0
-vociferous	lautstark	0001-01-01 00:00:00	0
-whim	Laune {f} [Einfall, Grille]	0001-01-01 00:00:00	0
-indiscernible	unmerklich	0001-01-01 00:00:00	0
-to alleviate	lindern	0001-01-01 00:00:00	0
-polymath	Universalgelehrter {m}	0001-01-01 00:00:00	0
-wieldy	handlich	0001-01-01 00:00:00	0
-to exceed	überschreiten	0001-01-01 00:00:00	0
-to resume	fortsetzen	0001-01-01 00:00:00	0
-sumptuous	üppig [Ausstattung, Essen]	0001-01-01 00:00:00	0
-under the guise of sth.	unter dem Deckmantel von etw.	0001-01-01 00:00:00	0
-realm	Bereich {m}	0001-01-01 00:00:00	0
-tenure	Beschäftigungsdauer {f}	0001-01-01 00:00:00	0
-to staple [with a tacker]	tackern [ugs.]	0001-01-01 00:00:00	0
-peril	Gefahr {f}	0001-01-01 00:00:00	0
-ferocious	grausam	0001-01-01 00:00:00	0
-ossification [fig.]	Erstarrung {f} [fig.]	0001-01-01 00:00:00	0
-title of nobility	Adelsprädikat {n}	0001-01-01 00:00:00	0
-interim	zwischenzeitlich	0001-01-01 00:00:00	0
-to contemplate	beabsichtigen	0001-01-01 00:00:00	0
-commensurate	angemessen	0001-01-01 00:00:00	0
-zealous	eifrig	0001-01-01 00:00:00	0
-decoy	Köder {m}	0001-01-01 00:00:00	0
-to reify	verdinglichen	0001-01-01 00:00:00	0
-attenuation	Dämpfung {f}	0001-01-01 00:00:00	0
-superstition	Aberglaube {m} [pej.]	0001-01-01 00:00:00	0
-to attenuate	abschwächen	0001-01-01 00:00:00	0
-nifty  [coll.]	raffiniert	0001-01-01 00:00:00	0
-to appease	beschwichtigen	0001-01-01 00:00:00	0
-assessment	Beurteilung {f}	0001-01-01 00:00:00	0
-to churn	aufwühlen	0001-01-01 00:00:00	0
-pity	Mitleid {n}	0001-01-01 00:00:00	0
-to endorse	befürworten	0001-01-01 00:00:00	0
-to beacon	leiten [führen, den Weg weisen]	0001-01-01 00:00:00	0
-myopia	Kurzsichtigkeit {f} [auch fig.]	0001-01-01 00:00:00	0
-obsessive-compulsive disorder <OCD>	Zwangsstörung {f}	0001-01-01 00:00:00	0
-to confide in sb.	sich jdm. anvertrauen	0001-01-01 00:00:00	0
-ample	reichlich	0001-01-01 00:00:00	0
+assertiveness	Durchsetzungsvermögen {n}	2017-08-15 00:49:50.732437	1
+foremost	führend	2017-08-15 00:51:50.848960	1
+to conflate	verschmelzen	2017-08-15 00:52:50.909382	1
+precious	kostbar	2017-08-15 00:53:50.935436	1
+nexus	Verknüpfung {f}	2017-08-15 00:54:50.972378	1
+predilection	Vorliebe {f}	2017-08-15 00:55:51.016114	1
+indiscernible	unmerklich	2017-08-15 00:56:51.076602	1
+bounteous [archaic]	reichlich	2017-08-15 00:58:51.130698	1
+hibernation	Winterschlaf {m}	2017-08-15 00:59:51.182872	1
+conceivably	denkbar	2017-08-15 01:02:51.371204	1
+to allot	zuteilen	2017-08-15 01:03:51.429661	1
+vocation	Berufung {f}	2017-08-15 01:04:51.481050	1
+lease	Miete {f}	2017-08-15 01:06:51.582633	1
+check	Karo {n}	2017-08-15 01:07:51.641551	1
+hoax	Schwindel {m}	2017-08-15 01:16:52.116328	1
+undoing	Verderben {n}	2017-08-15 01:17:52.166554	1
+to undermine sth. [fig.] [e.g. sb.'s reputation]	etw. untergraben [z. B. jds. Ruf]	2017-08-15 01:20:52.344430	1
+to thwart	behindern	2017-08-15 01:22:52.434805	1
+adjacent	angrenzend	2017-08-15 01:24:52.544837	1
+to revolve	umkreisen	2017-08-15 01:27:52.681739	1
+to grasp [understand]	begreifen	2017-08-15 01:28:52.726038	1
+apex	Scheitelpunkt {m}	2017-08-15 01:29:52.745601	1
+tireless	unermüdlich	2017-08-15 01:31:52.860581	1
+under the guise of sth.	unter dem Deckmantel von etw.	2017-08-15 08:13:02.921233	1
+to conjure up sth.	etw. heraufbeschwören	2017-08-15 08:14:02.981412	1
+pervasive	beherrschend	2017-08-15 08:17:03.105741	1
+wieldy	handlich	2017-08-15 08:18:03.149493	1
+resurgent	wiederauflebend	2017-08-15 08:19:03.210490	1
+pristine	makellos	2017-08-15 17:48:14.991600	1
+smug [conceited]	eingebildet [selbstgefällig]	2017-08-15 17:49:15.054624	1
+tuition [esp. Am.] [tuition fee; of school]	Schulgeld {n}	2017-08-15 17:51:15.169114	1
+felicitous	gelungen	2017-08-15 17:52:15.231597	1
+scant	knapp	2017-08-15 17:53:15.319163	1
+verbose	wortreich	2017-08-15 17:54:15.379639	1
+roughshod	rücksichtslos	2017-08-15 17:55:15.436794	1
+to spawn sth. [to give rise to]	hervorbringen [etw. entstehen lassen]	2017-08-15 17:56:15.498474	1
+relentless	unbarmherzig	2017-08-15 17:57:15.503588	1
+exposure [burden]	Belastung {f} [durch Strahlen etc.]	2017-08-15 17:58:15.563594	1
+friction	Reibung {f} [auch fig.]	2017-08-15 18:00:15.663108	1
+to vindicate	rechtfertigen	2017-08-15 21:48:33.027446	1
+haphazard	willkürlich [wahllos, zufällig]	2017-08-15 21:50:33.039889	1
+tedious	nervtötend [langweilig]	2017-08-15 21:51:33.047027	1
+pejorative	abwertend	2017-08-15 21:52:33.104370	1
+notch [point, degree]	Stufe {f} [fig.]	2017-08-15 21:53:33.160547	1
+superstition	Aberglaube {m} [pej.]	2017-08-15 21:54:33.222286	1
+to reify	verdinglichen	2017-08-15 21:55:33.267706	1
+outage	Ausfall {m}	2017-08-15 21:56:33.287735	1
+limp	schlaff	2017-08-15 21:59:33.437818	1
+balmy	mild	2017-08-15 22:02:33.560457	1
+to veil	verbergen	2017-08-15 22:06:33.770353	1
+to take pains	sich [Dat.] Mühe geben	2017-08-15 22:11:34.014815	1
+leery	misstrauisch	2017-08-15 22:12:34.076488	1
+ample	reichlich	2017-08-15 22:13:34.135736	1
+to be fond of sb.	jdn. lieb haben	2017-08-15 22:14:34.183671	1
+texture	Beschaffenheit {f}	2017-08-15 22:15:34.220777	1
+stout [corpulent]	korpulent	2017-08-15 22:17:34.349423	1
+remedy	Heilmittel {n}	2017-08-15 22:18:34.407672	1
+overt	offenkundig	2017-08-15 22:19:35.540565	1
+delicate [sensitive]	empfindlich	2017-08-15 22:22:35.675376	1
+assessment	Beurteilung {f}	2017-08-15 22:23:35.734399	1
+vivisection [the cutting of or operation on a living animal usually for physiological or pathological investigation]	Tierversuch {m} [Eingriff am lebenden Tier zu wissenschaftl. Versuchszwecken]	2017-08-15 22:25:35.832537	1
+grubby	schmuddelig [ugs.]	2017-08-15 22:30:36.135565	1
+to weasel (out)	sich herauswinden [aus einer unangenehmen, heiklen Lage]	2017-08-15 22:32:36.175937	1
+to ratify	bestätigen	2017-08-15 22:34:36.286460	1
+rear	hintere	2017-08-15 22:40:36.615603	1
+to swoon [fade]	schwinden [geh.]	2017-08-15 22:42:36.734465	1
+to reproach	vorwerfen	2017-08-15 22:43:36.748542	1
+contagious [disease; laughter, yawn]	ansteckend	2017-08-15 22:44:36.784245	1
+impingement	Zusammenstoß {m}	2017-08-15 22:47:36.949557	1
+umbrella term	Sammelbezeichnung {f}	2017-08-15 22:49:37.020266	1
+suffrage	Wahlrecht {n}	2017-08-15 22:51:37.134446	1
+adamant	hartnäckig	2017-08-15 22:54:37.268606	1
+histrionic	theatralisch	2017-08-15 22:55:37.292220	1
+ossification [fig.]	Erstarrung {f} [fig.]	2017-08-15 22:57:37.420075	1
+to adorn	zieren	2017-08-15 22:58:37.478720	1
+to surmise	vermuten	2017-08-15 22:59:37.502924	1
+to despise	verachten	2017-08-15 23:01:37.609961	1
+peek	kurzer Blick {m}	2017-08-15 23:02:37.644704	1
+to commit sb. to sth.	jdn. zu etw. verpflichten	2017-08-15 23:03:37.687581	1
+pensive	nachdenklich	2017-08-15 23:04:37.716555	1
+wily	hinterlistig	2017-08-15 23:07:37.865735	1
+to prescribe sth.	etw. verschreiben	2017-08-15 23:08:37.904711	1
+archetype	Urform {f}	2017-08-15 23:09:37.909238	1
+combustion	Verbrennung {f}	2017-08-15 23:14:38.174384	1
+rigid	starr	2017-08-15 23:16:38.262453	1
+remote from	weit entfernt von	2017-08-15 23:21:38.530898	1
+gloss	Glanz {m}	2017-08-15 23:23:38.650372	1
+to withdraw sth. [e.g. offer]	etw. zurückziehen [z. B. Angebot]	2017-08-15 23:26:38.808044	1
+pervasive	tiefgreifend	2017-08-15 23:28:38.904498	1
+to soar	aufsteigen	2017-08-15 23:33:39.100657	1
+redemption	Rückzahlung {f}	2017-08-15 23:35:39.129501	1
+guise [appearance]	Gestalt {f}	2017-08-15 23:36:39.160638	1
+putrid	verdorben	2017-08-15 23:45:39.602573	1
+rapt [in contemplation, thought etc.]	versunken [vertieft]	2017-08-15 23:46:39.654601	1
+circumference	Umfang {m}	2017-08-15 23:47:39.689726	1
+asphyxiation	Erstickung {f}	2017-08-15 23:53:39.991315	1
+case in point	Paradebeispiel {n}	2017-08-15 23:57:40.184006	1
+prowess {sg} [skill]	Fähigkeiten {pl}	2017-08-15 23:58:40.189715	1
+wager	Wette {f}	2017-08-16 00:00:40.286440	1
+swift	schnell	2017-08-16 00:02:40.361042	1
+vertex	Ecke {f} [Knoten]	2017-08-16 00:04:40.451535	1
+penance	Buße {f}	2017-08-16 00:05:40.486432	1
+demise [of an institution, empire etc.]	Niedergang {m}	2017-08-16 00:13:40.886414	1
+vigilance	Wachsamkeit {f}	2017-08-16 00:14:40.947307	1
+mutilated	verstümmelt	2017-08-16 00:15:40.990772	1
+to amend sth. [modify]	etw. abändern	2017-08-16 00:19:41.238459	1
+to forfeit sth.	etw. einbüßen	2017-08-16 00:24:41.402868	1
+to staple [with a tacker]	tackern [ugs.]	2017-08-16 00:25:41.422056	1
+bogus	betrügerisch	2017-08-16 00:28:41.593260	1
+to confide in sb.	sich jdm. anvertrauen	2017-08-16 00:30:41.631683	1
+to extort sb.	jdn. unter Druck setzen	2017-08-16 00:32:41.739397	1
+streak [characteristic]	Charakterzug {m}	2017-08-16 00:33:41.778450	1
+obsessive-compulsive disorder <OCD>	Zwangsstörung {f}	2017-08-16 00:34:41.826873	1
+defiance	Trotz {m}	2017-08-16 14:34:26.221949	1
+ambient	Umgebungs-	2017-08-16 14:37:26.341425	1
+to abet	aufhetzen	2017-08-16 14:41:26.532960	1
+traffic jam	Stau {m}	2017-08-16 14:43:26.558837	1
+to elucidate	erläutern	2017-08-16 14:45:26.663958	1
+ever so slightly	ein klein wenig	2017-08-16 14:47:26.749595	1
+forborne	unterlassen	2017-08-16 14:48:26.810737	1
+cheerful	fröhlich	2017-08-16 14:49:26.845611	1
+faithful  [to]	treu	2017-08-16 14:52:26.970371	1
+to ensue	folgen [aus etw.]	2017-08-16 14:54:27.107849	1
+to evade	ausweichen	2017-08-16 14:55:27.128771	1
+to sustain	aushalten	2017-08-16 14:56:27.171525	1
+affordable	bezahlbar	2017-08-16 14:59:27.311580	1
+to sustain	aufrechterhalten	2017-08-16 15:00:27.360781	1
+full stop [Br.]	Punkt {m} [Satzzeichen]	2017-08-16 15:03:27.511504	1
+rotten	verfault	2017-08-16 15:04:27.543595	1
+benefit	Nutzen {m}	2017-08-16 15:11:27.863955	1
+to decoy	anlocken	2017-08-16 15:13:27.947805	1
+grade point average <GPA> [Am.]	Durchschnittsnote {f}	2017-08-16 15:14:28.012640	1
+memorable	einprägsam	2017-08-16 15:16:28.091587	1
+culmination	Höhepunkt {m}	2017-08-16 15:17:28.153238	1
+to attenuate	abschwächen	2017-08-16 15:22:28.368094	1
+faint	schwach	2017-08-16 15:23:28.427559	1
+versed	bewandert	2017-08-16 15:25:28.521327	1
+puffy	geschwollen	2017-08-16 15:26:28.582557	1
+to plummet	abstürzen	2017-08-16 15:30:28.793281	1
+obsessive	besessen	2017-08-16 15:35:29.061238	1
+to retail	wiederverkaufen	2017-08-16 15:36:29.111486	1
+verve	Begeisterung {f}	2017-08-16 15:37:29.173122	1
+gimmick	Trick {m}	2017-08-16 15:39:29.287321	1
+astute	scharfsinnig	2017-08-16 15:41:29.381831	1
+to intrigue sb. [fascinate sb.]	jdn. faszinieren	2017-08-16 15:43:29.479565	1
+alleged	angeblich	2017-08-16 15:44:29.548761	1
+at will	absichtlich	2017-08-16 15:46:29.628250	1
+to foster sth. [promote]	etw. fördern [Musik, Theater, eine Entwicklung etc.]	2017-08-16 15:48:29.690463	1
+compassion	Mitleid {n}	2017-08-16 15:49:29.746499	1
+to bribe	bestechen	2017-08-16 15:50:29.808202	1
+wager	Wetteinsatz {m}	2017-08-16 15:52:29.917360	1
+dark horse	unbekanntes Rennpferd {n}	2017-08-16 15:54:30.015027	1
+sth. is borne out [e. g. a guess]	etw. erhärtet sich [fig.] [z. B. eine Vermutung ]	2017-08-16 15:57:30.159604	1
+overbearing	anmaßend	2017-08-16 15:58:30.208708	1
+to draw on sth.	auf etw. zurückgreifen	2017-08-16 16:03:30.443422	1
+bemused	verwirrt	2017-08-16 16:05:30.571589	1
+disapproval	Missbilligung {f}	2017-08-16 16:08:30.755544	1
+seductive	verführerisch	2017-08-16 16:09:30.815520	1
+of late	kürzlich	2017-08-16 16:11:30.917051	1
+paraphernalia {pl} [sometimes treated as sg.] [equipment used in or necessary for a particular activity]	Zubehör {n} [seltener auch {m}]	2017-08-16 16:12:30.974740	1
+vignette	Charakterskizze {f}	2017-08-16 16:36:19.919857	1
+pervasive	durchdringend	2017-08-16 16:49:23.972979	1
+indecent	anstößig [unanständig]	2017-08-16 16:51:24.099537	1
+intrusive	aufdringlich	2017-08-16 18:43:10.646101	1
+tenet	Grundsatz {m}	2017-08-16 18:45:10.742359	1
+letter of intent	Willenserklärung {f}	2017-08-16 18:49:10.977013	1
+licorice [Am.]	Lakritz {m} {n} [regional]	2017-08-16 18:53:11.229402	1
+accessory	zusätzlich	2017-08-16 18:54:11.286001	1
+to seize	ergreifen	2017-08-16 20:31:09.782669	1
+stratification	Schichtung {f}	2017-08-16 20:35:10.006301	1
+compelling	zwingend	2017-08-16 20:36:10.107289	1
+vernal	Frühlings-	2017-08-16 20:37:10.170704	1
+fatigue	Ermüdung {f}	2017-08-16 20:39:10.235596	1
+line [straight line]	Gerade {f}	2017-08-16 20:41:10.349692	1
+to exceed	überschreiten	2017-08-16 20:42:10.367968	1
+to relent	nachgeben	2017-08-16 20:58:12.120702	1
+gathering	Ansammlung {f} [von Leuten oder das Ansammeln]	2017-08-16 21:00:12.226684	1
+to thaw	tauen	2017-08-16 21:01:12.284197	1
+unalloyed [pure]	rein [pur, völlig]	2017-08-16 21:02:12.317682	1
+to assess sth. [evaluate, judge]	etw. beurteilen	2017-08-16 21:03:13.569884	1
+draw [tied game]	Unentschieden {n}	2017-08-16 21:14:14.113273	1
+salient [conspicuous, prominent]	auffällig	2017-08-16 21:17:14.236063	1
+insincere	heuchlerisch	2017-08-16 21:18:14.312623	1
+vertebra	Wirbel {m}	2017-08-16 21:21:14.428828	1
+dodgy [Br.] [coll.] [person, area, business]	zwielichtig	2017-08-16 21:22:14.480392	1
+to endeavor (to) [Am.]	streben (nach)	2017-08-16 21:24:14.563883	1
+eligible	berechtigt	2017-08-16 21:26:14.656924	1
+to scintillate	funkeln	2017-08-16 21:30:14.882617	1
+to comprise	beinhalten	2017-08-16 21:33:15.039069	1
+decoy	Köder {m}	2017-08-16 21:34:15.099173	1
+ubiquity	Allgegenwart {f}	2017-08-16 21:38:15.299004	1
+innuendo	Anspielung {f}	2017-08-16 21:42:15.503161	1
+palsy	Lähmung {f}	2017-08-16 21:43:15.560389	1
+slander	Beleidigung {f}	2017-08-16 21:44:15.612324	1
+commitment [pledge, undertaking]	Zusage {f} [bindend]	2017-08-16 21:45:15.660224	1
+self-deprecation	Selbstironie {f}	2017-08-16 21:46:15.693711	1
+primeval soup	Ursuppe {f}	2017-08-16 21:52:15.982916	1
+plethora	Fülle {f}	2017-08-16 21:54:16.059096	1
+to expunge	auslöschen	2017-08-16 21:56:16.177584	1
+intelligible	verständlich	2017-08-16 22:00:16.400992	1
+pity	Mitleid {n}	2017-08-16 22:01:16.444094	1
+wary	achtsam	2017-08-16 22:08:16.736709	1
+entirety	Gesamtheit {f}	2017-08-16 22:13:16.927339	1
+contemptuously <contempt.>	abwertend	2017-08-16 22:19:17.252148	1
+to divine sth. [guess]	etw. erraten	2017-08-16 22:22:17.365398	1
+to disdain	verachten	2017-08-16 22:26:17.546871	1
+delicate	zart	2017-08-16 22:27:17.606688	1
+peculiar [strange, odd]	seltsam	2017-08-16 22:31:17.819603	1
+interim	zwischenzeitlich	2017-08-16 22:33:17.899403	1
+polymath	Universalgelehrter {m}	2017-08-16 22:35:18.015299	1
+tedious	langweilig	2017-08-16 22:36:18.072269	1
+indecisive [irresolute]	unentschlossen	2017-08-16 22:37:18.099611	1
+to loom	auftauchen	2017-08-16 22:40:18.259117	1
+to smudge [also fig.]	beschmutzen [auch fig.]	2017-08-16 22:42:18.349977	1
+credence	Glaube {m}	2017-08-16 22:43:18.395547	1
+oddball [attr.] [coll.]	schrullig	2017-08-16 22:44:18.439140	1
+promise	Zusage {f}	2017-08-16 22:46:18.545049	1
+echelon form	Stufenform {f}	2017-08-16 22:50:18.703504	1
+impediment	Hindernis {n}	2017-08-16 22:54:18.862175	1
+throng	Menschenmenge {f}	2017-08-16 22:56:18.927534	1
+merit	Verdienst {n} [Anspruch auf Anerkennung]	2017-08-16 22:57:18.951674	1
 to vanish	den Wert Null annehmen	0001-01-01 00:00:00	0
-surge	Anstieg {m}	0001-01-01 00:00:00	0
-to revert to sth.	auf etw. zurückgreifen	0001-01-01 00:00:00	0
-remote from	weit entfernt von	0001-01-01 00:00:00	0
-smug	arrogant	0001-01-01 00:00:00	0
-rationale [statement of reasons]	Begründung {f}	0001-01-01 00:00:00	0
-to contend	behaupten	0001-01-01 00:00:00	0
-connoisseur	Kenner {m}	0001-01-01 00:00:00	0
-grubby	schmuddelig [ugs.]	0001-01-01 00:00:00	0
-precious	kostbar	0001-01-01 00:00:00	0
-streak	Strähne {f} [Glücks-, Pech-, Haar-]	0001-01-01 00:00:00	0
-to hinge on sth.	von etw. [Dat.] abhängen	0001-01-01 00:00:00	0
-detrimental	schädlich	0001-01-01 00:00:00	0
-daisy chain	Verkettung {f}	0001-01-01 00:00:00	0
-to resort to sth.	auf etw. zurückgreifen	0001-01-01 00:00:00	0
-undoing	Verderben {n}	0001-01-01 00:00:00	0
-obsessive	zwanghaft	0001-01-01 00:00:00	0
+hallmark	Kennzeichen {n} [für Qualität]	0001-01-01 00:00:00	0
+greedily	gierig	0001-01-01 00:00:00	0
+vital	unverzichtbar	0001-01-01 00:00:00	0
+for want of	mangels [+Gen.]	0001-01-01 00:00:00	0
+to doff sth.	etw. ausziehen [Kleidung]	0001-01-01 00:00:00	0
+frantic	krampfhaft [angestrengt, verzweifelt]	0001-01-01 00:00:00	0
 R&R [rest and recuperation / recreation]	Heimaturlaub {m}	0001-01-01 00:00:00	0
-minutia	Detail {n}	0001-01-01 00:00:00	0
-to entrench	etablieren	0001-01-01 00:00:00	0
-mediocrity	Mittelmäßigkeit {f}	0001-01-01 00:00:00	0
-fervor [Am.]	Eifer {m}	0001-01-01 00:00:00	0
-newbie	Anfänger {m}	0001-01-01 00:00:00	0
-intrusive	aufdringlich	0001-01-01 00:00:00	0
-to pertain	zutreffen	0001-01-01 00:00:00	0
-uncanny  [seemingly supernatural]	unheimlich	0001-01-01 00:00:00	0
-Gentile	heidnisch [nichtjüdisch]	0001-01-01 00:00:00	0
-stratification	Schichtung {f}	0001-01-01 00:00:00	0
-plethora	Fülle {f}	0001-01-01 00:00:00	0
-goofy  [Am.]  [coll.]	albern	0001-01-01 00:00:00	0
-hubris	Überheblichkeit {f} [Hybris]	0001-01-01 00:00:00	0
-reminiscent	erinnernd	0001-01-01 00:00:00	0
-to dwindle	dahinschwinden	0001-01-01 00:00:00	0
-vile [disgusting; despicable, abominable]	abscheulich [ekelhaft; schändlich, verwerflich]	0001-01-01 00:00:00	0
-to witness	beweisen	0001-01-01 00:00:00	0
-to coerce	zwingen	0001-01-01 00:00:00	0
-to preclude sb./sth.	jdn./etw. ausschließen	0001-01-01 00:00:00	0
-roughshod	rücksichtslos	0001-01-01 00:00:00	0
-succeeded	gelungen	0001-01-01 00:00:00	0
-rhombus	Raute {f}	0001-01-01 00:00:00	0
-to endeavor [Am.]	bestreben	0001-01-01 00:00:00	0
-intelligible	verständlich	0001-01-01 00:00:00	0
-demise [of an institution, empire etc.]	Niedergang {m}	0001-01-01 00:00:00	0
-pervasive	durchdringend	0001-01-01 00:00:00	0
-to usurp	ergreifen	0001-01-01 00:00:00	0
-to scintillate	funkeln	0001-01-01 00:00:00	0
-paragon	Paradebeispiel {n}	0001-01-01 00:00:00	0
-draw [tied game]	Unentschieden {n}	0001-01-01 00:00:00	0
-memorable	einprägsam	0001-01-01 00:00:00	0
-to warp	verzerren [Tatsache]	0001-01-01 00:00:00	0
-forborne	unterlassen	0001-01-01 00:00:00	0
-to conjure up sth.	etw. heraufbeschwören	0001-01-01 00:00:00	0
-mundane	alltäglich	0001-01-01 00:00:00	0
-vanilla [fig.] [plain, conventional]	durchschnittlich [Standard-, konventionell]	0001-01-01 00:00:00	0
-to take pains	sich [Dat.] Mühe geben	0001-01-01 00:00:00	0
-vital	lebensnotwendig	0001-01-01 00:00:00	0
-incentive	Anreiz {m}	0001-01-01 00:00:00	0
-ambush [place]	Hinterhalt {m}	0001-01-01 00:00:00	0
-paragon	Inbegriff {m}	0001-01-01 00:00:00	0
-to allot	zuteilen	0001-01-01 00:00:00	0
-contemptuous	herablassend	0001-01-01 00:00:00	0
-to extort sb.	jdn. unter Druck setzen	0001-01-01 00:00:00	0
-volatile	flüchtig	0001-01-01 00:00:00	0
-arcane	geheimnisvoll	0001-01-01 00:00:00	0
-ambient	Umgebungs-	0001-01-01 00:00:00	0
-sage	weise	0001-01-01 00:00:00	0
-slander	Beleidigung {f}	0001-01-01 00:00:00	0
-metabolism	Stoffwechsel {m}	0001-01-01 00:00:00	0
-notch	Einschnitt {m}	0001-01-01 00:00:00	0
-malleable	formbar [auch fig.]	0001-01-01 00:00:00	0
-deviant	abweichend	0001-01-01 00:00:00	0
-throng	Menschenmenge {f}	0001-01-01 00:00:00	0
-chimerical	eingebildet [imaginär]	0001-01-01 00:00:00	0
-to incur [acquire, usually something negative]	erleiden [z. B. Verluste]	0001-01-01 00:00:00	0
-accessory	zusätzlich	0001-01-01 00:00:00	0
-prudent	vernünftig	0001-01-01 00:00:00	0
-to commence	anfangen	0001-01-01 00:00:00	0
-unison	Einklang {m}	0001-01-01 00:00:00	0
-diamond [rhombus]	Raute {f}	0001-01-01 00:00:00	0
-to disdain	verachten	0001-01-01 00:00:00	0
-leery	misstrauisch	0001-01-01 00:00:00	0
-to smuggle	schmuggeln	0001-01-01 00:00:00	0
-to deploy	anwenden	0001-01-01 00:00:00	0
-to relent	nachgeben	0001-01-01 00:00:00	0
-outage	Ausfall {m}	0001-01-01 00:00:00	0
-aspiring	ehrgeizig	0001-01-01 00:00:00	0
-catalyst [also fig.]	Katalysator {m} [auch fig.]	0001-01-01 00:00:00	0
-errand	Besorgung {f}	0001-01-01 00:00:00	0
-crude [manners etc.]	grob [Verhalten, Manieren]	0001-01-01 00:00:00	0
-paraphernalia {pl} [sometimes treated as sg.] [equipment used in or necessary for a particular activity]	Zubehör {n} [seltener auch {m}]	0001-01-01 00:00:00	0
-to suspend sth.	etw. aussetzen [Verordnungen, Regelungen etc.]	0001-01-01 00:00:00	0
-to despise	verachten	0001-01-01 00:00:00	0
-intriguing	faszinierend	0001-01-01 00:00:00	0
-to daunt sb.	jdn. einschüchtern	0001-01-01 00:00:00	0
-delicate	zart	0001-01-01 00:00:00	0
+tacitly	stillschweigend	0001-01-01 00:00:00	0
 to rectify sth.	etw. korrigieren [richtig stellen, richtig einstellen, Fehler beheben]	0001-01-01 00:00:00	0
-innuendo	Anspielung {f}	0001-01-01 00:00:00	0
-rural	ländlich	0001-01-01 00:00:00	0
-apex	Scheitelpunkt {m}	0001-01-01 00:00:00	0
-revenue	Einkommen {n}	0001-01-01 00:00:00	0
-to relieve	erleichtern	0001-01-01 00:00:00	0
-proverbial	sprichwörtlich	0001-01-01 00:00:00	0
-to confound sb./sth. [confuse sb., mix sth. up]	jdn./etw. durcheinanderbringen [jdn. verwirren, etw. in Unordung bringen]	0001-01-01 00:00:00	0
-self-deprecation	Selbstironie {f}	0001-01-01 00:00:00	0
-obsessive	besessen	0001-01-01 00:00:00	0
-to conjecture	vermuten	0001-01-01 00:00:00	0
-intruder	Eindringling {m}	0001-01-01 00:00:00	0
-travesty	Zerrbild {n} [fig.]	0001-01-01 00:00:00	0
-grief	Trauer {f}	0001-01-01 00:00:00	0
-clairvoyant	hellseherisch	0001-01-01 00:00:00	0
-plea	Bitte {f}	0001-01-01 00:00:00	0
-legacy [also fig.]	Vermächtnis {n} [auch fig.]	0001-01-01 00:00:00	0
-penance	Buße {f}	0001-01-01 00:00:00	0
-to impeach	anklagen	0001-01-01 00:00:00	0
-tuition [esp. Am.] [tuition fee; of school]	Schulgeld {n}	0001-01-01 00:00:00	0
-to refrain	unterlassen	0001-01-01 00:00:00	0
-to foster sth. [promote]	etw. fördern [Musik, Theater, eine Entwicklung etc.]	0001-01-01 00:00:00	0
-faint [photocopy, mark etc.]	blass [Photo, Kopie etc.]	0001-01-01 00:00:00	0
-verbose	wortreich	0001-01-01 00:00:00	0
-guise [appearance]	Gestalt {f}	0001-01-01 00:00:00	0
-affordable	bezahlbar	0001-01-01 00:00:00	0
-impingement	Zusammenstoß {m}	0001-01-01 00:00:00	0
-decent	anständig	0001-01-01 00:00:00	0
-resilience	Belastbarkeit {f}	0001-01-01 00:00:00	0
-slippery slope [fig.]	heikle Lage {f}	0001-01-01 00:00:00	0
-check	Karo {n}	0001-01-01 00:00:00	0
-pejorative	abwertend	0001-01-01 00:00:00	0
-cheerful	fröhlich	0001-01-01 00:00:00	0
-to conceal	verheimlichen	0001-01-01 00:00:00	0
-to prescribe sth.	etw. verschreiben	0001-01-01 00:00:00	0
-haphazard	willkürlich [wahllos, zufällig]	0001-01-01 00:00:00	0
-to ensue	folgen [aus etw.]	0001-01-01 00:00:00	0
-affable	freundlich	0001-01-01 00:00:00	0
-impediment	Hindernis {n}	0001-01-01 00:00:00	0
-zealot	Fanatiker {m}	0001-01-01 00:00:00	0
-verve	Begeisterung {f}	0001-01-01 00:00:00	0
-to amortize a loan	ein Darlehen zurückzahlen	0001-01-01 00:00:00	0
-to pry	herumstöbern [ugs.]	0001-01-01 00:00:00	0
-asphyxiation	Erstickung {f}	0001-01-01 00:00:00	0
-to thwart	behindern	0001-01-01 00:00:00	0
-to amount to	hinauslaufen auf	0001-01-01 00:00:00	0
-cramp	Krampf {m}	0001-01-01 00:00:00	0
-vivisection [the cutting of or operation on a living animal usually for physiological or pathological investigation]	Tierversuch {m} [Eingriff am lebenden Tier zu wissenschaftl. Versuchszwecken]	0001-01-01 00:00:00	0
-dark horse [fig.]	(erfolgreicher) Außenseiter {m}	0001-01-01 00:00:00	0
-deficiency	Schwäche {f}	0001-01-01 00:00:00	0
-ubiquity	Allgegenwart {f}	0001-01-01 00:00:00	0
-occupational	beruflich	0001-01-01 00:00:00	0
-decussation	Durchkreuzung {f}	0001-01-01 00:00:00	0
-to condone sth. [approve]	etw. billigen	0001-01-01 00:00:00	0
-tug [quick pull]	Zug {m} [das Ziehen, kurz, kräftig]	0001-01-01 00:00:00	0
-turgid	geschwollen	0001-01-01 00:00:00	0
-insinuation	Andeutung {f}	0001-01-01 00:00:00	0
-lucid	klar [übersichtlich, deutlich]	0001-01-01 00:00:00	0
-futile	nutzlos	0001-01-01 00:00:00	0
-disposition	Gemüt {n}	0001-01-01 00:00:00	0
-exigent	dringlich	0001-01-01 00:00:00	0
-tiresome	ermüdend	0001-01-01 00:00:00	0
-vaccinated	geimpft	0001-01-01 00:00:00	0
-hibernation	Ruhezustand {m}	0001-01-01 00:00:00	0
-frantically	verzweifelt	0001-01-01 00:00:00	0
-wobbly	wackelig	0001-01-01 00:00:00	0
-trite	banal	0001-01-01 00:00:00	0
+endowment	Begabung {f}	0001-01-01 00:00:00	0
+boar	Wildschwein {n}	0001-01-01 00:00:00	0
+reminiscent	erinnernd	0001-01-01 00:00:00	0
+to revert to sth.	auf etw. zurückgreifen	0001-01-01 00:00:00	0
+buoyancy [of liquid] [also fig.]	Auftrieb {m} [auch fig.]	0001-01-01 00:00:00	0
+to sue sb.	jdn. verklagen	0001-01-01 00:00:00	0
+avail	Nutzen {m}	0001-01-01 00:00:00	0
+to incubate	ausbrüten	0001-01-01 00:00:00	0
+prodigy	Wunderkind {n}	0001-01-01 00:00:00	0
 pen name	Künstlername {m} [eines Schriftstellers]	0001-01-01 00:00:00	0
-dismay	Entsetzen {n}	2017-08-13 22:01:40.038105	1
-inauguration	Einweihung {f}	2017-08-13 21:41:38.974471	1
-to apprehend	verstehen	2017-08-13 22:25:41.197556	1
-indolent	träge	2017-08-13 22:12:40.539220	1
-overleaf	umseitig	2017-08-13 21:51:39.494473	1
-marvelous  [Am.]	fabelhaft	2017-08-13 21:14:37.636565	1
-to meddle in sb.'s affairs	sich in jds. Angelegenheiten einmischen	2017-08-13 21:53:39.629919	1
-to disabuse sb.	jdn. aufklären	2017-08-13 21:31:38.499221	1
-austere  [joyless and strict]	streng	2017-08-13 22:19:40.903259	1
-to peeve	ärgern	2017-08-13 22:21:41.003558	1
-reproach	Vorwurf {m}	2017-08-13 21:57:39.850818	1
-to depreciate	abwerten	2017-08-13 21:12:37.556445	1
-to abort sth. [terminate before completion]	etw. abbrechen [vorzeitig beenden]	2017-08-13 21:43:39.108330	1
-interim	vorläufig	2017-08-13 21:22:38.003458	1
-magnitude	Betrag {m}	2017-08-13 22:08:40.375740	1
-rogue [attr.] [vicious]	bösartig [Tier, Person etc.]	2017-08-13 21:54:39.683721	1
-to take umbrage at / to sth.	Anstoß an etw. [Dat.] nehmen	2017-08-13 21:30:38.454602	1
-tradeoff	Kompromiss {m} [selten {n}]	2017-08-13 22:31:41.455222	1
-to blight	vernichten	2017-08-13 21:19:37.832289	1
-compelling	verlockend	2017-08-13 22:17:40.785949	1
-cumbersome	schwerfällig	2017-08-13 22:20:40.955377	1
+mania	Wahnsinn {m}	0001-01-01 00:00:00	0
+bogus argument	Scheinargument {n}	0001-01-01 00:00:00	0
+ditty	Liedchen {n}	0001-01-01 00:00:00	0
+eponymous	gleichnamig	0001-01-01 00:00:00	0
+obsessive	zwanghaft	0001-01-01 00:00:00	0
+wobbly	wackelig	0001-01-01 00:00:00	0
+to choke	ersticken	0001-01-01 00:00:00	0
+to prevail [in numbers etc.]	überwiegen	0001-01-01 00:00:00	0
+lucid	klar [übersichtlich, deutlich]	0001-01-01 00:00:00	0
+succeeded	gelungen	0001-01-01 00:00:00	0
+vaccinated	geimpft	0001-01-01 00:00:00	0
+to groove sth. [make a groove in]	etw. einkerben	0001-01-01 00:00:00	0
+to confide	anvertrauen	0001-01-01 00:00:00	0
+prudent	vernünftig	0001-01-01 00:00:00	0
+[to ruminate]	wiederkauen [FALSCH für: wiederkäuen]	0001-01-01 00:00:00	0
+mortgage	Hypothek {f}	0001-01-01 00:00:00	0
+endowment	Ausstattung {f} [Aussteuer]	0001-01-01 00:00:00	0
+to boost sth. [strengthen, increase]	etw. antreiben [ankurbeln, verstärken]	0001-01-01 00:00:00	0
+paralysis	Lähmung {f}	0001-01-01 00:00:00	0
+immaculate	makellos	0001-01-01 00:00:00	0
+triage	Ersteinschätzung {f} [in Notaufnahme]	0001-01-01 00:00:00	0
+jeopardy	Gefahr {f}	0001-01-01 00:00:00	0
+acuity	Schärfe {f} [Bild, Sehen]	0001-01-01 00:00:00	0
+inane	dumm	0001-01-01 00:00:00	0
+newbie	Anfänger {m}	0001-01-01 00:00:00	0
+myriad	unzählig	0001-01-01 00:00:00	0
+travesty	Zerrbild {n} [fig.]	0001-01-01 00:00:00	0
+ambush [place]	Hinterhalt {m}	0001-01-01 00:00:00	0
+sincere	aufrichtig	0001-01-01 00:00:00	0
+angst-ridden	angstbeherrscht	0001-01-01 00:00:00	0
+to percolate	durchsickern [auch fig.]	0001-01-01 00:00:00	0
+toil	Mühe {f}	0001-01-01 00:00:00	0
+detriment	Nachteil {m}	0001-01-01 00:00:00	0
+commencement [graduation ceremony]	Abschlussfeier {f}	0001-01-01 00:00:00	0
+dark horse [fig.]	(erfolgreicher) Außenseiter {m}	0001-01-01 00:00:00	0
+to conjecture	vermuten	0001-01-01 00:00:00	0
+tenure [office period]	Amtszeit {f}	0001-01-01 00:00:00	0
+apophenia	Apophänie {f}	0001-01-01 00:00:00	0
+resilience	Belastbarkeit {f}	0001-01-01 00:00:00	0
+apocryphal	unecht [nicht wahr, nicht belegt]	0001-01-01 00:00:00	0
+vacant	frei [nicht besetzt]	0001-01-01 00:00:00	0
+to blunder	sich blamieren	0001-01-01 00:00:00	0
+presumptuous	anmaßend	0001-01-01 00:00:00	0
+daisy chain	Verkettung {f}	0001-01-01 00:00:00	0
+exigent	dringlich	0001-01-01 00:00:00	0
+to contend	behaupten	0001-01-01 00:00:00	0
+metabolism	Stoffwechsel {m}	0001-01-01 00:00:00	0
+nought	Null {f}	0001-01-01 00:00:00	0
+to condone sth.	etw. verzeihen	0001-01-01 00:00:00	0
+turgid	geschwollen	0001-01-01 00:00:00	0
+hapless	glücklos	0001-01-01 00:00:00	0
+paragon	Paradebeispiel {n}	0001-01-01 00:00:00	0
+to malinger	Krankheit vortäuschen	0001-01-01 00:00:00	0
+censorship	Zensur {f}	0001-01-01 00:00:00	0
+to gleam [metal]	schimmern [Metall]	0001-01-01 00:00:00	0
+to misfire	fehlschlagen	0001-01-01 00:00:00	0
+to crave	ersehnen [geh.]	0001-01-01 00:00:00	0
+ferocious	grausam	0001-01-01 00:00:00	0
+bulky	sperrig	0001-01-01 00:00:00	0
+vicious	böse	0001-01-01 00:00:00	0
+whimsical	skurril	0001-01-01 00:00:00	0
+voracious	unersättlich	0001-01-01 00:00:00	0
+to endeavor [Am.]	bestreben	0001-01-01 00:00:00	0
+dominion	Herrschaft {f}	0001-01-01 00:00:00	0
+vital	lebensnotwendig	0001-01-01 00:00:00	0
+to tot up sth. [esp. Br.] [coll.]	etw. addieren [zusammenzählen]	0001-01-01 00:00:00	0
+minutia	Detail {n}	0001-01-01 00:00:00	0
+to negotiate	verhandeln	0001-01-01 00:00:00	0
+steadfast	standhaft	0001-01-01 00:00:00	0
+toll [attr.] [road, motorway]	gebührenpflichtig [mautpflichtig]	0001-01-01 00:00:00	0
+arduous	anstrengend	0001-01-01 00:00:00	0
+wholesale [fig.]	umfassend [weitgehend]	0001-01-01 00:00:00	0
+primordial	ursprünglich	0001-01-01 00:00:00	0
+nuisance	Ärgernis {n}	0001-01-01 00:00:00	0
+paragon	Inbegriff {m}	0001-01-01 00:00:00	0
+deviant	abweichend	0001-01-01 00:00:00	0
+to witness	beweisen	0001-01-01 00:00:00	0
+to amount to	hinauslaufen auf	0001-01-01 00:00:00	0
+to menace sb.	jdn. bedrohen	0001-01-01 00:00:00	0
+canny	pfiffig	0001-01-01 00:00:00	0
+contract	Vertrag {m}	0001-01-01 00:00:00	0
+deft	geschickt	0001-01-01 00:00:00	0
+to sustain	erleiden	0001-01-01 00:00:00	0
+hunch [feeling, premonition]	Ahnung {f} [Vorgefühl]	0001-01-01 00:00:00	0
+to conceal	verheimlichen	0001-01-01 00:00:00	0
+exhaustive	vollständig	0001-01-01 00:00:00	0
+stamina	Ausdauer {f}	0001-01-01 00:00:00	0
+to covenant	vereinbaren	0001-01-01 00:00:00	0
+to keep sth. up	etw. fortführen	0001-01-01 00:00:00	0
+like-minded	gleichgesinnt	0001-01-01 00:00:00	0
+fairy tale	Fabel {f}	0001-01-01 00:00:00	0
+misogynous	misogyn [geh.] [frauenfeindlich]	0001-01-01 00:00:00	0
+detour	Umweg {m}	0001-01-01 00:00:00	0
+to resort to sth.	auf etw. zurückgreifen	0001-01-01 00:00:00	0
+to bait	ködern	0001-01-01 00:00:00	0
+onerous	beschwerlich	0001-01-01 00:00:00	0
+reprieve	Atempause {f} [fig.]	0001-01-01 00:00:00	0
+to splash	spritzen	0001-01-01 00:00:00	0
+obtrusive	aufdringlich	0001-01-01 00:00:00	0
+to avenge	rächen	0001-01-01 00:00:00	0
+impeccable	einwandfrei	0001-01-01 00:00:00	0
+ephemeral	vergänglich	0001-01-01 00:00:00	0
+congestion	Stau {m}	0001-01-01 00:00:00	0
+to condone sth. [approve]	etw. billigen	0001-01-01 00:00:00	0
+echelon [level of command, responsibility etc.]	Rang {m} [in Hierarchie]	0001-01-01 00:00:00	0
+intellectual edifice	Denkgebäude {n}	0001-01-01 00:00:00	0
+slope	Steigung {f}	0001-01-01 00:00:00	0
+mediocrity	Mittelmäßigkeit {f}	0001-01-01 00:00:00	0
+inconclusive	ergebnislos	0001-01-01 00:00:00	0
+futile	nutzlos	0001-01-01 00:00:00	0
+to smudge	verwischen	0001-01-01 00:00:00	0
+debris {sg}	Trümmer {pl}	0001-01-01 00:00:00	0
+belligerence	Streitlust {f}	0001-01-01 00:00:00	0
+to assent	zustimmen	0001-01-01 00:00:00	0
+to affirm	behaupten	0001-01-01 00:00:00	0
+to succumb	unterliegen	0001-01-01 00:00:00	0
+realm	Bereich {m}	0001-01-01 00:00:00	0
+meticulous	akribisch [geh.]	0001-01-01 00:00:00	0
+vanilla [fig.] [plain, conventional]	durchschnittlich [Standard-, konventionell]	0001-01-01 00:00:00	0
+to dare sb. [challenge]	jdn. herausfordern	0001-01-01 00:00:00	0
+breach	Bruch {m} [z. B. des Vertrauens]	0001-01-01 00:00:00	0
+to relay	übermitteln	0001-01-01 00:00:00	0
+naughty	ungezogen	0001-01-01 00:00:00	0
+hubris	Überheblichkeit {f} [Hybris]	0001-01-01 00:00:00	0
+to dissent	widersprechen	0001-01-01 00:00:00	0
+exuberant	ausgelassen	0001-01-01 00:00:00	0
+nifty  [coll.]	raffiniert	0001-01-01 00:00:00	0
+wear and tear	Abnutzung {f}	0001-01-01 00:00:00	0
+hibernation	Ruhezustand {m}	0001-01-01 00:00:00	0
+faint [photocopy, mark etc.]	blass [Photo, Kopie etc.]	0001-01-01 00:00:00	0
+banter	Neckerei {f}	0001-01-01 00:00:00	0
+subsidy	Subvention {f}	0001-01-01 00:00:00	0
+zealot	Fanatiker {m}	0001-01-01 00:00:00	0
+to purport	behaupten	0001-01-01 00:00:00	0
+primacy	Vorrang {m}	0001-01-01 00:00:00	0
+ailment	Erkrankung {f}	0001-01-01 00:00:00	0
+to amortize a loan	ein Darlehen zurückzahlen	0001-01-01 00:00:00	0
+to fudge sth. [falsify, manipulate]	etw. fälschen [manipulieren, frisieren]	0001-01-01 00:00:00	0
+to disgrace oneself	sich blamieren	0001-01-01 00:00:00	0
+slippery slope [fig.]	heikle Lage {f}	0001-01-01 00:00:00	0
+obnoxious	widerlich	0001-01-01 00:00:00	0
+soothing	beruhigend	0001-01-01 00:00:00	0
+indulgence	Genuss {m}	0001-01-01 00:00:00	0
+squarely	direkt	0001-01-01 00:00:00	0
+to mortify sb.	jdn. demütigen	0001-01-01 00:00:00	0
+flush	bündig	0001-01-01 00:00:00	0
+to graft	transplantieren	0001-01-01 00:00:00	0
+fierce	heftig	0001-01-01 00:00:00	0
+slack	schlaff	0001-01-01 00:00:00	0
+hereafter	im Folgenden	0001-01-01 00:00:00	0
+preliminary	vorläufig	0001-01-01 00:00:00	0
+gist	Wesentliches {n}	0001-01-01 00:00:00	0
+epiphany	Erleuchtung {f}	0001-01-01 00:00:00	0
+to usurp	ergreifen	0001-01-01 00:00:00	0
+coarse	grob	0001-01-01 00:00:00	0
+salience	Hervorspringen {n}	0001-01-01 00:00:00	0
+notch	Einschnitt {m}	0001-01-01 00:00:00	0
+title of nobility	Adelsprädikat {n}	0001-01-01 00:00:00	0
+to pertain	zutreffen	0001-01-01 00:00:00	0
+to fathom	ergründen	0001-01-01 00:00:00	0
+streak	Strähne {f} [Glücks-, Pech-, Haar-]	0001-01-01 00:00:00	0
+rural	ländlich	0001-01-01 00:00:00	0
+stint [workload]	Arbeitspensum {n}	0001-01-01 00:00:00	0
+commitment [dedication, devotedness]	Hingabe {f}	0001-01-01 00:00:00	0
+invaluable	unschätzbar	0001-01-01 00:00:00	0
+stash	Versteck {n}	0001-01-01 00:00:00	0
+culpable	strafbar	0001-01-01 00:00:00	0
+dashy	ins Auge fallend	0001-01-01 00:00:00	0
+austere [severely plain]	nüchtern [asketisch, schmucklos, karg]	0001-01-01 00:00:00	0
+ballpark [attr.] [figure, cost, etc.] [coll.]	geschätzt [Zahl, Kosten etc.]	0001-01-01 00:00:00	0
+catchy  [name, tune]	einprägsam	0001-01-01 00:00:00	0
+deficiency	Schwäche {f}	0001-01-01 00:00:00	0
+stake	Beteiligung {f}	0001-01-01 00:00:00	0
+deterrent	abschreckend	0001-01-01 00:00:00	0
+to deceive	betrügen	0001-01-01 00:00:00	0
+plea	Bitte {f}	0001-01-01 00:00:00	0
+connoisseur	Kenner {m}	0001-01-01 00:00:00	0
+meticulous	sorgfältig	0001-01-01 00:00:00	0
+to beacon	leiten [führen, den Weg weisen]	0001-01-01 00:00:00	0
+chimerical	eingebildet [imaginär]	0001-01-01 00:00:00	0
+vile [disgusting; despicable, abominable]	abscheulich [ekelhaft; schändlich, verwerflich]	0001-01-01 00:00:00	0
+outage [temporary suspension of service]	Ausfall {m} [zeitweises Nichtmehrfunktionieren {n}]	0001-01-01 00:00:00	0
+gathering	Versammlung {f}	0001-01-01 00:00:00	0
+sleazy	schäbig	0001-01-01 00:00:00	0
+sinister	finster	0001-01-01 00:00:00	0
+to pledge sth. [promise]	etw. versprechen	0001-01-01 00:00:00	0
+indulgence	Schwäche {f}	0001-01-01 00:00:00	0
+per capita	pro Kopf	0001-01-01 00:00:00	0
+to impeach	anklagen	0001-01-01 00:00:00	0
+grief	Trauer {f}	0001-01-01 00:00:00	0
+adept	erfahren	0001-01-01 00:00:00	0
+to jot down	fix notieren	0001-01-01 00:00:00	0
+mundane	alltäglich	0001-01-01 00:00:00	0
+pace ...	bei allem Respekt ... gegenüber	0001-01-01 00:00:00	0
+buzzword	Modewort {n}	0001-01-01 00:00:00	0
+intriguing	faszinierend	0001-01-01 00:00:00	0
+to hone	verbessern	0001-01-01 00:00:00	0
+legacy [also fig.]	Vermächtnis {n} [auch fig.]	0001-01-01 00:00:00	0
+makeshift	provisorisch	0001-01-01 00:00:00	0
+to refrain	unterlassen	0001-01-01 00:00:00	0
+punctual	pünktlich	0001-01-01 00:00:00	0
+fiend	Feind {m}	0001-01-01 00:00:00	0
+to alleviate	lindern	0001-01-01 00:00:00	0
+pledge	Zusage {f}	0001-01-01 00:00:00	0
+trite	banal	0001-01-01 00:00:00	0
+to vouch	verbürgen	0001-01-01 00:00:00	0
+to maim	verstümmeln	0001-01-01 00:00:00	0
+to elicit sth.	etw. hervorrufen	0001-01-01 00:00:00	0
+to gleam	glänzen	0001-01-01 00:00:00	0
+plight	Notlage {f}	0001-01-01 00:00:00	0
+to contemplate	nachdenken	0001-01-01 00:00:00	0
+remorse	Reue {f}	0001-01-01 00:00:00	0
+to rebut	entkräften	0001-01-01 00:00:00	0
+malleable	formbar [auch fig.]	0001-01-01 00:00:00	0
+diamonds {pl} [sometimes treated as sg.] [card suit]	Karo {n} [meist ohne Artikel] [Farbe im französischen Blatt]	0001-01-01 00:00:00	0
+rationale [statement of reasons]	Begründung {f}	0001-01-01 00:00:00	0
+to coerce	zwingen	0001-01-01 00:00:00	0
+to churn	aufwühlen	0001-01-01 00:00:00	0
+vociferous	lautstark	0001-01-01 00:00:00	0
+gathering	Zusammenkunft {f}	0001-01-01 00:00:00	0
+to erode	zerfressen	0001-01-01 00:00:00	0
+syllabus	Lehrplan {m}	0001-01-01 00:00:00	0
+gathering	Lese {f}	0001-01-01 00:00:00	0
+tangible	handfest	0001-01-01 00:00:00	0
+to stifle sth. [a discussion, a debate, etc.]	etw. abwürgen [ugs.] [eine Diskussion, eine Debatte etc.]	0001-01-01 00:00:00	0
+unison	Einklang {m}	0001-01-01 00:00:00	0
+stampede	Massenpanik {f}	0001-01-01 00:00:00	0
+to clobber sth. [to overwrite data]	etw. überschreiben [normalerweise unabsichtlich]	0001-01-01 00:00:00	0
+to defer	verschieben	0001-01-01 00:00:00	0
+smug	arrogant	0001-01-01 00:00:00	0
+frantically	verzweifelt	0001-01-01 00:00:00	0
+terse	knapp	0001-01-01 00:00:00	0
+inclined	geneigt	0001-01-01 00:00:00	0
+fond	verliebt	0001-01-01 00:00:00	0
+austere  [ascetic]	asketisch	0001-01-01 00:00:00	0
+curfew	Ausgangssperre {f}	0001-01-01 00:00:00	0
+affable	umgänglich	0001-01-01 00:00:00	0
+goofy  [Am.]  [coll.]	albern	0001-01-01 00:00:00	0
+blooper	Versprecher {m}	0001-01-01 00:00:00	0
+cue	Stichwort {n}	0001-01-01 00:00:00	0
+casual	lässig	0001-01-01 00:00:00	0
+to spawn sth. [to cause to come into existence]	etw. [Akk.] hervorbringen [entstehen lassen]	0001-01-01 00:00:00	0
+mantra	Motto {n}	0001-01-01 00:00:00	0
+contemptuous	herablassend	0001-01-01 00:00:00	0
+lattice	Gitter {n}	0001-01-01 00:00:00	0
+cuss	Schimpfwort {n}	0001-01-01 00:00:00	0
+to relieve	erleichtern	0001-01-01 00:00:00	0
+to deploy	anwenden	0001-01-01 00:00:00	0
+to entrench	etablieren	0001-01-01 00:00:00	0
+mirage [something illusory]	Illusion {f}	0001-01-01 00:00:00	0
+stubborn	hartnäckig	0001-01-01 00:00:00	0
+attenuation	Dämpfung {f}	0001-01-01 00:00:00	0
+mayhem	Chaos {n}	0001-01-01 00:00:00	0
+myopia	Kurzsichtigkeit {f} [auch fig.]	0001-01-01 00:00:00	0
+akin	ähnlich	0001-01-01 00:00:00	0
+cramp	Krampf {m}	0001-01-01 00:00:00	0
+vigilant	wachsam	0001-01-01 00:00:00	0
+grievance	Beschwerde {f}	0001-01-01 00:00:00	0
+luddite	technikfeindlich	0001-01-01 00:00:00	0
+to sublet	untervermieten	0001-01-01 00:00:00	0
+reimbursements	Rückerstattungen {pl}	0001-01-01 00:00:00	0
+limp	Hinken {n}	0001-01-01 00:00:00	0
+errand	Besorgung {f}	0001-01-01 00:00:00	0
+grievance	Missstand {m}	0001-01-01 00:00:00	0
+to resume	fortsetzen	0001-01-01 00:00:00	0
+convolute	zusammengerollt	0001-01-01 00:00:00	0
+verbatim	wortwörtlich	0001-01-01 00:00:00	0
+parlance	Jargon {m}	0001-01-01 00:00:00	0
+polyglot	mehrsprachig	0001-01-01 00:00:00	0
+to endorse	befürworten	0001-01-01 00:00:00	0
+scarce	knapp	0001-01-01 00:00:00	0
+eloquent	redegewandt	0001-01-01 00:00:00	0
+maelstrom	Strudel {m}	0001-01-01 00:00:00	0
+selfish	egoistisch	0001-01-01 00:00:00	0
+tug [quick pull]	Zug {m} [das Ziehen, kurz, kräftig]	0001-01-01 00:00:00	0
+cursory	oberflächlich	0001-01-01 00:00:00	0
+country lore	Bauernregel {f}	0001-01-01 00:00:00	0
+decent	anständig	0001-01-01 00:00:00	0
+to confound sb./sth. [confuse sb., mix sth. up]	jdn./etw. durcheinanderbringen [jdn. verwirren, etw. in Unordung bringen]	0001-01-01 00:00:00	0
+to ravel sth. (out) [disentangle]	etw. entwirren	0001-01-01 00:00:00	0
+diamond [rhombus]	Raute {f}	0001-01-01 00:00:00	0
+allusion	Anspielung {f}	0001-01-01 00:00:00	0
+squeamish	zimperlich [empfindlich]	0001-01-01 00:00:00	0
+decussation	Durchkreuzung {f}	0001-01-01 00:00:00	0
+pernickety  [Br.]	penibel	0001-01-01 00:00:00	0
+to preclude sb./sth.	jdn./etw. ausschließen	0001-01-01 00:00:00	0
+sb. dubbed [named]	jd. titulierte	0001-01-01 00:00:00	0
+to vanish	verschwinden	0001-01-01 00:00:00	0
+thrust	Schub {m}	0001-01-01 00:00:00	0
+to suspend sth.	etw. aussetzen [Verordnungen, Regelungen etc.]	0001-01-01 00:00:00	0
+avocation	Nebenbeschäftigung {f}	0001-01-01 00:00:00	0
+contraception	Verhütung {f} [Schwangerschaftsverhütung]	0001-01-01 00:00:00	0
+incentive	Anreiz {m}	0001-01-01 00:00:00	0
+grumpy	mürrisch	0001-01-01 00:00:00	0
+to warp	verzerren [Tatsache]	0001-01-01 00:00:00	0
+occupational	beruflich	0001-01-01 00:00:00	0
+sorcery	Hexerei {f}	0001-01-01 00:00:00	0
+to pacify	beruhigen	0001-01-01 00:00:00	0
+defeasible	anfechtbar	0001-01-01 00:00:00	0
+to stymie	hindern	0001-01-01 00:00:00	0
+insinuation	Andeutung {f}	0001-01-01 00:00:00	0
+101	Einmaleins {n} [Grundkenntnisse]	0001-01-01 00:00:00	0
+avid [assiduous]	eifrig [begeistert, passioniert]	0001-01-01 00:00:00	0
+fiend [obs.] [enemy]	Feind {m}	0001-01-01 00:00:00	0
+to retire	in Rente gehen	0001-01-01 00:00:00	0
+precursor	Vorläufer {m}	0001-01-01 00:00:00	0
+disposed	gesinnt	0001-01-01 00:00:00	0
+vortex	Wirbel {m}	0001-01-01 00:00:00	0
+to heed sb./sth.	jdn./etw. beachten	0001-01-01 00:00:00	0
+tenant	Mieter {m}	0001-01-01 00:00:00	0
+to remedy	abhelfen	0001-01-01 00:00:00	0
+to flake	abplatzen	0001-01-01 00:00:00	0
+commitment [obligation]	Verpflichtung {f}	0001-01-01 00:00:00	0
+wear and tear	Verschleiß {m}	0001-01-01 00:00:00	0
+volatile	flüchtig	0001-01-01 00:00:00	0
+to daunt sb.	jdn. einschüchtern	0001-01-01 00:00:00	0
+lewd	anstößig	0001-01-01 00:00:00	0
+to gloss sth.	etw. erläutern [ein Wort oder einen Ausdruck]	0001-01-01 00:00:00	0
+to jibe at sb.	jdn. verhöhnen	0001-01-01 00:00:00	0
+mutual [reciprocal]	gegenseitig	0001-01-01 00:00:00	0
+clairvoyant	hellseherisch	0001-01-01 00:00:00	0
+to stand pat [esp. Am.]	stur bleiben [bei seiner Meinung oder Entscheidung bleiben]	0001-01-01 00:00:00	0
+obsolete <obs.> [No longer in use, and no longer likely to be understood. Obsolete is a stronger term than archaic, and a much stronger term than dated.]	veraltet	0001-01-01 00:00:00	0
+arcane	geheimnisvoll	0001-01-01 00:00:00	0
+adjacent (side) [of a right-angled triangle]	Ankathete {f}	0001-01-01 00:00:00	0
+agreeable [pleasant]	angenehm	0001-01-01 00:00:00	0
+to hinge on sth.	von etw. [Dat.] abhängen	0001-01-01 00:00:00	0
+replete	satt [gesättigt]	0001-01-01 00:00:00	0
+backlash	Rückwirkung {f}	0001-01-01 00:00:00	0
+internship	Praktikum {n}	0001-01-01 00:00:00	0
+disposition	Gemüt {n}	0001-01-01 00:00:00	0
+putrid	faulig	0001-01-01 00:00:00	0
+actuality	Wirklichkeit {f}	0001-01-01 00:00:00	0
+surge	Anstieg {m}	0001-01-01 00:00:00	0
+to blackmail sb.	jdn. erpressen	0001-01-01 00:00:00	0
+catalyst [also fig.]	Katalysator {m} [auch fig.]	0001-01-01 00:00:00	0
+presumably	vermutlich	0001-01-01 00:00:00	0
+uncanny  [seemingly supernatural]	unheimlich	0001-01-01 00:00:00	0
+to commence	anfangen	0001-01-01 00:00:00	0
+perimeter	Umfang {m}	0001-01-01 00:00:00	0
+to shoo sb./sth.	jdn./etw. scheuchen	0001-01-01 00:00:00	0
+revenue	Einkommen {n}	0001-01-01 00:00:00	0
+to revise	überarbeiten	0001-01-01 00:00:00	0
+stone-cold	eiskalt	0001-01-01 00:00:00	0
+to retire	zurücktreten	0001-01-01 00:00:00	0
+to prosper	gedeihen [florieren]	2017-01-01 00:00:00	0
+to despise sb./sth.	jdn./etw. verachten	0001-01-01 00:00:00	0
+tantalizing	verlockend	0001-01-01 00:00:00	0
+indelible	unauslöschlich	0001-01-01 00:00:00	0
+to dub	nennen	0001-01-01 00:00:00	0
+man-month	Arbeitsmonat {m}	0001-01-01 00:00:00	0
+to relegate	verbannen	0001-01-01 00:00:00	0
+to contemplate	beabsichtigen	0001-01-01 00:00:00	0
+enrichment	Bereicherung {f}	0001-01-01 00:00:00	0
+subject to	gemäß [+Dat.]	0001-01-01 00:00:00	0
+snob	Wichtigtuer {m}	0001-01-01 00:00:00	0
+to tout [frequently pej.: advertise]	werben [Reklame machen, propagieren]	0001-01-01 00:00:00	0
+to pry	herumstöbern [ugs.]	0001-01-01 00:00:00	0
+apprentice	Lehrling {m}	0001-01-01 00:00:00	0
+sated	satt [Essen]	0001-01-01 00:00:00	0
+repercussion	Auswirkung {f}	0001-01-01 00:00:00	0
+to endorse	bestätigen	0001-01-01 00:00:00	0
+tiresome	ermüdend	0001-01-01 00:00:00	0
+charitable [public benefit]	gemeinnützig	0001-01-01 00:00:00	0
+nanite	Nanomaschine {f}	0001-01-01 00:00:00	0
+by profession	von Beruf	0001-01-01 00:00:00	0
+affable	freundlich	0001-01-01 00:00:00	0
+sorry [sad]	traurig	0001-01-01 00:00:00	0
+homage	Huldigung {f}	0001-01-01 00:00:00	0
+peril	Gefahr {f}	0001-01-01 00:00:00	0
+bovine	einfältig	0001-01-01 00:00:00	0
+policy [set of rules, regulations]	Regelwerk {n}	0001-01-01 00:00:00	0
+to combat	bekämpfen	0001-01-01 00:00:00	0
+to prune	zurechtstutzen	0001-01-01 00:00:00	0
+pidgin	Kauderwelsch {n} [aus mehreren Sprachen gemischte Sprache]	0001-01-01 00:00:00	0
+cobweb	Spinnennetz {n}	0001-01-01 00:00:00	0
+to incur [acquire, usually something negative]	erleiden [z. B. Verluste]	0001-01-01 00:00:00	0
+acute [shrewd]	scharfsinnig	0001-01-01 00:00:00	0
+balmy	lau [Luft etc.]	0001-01-01 00:00:00	0
+eloquence	Redegewandtheit {f}	0001-01-01 00:00:00	0
+to dwindle	dahinschwinden	0001-01-01 00:00:00	0
+stinging [also pain]	stechend [auch Schmerz]	0001-01-01 00:00:00	0
+rhombus	Raute {f}	0001-01-01 00:00:00	0
+ubiquitous	allgegenwärtig	0001-01-01 00:00:00	0
+to appease	beschwichtigen	0001-01-01 00:00:00	0
+to leverage	aushebeln	0001-01-01 00:00:00	0
+endowment	Stiftung {f}	0001-01-01 00:00:00	0
+cuneiform	Keilschrift {f}	0001-01-01 00:00:00	0
+sage	weise	0001-01-01 00:00:00	0
+to incline	tendieren	0001-01-01 00:00:00	0
+to smuggle	schmuggeln	0001-01-01 00:00:00	0
+gracious [courteous, kind]	liebenswürdig [höflich, freundlich]	0001-01-01 00:00:00	0
+proverbial	sprichwörtlich	0001-01-01 00:00:00	0
+capricious	launisch	0001-01-01 00:00:00	0
+to assess	einschätzen	0001-01-01 00:00:00	0
+verdict	Urteil {n} [Urteilsspruch]	0001-01-01 00:00:00	0
+fudge	Fälschung {f} [Schummelei, Frisieren von Büchern]	0001-01-01 00:00:00	0
+prospect	Aussicht {f}	0001-01-01 00:00:00	0
+impervious	unempfindlich	0001-01-01 00:00:00	0
+hurdle	Hindernis {n}	0001-01-01 00:00:00	0
+hoax	Falschmeldung {f}	0001-01-01 00:00:00	0
+curse	Fluch {m}	0001-01-01 00:00:00	0
+unequivocal	eindeutig	0001-01-01 00:00:00	0
+overly	übermäßig	0001-01-01 00:00:00	0
+tenure	Beschäftigungsdauer {f}	0001-01-01 00:00:00	0
+to unravel sth. [disentangle]	etw. entwirren	0001-01-01 00:00:00	0
+diehard	hartnäckig	0001-01-01 00:00:00	0
+hash <#> [esp. Br.]	Raute {f} <#>	0001-01-01 00:00:00	0
+pastry	Gebäck {n}	0001-01-01 00:00:00	0
+to object	widersprechen	0001-01-01 00:00:00	0
+concise	knapp	0001-01-01 00:00:00	0
+crude [manners etc.]	grob [Verhalten, Manieren]	0001-01-01 00:00:00	0
+leverage	Einfluss {m}	0001-01-01 00:00:00	0
+to triage	sichten	0001-01-01 00:00:00	0
+seduction	Verführung {f}	0001-01-01 00:00:00	0
+whim	Laune {f} [Einfall, Grille]	0001-01-01 00:00:00	0
+commensurate	angemessen	0001-01-01 00:00:00	0
+detrimental	schädlich	0001-01-01 00:00:00	0
+caesarean (section) [Br.] <C-section> [Sectio caesarea]	Sektio {f} [Kaiserschnitt]	0001-01-01 00:00:00	0
+intruder	Eindringling {m}	0001-01-01 00:00:00	0
+to facilitate	erleichtern	0001-01-01 00:00:00	0
+lump sum	Pauschalbetrag {m}	0001-01-01 00:00:00	0
+cheerful	gut gelaunt	0001-01-01 00:00:00	0
+aspiring	ehrgeizig	0001-01-01 00:00:00	0
+sumptuous	üppig [Ausstattung, Essen]	0001-01-01 00:00:00	0
+to rush	drängen	0001-01-01 00:00:00	0
+Gentile	heidnisch [nichtjüdisch]	0001-01-01 00:00:00	0
+fervor [Am.]	Eifer {m}	0001-01-01 00:00:00	0
+mock	Pseudo-	0001-01-01 00:00:00	0
+zealous	eifrig	0001-01-01 00:00:00	0
 enterprise	Unternehmung {f}	2017-08-13 21:39:38.871670	1
-to chasten sb. [have a moderating effect]	jdn. mäßigen	2017-08-13 21:55:39.741671	1
-residing	angesiedelt	2017-08-13 22:09:40.430060	1
-to summon	auffordern	2017-08-13 22:16:40.737639	1
-versatile	vielseitig	2017-08-13 22:22:41.051307	1
-brittle	spröde	2017-08-13 21:09:37.391719	1
-to take heed of sth.	auf etw. achten	2017-08-13 21:52:39.555290	1
-arbiter	Vermittler {m}	2017-08-13 21:36:38.713244	1
-arch-rival	Erzrivale {m}	2017-08-13 22:03:40.142366	1
-to detail	zuteilen	2017-08-13 21:49:39.392908	1
-insidious	heimtückisch	2017-08-13 21:08:37.360857	1
-bane	Fluch {m}	2017-08-13 22:29:41.345884	1
-calling [to a profession etc.]	Berufung {f}	2017-08-13 21:47:39.299475	1
-agony	Qual {f}	2017-08-13 21:06:37.280142	1
-reluctant	abgeneigt	2017-08-13 22:07:40.345582	1
-blunt [e.g. knife, pencil]	stumpf [z. B. Messer, Bleistift]	2017-08-13 21:44:39.167197	1
-disposition [attitude, views]	Gesinnung {f}	2017-08-13 21:34:38.621895	1
-amply	reichlich	2017-08-13 21:45:39.228307	1
-bleak	trostlos	2017-08-13 21:03:37.172669	1
-prosperity	Wohlstand {m}	2017-08-13 21:48:39.340988	1
-prolific	fruchtbar	2017-08-13 22:26:41.210159	1
+to apprehend	verstehen	2017-08-13 22:25:41.197556	1
 worthwhile	lohnenswert	2017-08-13 21:42:39.036060	1
-stunning	atemberaubend	2017-08-13 22:11:40.479859	1
-fervent	leidenschaftlich	2017-08-13 21:46:39.272276	1
-to mitigate	mildern	2017-08-13 22:13:40.615268	1
-to accompany	begleiten	2017-08-13 21:38:38.831218	1
+prosperity	Wohlstand {m}	2017-08-13 21:48:39.340988	1
+magnitude	Betrag {m}	2017-08-13 22:08:40.375740	1
+inauguration	Einweihung {f}	2017-08-13 21:41:38.974471	1
+to abort sth. [terminate before completion]	etw. abbrechen [vorzeitig beenden]	2017-08-13 21:43:39.108330	1
 skit	Parodie {f}	2017-08-13 21:35:38.659022	1
+prolific	fruchtbar	2017-08-13 22:26:41.210159	1
+tradeoff	Kompromiss {m} [selten {n}]	2017-08-13 22:31:41.455222	1
+overleaf	umseitig	2017-08-13 21:51:39.494473	1
+residing	angesiedelt	2017-08-13 22:09:40.430060	1
+indolent	träge	2017-08-13 22:12:40.539220	1
+austere  [joyless and strict]	streng	2017-08-13 22:19:40.903259	1
+bane	Fluch {m}	2017-08-13 22:29:41.345884	1
+to depreciate	abwerten	2017-08-13 21:12:37.556445	1
+arch-rival	Erzrivale {m}	2017-08-13 22:03:40.142366	1
+agony	Qual {f}	2017-08-13 21:06:37.280142	1
+calling [to a profession etc.]	Berufung {f}	2017-08-13 21:47:39.299475	1
+to accompany	begleiten	2017-08-13 21:38:38.831218	1
+blunt [e.g. knife, pencil]	stumpf [z. B. Messer, Bleistift]	2017-08-13 21:44:39.167197	1
+arbiter	Vermittler {m}	2017-08-13 21:36:38.713244	1
+stunning	atemberaubend	2017-08-13 22:11:40.479859	1
+insidious	heimtückisch	2017-08-13 21:08:37.360857	1
+cumbersome	schwerfällig	2017-08-13 22:20:40.955377	1
+interim	vorläufig	2017-08-13 21:22:38.003458	1
+compelling	verlockend	2017-08-13 22:17:40.785949	1
+brittle	spröde	2017-08-13 21:09:37.391719	1
+reluctant	abgeneigt	2017-08-13 22:07:40.345582	1
+rogue [attr.] [vicious]	bösartig [Tier, Person etc.]	2017-08-13 21:54:39.683721	1
+disposition [attitude, views]	Gesinnung {f}	2017-08-13 21:34:38.621895	1
+bleak	trostlos	2017-08-13 21:03:37.172669	1
+amply	reichlich	2017-08-13 21:45:39.228307	1
+to disabuse sb.	jdn. aufklären	2017-08-13 21:31:38.499221	1
+to blight	vernichten	2017-08-13 21:19:37.832289	1
+fervent	leidenschaftlich	2017-08-13 21:46:39.272276	1
+to peeve	ärgern	2017-08-13 22:21:41.003558	1
+to take heed of sth.	auf etw. achten	2017-08-13 21:52:39.555290	1
+to mitigate	mildern	2017-08-13 22:13:40.615268	1
+to summon	auffordern	2017-08-13 22:16:40.737639	1
+to take umbrage at / to sth.	Anstoß an etw. [Dat.] nehmen	2017-08-13 21:30:38.454602	1
+marvelous  [Am.]	fabelhaft	2017-08-13 21:14:37.636565	1
+dismay	Entsetzen {n}	2017-08-13 22:01:40.038105	1
+to chasten sb. [have a moderating effect]	jdn. mäßigen	2017-08-13 21:55:39.741671	1
+to meddle in sb.'s affairs	sich in jds. Angelegenheiten einmischen	2017-08-13 21:53:39.629919	1
+reproach	Vorwurf {m}	2017-08-13 21:57:39.850818	1
+to detail	zuteilen	2017-08-13 21:49:39.392908	1
+versatile	vielseitig	2017-08-13 22:22:41.051307	1
 distal	rumpffern [distal]	0001-01-01 00:00:00	2

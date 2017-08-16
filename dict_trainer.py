@@ -79,16 +79,19 @@ def download_sources():
 
     for i, remote in enumerate(config["remote_paths"]):
         newlist = downloader.download_list(remote)
-        # parse lines as entries and split them at the separator
-        entries = newlist.split("\n")
+        # parse lines as entries and split them at the (tab) separator
+        entries = str.splitlines(newlist)
         entries = [tuple(entry.split(DICT_DELIMITER)) for entry in entries]
-        print(entries) # TEST
 
         # merge entries into the locally loaded vocs
+        old_vocs =  [(voc["head"], voc["body"]) for voc in vocs]
         for entry in entries:
-            if not entry in [(voc["head"], voc["body"]) for voc in vocs]:
-                new_voc = {"head": entry[0], "body": entry[1],
-                           "last": datetime.min, "total": 0}
+            if not entry in old_vocs:
+                new_voc = {"head": entry[0],
+                           "body": entry[1],
+                           "last": datetime.min,
+                           "total": 0,
+                           "source": i}
                 vocs.append(new_voc)
 
 
@@ -158,7 +161,7 @@ if __name__ == '__main__':
 
     load_files()
     # if "-d" in optparse:
-    # download_sources()
+    download_sources()
     shuffle_vocs() # shuffling before ranking: vary, but not destroy order
     rank_vocs()
     try:

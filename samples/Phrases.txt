@@ -1,197 +1,223 @@
-hale and hearty	gesund und munter	0001-01-01 00:00:00	0
-He who smelt it, dealt it. [coll.]	Immer der, der's zuerst riecht. [ugs.]	0001-01-01 00:00:00	0
-to have some merit	etwas für sich haben	0001-01-01 00:00:00	0
-to bar sb. from sth.	jdn. von etw. ausschließen	0001-01-01 00:00:00	0
-I will teach you better.	Ich werde dich eines Besseren belehren.	0001-01-01 00:00:00	0
-to recover	(wieder) gesund werden	0001-01-01 00:00:00	0
-on a par with sb.	mit jdm. auf einer Stufe [fig.]	0001-01-01 00:00:00	0
-Birds of a feather flock together.	Gleich und Gleich gesellt sich gern.	0001-01-01 00:00:00	0
-to wear sackcloth and ashes [fig.]	in Sack und Asche gehen [fig.]	0001-01-01 00:00:00	0
-to fit like a glove	wie angegossen passen / sitzen	0001-01-01 00:00:00	0
-to bring to the fore	nach vorne bringen	0001-01-01 00:00:00	0
-from every point of view	in jeglicher Hinsicht	0001-01-01 00:00:00	0
-to rail against sth.	auf etw. schimpfen	0001-01-01 00:00:00	0
-Give him my best regards.	Grüßen Sie ihn schön von mir. [formelle Anrede]	0001-01-01 00:00:00	0
-Like father, like son.	Wie der Vater, so der Sohn.	0001-01-01 00:00:00	0
-Don't judge a book by its cover.	Der Schein trügt.	0001-01-01 00:00:00	0
-to buy a lie	etwas für bare Münze nehmen	0001-01-01 00:00:00	0
-to cope with sb./sth.	mit jdm./etw. fertig werden	0001-01-01 00:00:00	0
-to hope against hope	an einer unwirklichen Hoffnung festhalten	0001-01-01 00:00:00	0
-What does that do for me?	Was bringt mir das?	0001-01-01 00:00:00	0
-for the young and the young at heart	für Junge und Junggebliebene	0001-01-01 00:00:00	0
-She was placed in a foster home.	Sie wurde in Pflege gegeben.	0001-01-01 00:00:00	0
-in a nutshell	mit einem Wort	0001-01-01 00:00:00	0
-to know sth. inside out	etw. wie seine Westentasche kennen	0001-01-01 00:00:00	0
-to cut sb. some slack [coll.]	mit jdm. nachsichtig sein	0001-01-01 00:00:00	0
-to let one's guard down	unachtsam werden [in seiner Wachsamkeit nachlassen]	0001-01-01 00:00:00	0
-to take the wind out of sb.'s sails	jdm. den Wind aus den Segeln nehmen	0001-01-01 00:00:00	0
-to be canvassing from door to door	Klinken putzen [ugs.] [von Tür zu Tür gehen (Spenden, Wahlwerbung, Befragungen etc.)]	0001-01-01 00:00:00	0
-Don't beat your gums. [sl.] [Am.]	Spar dir deinen Atem! [Mach keine unnützen Worte]	0001-01-01 00:00:00	0
-I must be hearing things.	Ich glaube, ich höre nicht richtig.	0001-01-01 00:00:00	0
-to drop a dime on sb. [Am.] [coll.]	jdn. verpfeifen [ugs.]	0001-01-01 00:00:00	0
-to fray	abnutzen	0001-01-01 00:00:00	0
-to pop the question to sb. [coll.]	jdm. einen Heiratsantrag machen	0001-01-01 00:00:00	0
-lo and behold [hum.]	siehe da	0001-01-01 00:00:00	0
-Don't believe the hype! [Am.]	Glaub nicht alles, was du in den Medien liest / hörst!	0001-01-01 00:00:00	0
-gear [coll.]	Klamotten {pl} [ugs.]	0001-01-01 00:00:00	0
-Well, I'd say!	Das hoffe ich doch!	0001-01-01 00:00:00	0
-sb. can't be bothered to do sth.	jd. ist zu faul, etw. zu tun	0001-01-01 00:00:00	0
-to steal sb.'s thunder	jdm. den Wind aus den Segeln nehmen	0001-01-01 00:00:00	0
-to let it all hang out [coll.]	die Sau rauslassen [ugs.]	0001-01-01 00:00:00	0
-which is saying something	und das will was heißen [ugs.]	0001-01-01 00:00:00	0
-to sneak a peek	einen Blick erhaschen [ugs.]	0001-01-01 00:00:00	0
-It went like clockwork.	Es lief wie am Schnürchen.	0001-01-01 00:00:00	0
-Has been settled.	Hat sich erledigt.	0001-01-01 00:00:00	0
-at the expense of	auf Kosten von	0001-01-01 00:00:00	0
-to toil and moil	sich abrackern [ugs.]	0001-01-01 00:00:00	0
-Will wonders never cease!	Man höre und staune!	0001-01-01 00:00:00	0
-to vanish	den Wert Null annehmen	0001-01-01 00:00:00	0
-Brace yourself!	Nimm dich zusammen! [Wappne dich, mach dich gefasst]	0001-01-01 00:00:00	0
-to be up to sth.	etw. im Schilde führen	0001-01-01 00:00:00	0
-in many ways	in mancherlei Hinsicht	0001-01-01 00:00:00	0
-to apprehend	verstehen	0001-01-01 00:00:00	0
-Off with you!	Ab durch die Mitte!	0001-01-01 00:00:00	0
-to nip sth. in the bud	etw. im Keim ersticken	0001-01-01 00:00:00	0
-to sneak a peek at sth. [fig.]	einen Blick auf etw. riskieren [ugs.]	0001-01-01 00:00:00	0
-to make sb. chuckle	jdn. zum Schmunzeln bringen	0001-01-01 00:00:00	0
-to appeal to sb.'s common sense	jds. gesunden Menschenverstand ansprechen	0001-01-01 00:00:00	0
-Dear Sir / Madam,	Sehr geehrte Damen und Herren, [Briefanrede]	0001-01-01 00:00:00	0
-to have it in oneself to do sth. [coll.]	das Zeug dazu haben, etw. zu tun	0001-01-01 00:00:00	0
-to be in over one's head	einer Sache nicht gewachsen sein	0001-01-01 00:00:00	0
-to eat humble pie	kleine Brötchen backen	0001-01-01 00:00:00	0
-to sleep (it) off [coll.]	seinen Rausch ausschlafen	0001-01-01 00:00:00	0
-to put a spoke in sb.'s wheel	jdm. Steine in den Weg legen	0001-01-01 00:00:00	0
-to be a travesty [elections]	ein Hohn sein [Wahlen]	0001-01-01 00:00:00	0
-Self do, self have.	Selbst ist der Mann.	0001-01-01 00:00:00	0
-Word has it that ...	Es geht das Gerücht, dass ...	0001-01-01 00:00:00	0
-Off you go!	Geh schon!	0001-01-01 00:00:00	0
-I rest my case.	Sag ich doch.	0001-01-01 00:00:00	0
-to brace sb. [coll.] [to confront sb.]	jdn. zur Rede stellen	0001-01-01 00:00:00	0
-to vanish into thin air	sich in Luft auflösen	0001-01-01 00:00:00	0
-to enter the fray	sich ins Getümmel stürzen	0001-01-01 00:00:00	0
-at will	absichtlich	0001-01-01 00:00:00	0
-to pave the way for sth. [fig.]	den Weg ebnen für etw. [fig.]	0001-01-01 00:00:00	0
-Just saying. [coll.]	Ich mein ja nur.	0001-01-01 00:00:00	0
-to go viral	einen Riesenerfolg landen [ugs.]	0001-01-01 00:00:00	0
-to bite the bullet [idiom]	in den sauren Apfel beißen [Redewendung]	0001-01-01 00:00:00	0
-if you will	wenn man so will	0001-01-01 00:00:00	0
-You name it!	Such es dir aus!	0001-01-01 00:00:00	0
-to have a lucid moment	einen lichten Moment haben	0001-01-01 00:00:00	0
-Take it with a pinch of salt!	Nimm&#8217;s nicht ganz so wörtlich!	0001-01-01 00:00:00	0
-to gain pace	an Fahrt gewinnen	0001-01-01 00:00:00	0
-It slipped my mind.	Es ist mir entfallen.	0001-01-01 00:00:00	0
-Who'd have thunk it? [sl., also: Whodathunkit] [Who would have thought it?]	Wer hätte das gedacht?	0001-01-01 00:00:00	0
-to fray	ausfransen	0001-01-01 00:00:00	0
-We are even.	Wir sind quitt.	0001-01-01 00:00:00	0
-Better safe than sorry.	Vorsicht ist besser als Nachsicht.	0001-01-01 00:00:00	0
-as the story goes	wie es in der Geschichte heißt	0001-01-01 00:00:00	0
-to laugh in one's sleeve [Am.]	sich [Dat.] ins Fäustchen lachen	0001-01-01 00:00:00	0
-at one's own peril	auf eigene Gefahr	0001-01-01 00:00:00	0
-to do sb. a disservice	jdm. einen Bärendienst erweisen	0001-01-01 00:00:00	0
-I for one ...	Ich für meinen Teil ...	0001-01-01 00:00:00	0
-to rest on one's laurels [idiom]	sich auf seinen Lorbeeren ausruhen [Idiom]	0001-01-01 00:00:00	0
-to cosy sb. along [Br.]	jdn. in Sicherheit wiegen	0001-01-01 00:00:00	0
-There's something cooking. [coll.]	Da ist etwas im Busch. [ugs.]	0001-01-01 00:00:00	0
-Knock yourself out! [coll.] [Am.]	Tu, was du nicht lassen kannst! [ugs.] [oft zynisch od. resignierend]	0001-01-01 00:00:00	0
-It's no use.	Es bringt nichts.	0001-01-01 00:00:00	0
-on one's own initiative	auf eigene Faust	0001-01-01 00:00:00	0
-(down) to the last farthing	auf Heller und Pfennig	0001-01-01 00:00:00	0
-at a pinch ... will do [Br.]	zur Not tut es auch ...	0001-01-01 00:00:00	0
-Don't get any ideas!	Komm nicht auf dumme Gedanken!	0001-01-01 00:00:00	0
-to cross the line [fig.]	die Grenze überschreiten [fig.]	0001-01-01 00:00:00	0
-straight from the horse's mouth	aus erster Hand	0001-01-01 00:00:00	0
-to prick up one's ears	die Ohren spitzen	0001-01-01 00:00:00	0
-Pace yourself!	Lass es ruhig angehen!	0001-01-01 00:00:00	0
-to walk on eggshells	einen Eiertanz aufführen	0001-01-01 00:00:00	0
-Stop, full stop, finish!	Schluss, aus, Ende!	0001-01-01 00:00:00	0
-Put your hand on your heart!	Hand aufs Herz!	0001-01-01 00:00:00	0
-That's going beyond a joke.	Da hört (doch) der Spaß auf. [ugs.]	0001-01-01 00:00:00	0
-to flunk sth. [esp. Am.] [coll.] [an exam]	bei etw. [Dat.] durchrasseln [ugs.] [einer Prüfung]	0001-01-01 00:00:00	0
-not worth a brass farthing	keinen Pfennig wert	0001-01-01 00:00:00	0
-to put sth. off	etw. auf die lange Bank schieben	0001-01-01 00:00:00	0
-to have sth. on good authority	etw. aus zuverlässiger Quelle wissen	0001-01-01 00:00:00	0
-It's in the lap of the gods. [Br.]	Es liegt allein bei den Göttern.	0001-01-01 00:00:00	0
-to think one is the cat's whiskers [Br.]	sich für etwas Besonderes halten	0001-01-01 00:00:00	0
-Same difference. [sl.]	Das ist dasselbe in Grün.	0001-01-01 00:00:00	0
-to cue	das Stichwort geben	0001-01-01 00:00:00	0
-to cock one's eyebrows	die Stirn runzeln	0001-01-01 00:00:00	0
-to raise awareness (of ...)	Bewusstsein schaffen (für ...)	0001-01-01 00:00:00	0
-It's not all roses.	Es gibt auch Schattenseiten.	0001-01-01 00:00:00	0
-to know one's metes and bounds	seine Grenzen kennen	0001-01-01 00:00:00	0
-serendipity [fig.]	mehr Glück als Verstand	0001-01-01 00:00:00	0
-to vanish	verschwinden	0001-01-01 00:00:00	0
-to ride roughshod over sb./sth.	jdn./etw. mit Füßen treten	0001-01-01 00:00:00	0
-to catch up with friends [fig.]	sich mit Freunden treffen [auch virtuell]	0001-01-01 00:00:00	0
-on good authority	aus glaubwürdiger Quelle	0001-01-01 00:00:00	0
-by chapter and verse	wortwörtlich	0001-01-01 00:00:00	0
-to beg the question	an der eigentlichen Frage vorbeigehen	0001-01-01 00:00:00	0
-off colour  [Br.]	nicht gesund	0001-01-01 00:00:00	0
-across-the-board	durch die Bank [nachgestellt]	0001-01-01 00:00:00	0
-It's (like) water off a duck's back to him.	Das prallt alles an ihm ab.	0001-01-01 00:00:00	0
-to make sth. palatable to sb.	jdm. etw. schmackhaft machen [fig.] [ugs.]	0001-01-01 00:00:00	0
-gung-ho  [coll.]	kampfeslustig	0001-01-01 00:00:00	0
-he has a sense of foreboding	ihm schwant nichts Gutes [ugs.]	0001-01-01 00:00:00	0
-to break a butterfly on a wheel	mit Kanonen auf Spatzen schießen	0001-01-01 00:00:00	0
-or some such thing	oder sowas (in der Art) [ugs.]	0001-01-01 00:00:00	0
-to piggyback on sth.	von etw. [Dat.] abhängig sein	0001-01-01 00:00:00	0
-My, my! [used to express surprise]	Sieh an, sieh an!	0001-01-01 00:00:00	0
-to amount to nothing	auf nichts hinauslaufen	0001-01-01 00:00:00	0
-Settle it amongst yourselves!	Macht es / das unter euch aus!	0001-01-01 00:00:00	0
-fair enough	schön und gut	0001-01-01 00:00:00	0
-Do as you would be done by!	Was du nicht willst, dass man dir tu, das füg auch keinem andern zu!	0001-01-01 00:00:00	0
-to go awry	danebengehen [ugs.] [misslingen]	0001-01-01 00:00:00	0
-While you're at it, ...	Wenn du schon dabei bist ,...	0001-01-01 00:00:00	0
-as it were	gewissermaßen	0001-01-01 00:00:00	0
-Hit or miss.	Auf gut Glück.	0001-01-01 00:00:00	0
-on your behalf	deinetwegen	0001-01-01 00:00:00	0
-of / on one's own motion [of the authority's motion]	von Amts wegen	0001-01-01 00:00:00	0
-peek	kurzer Blick {m}	0001-01-01 00:00:00	0
-under the guise of sth.	unter dem Deckmantel von etw.	0001-01-01 00:00:00	0
-to stay put	sich nicht vom Fleck rühren	0001-01-01 00:00:00	0
-Don't hold your breath! [fig.]	Das kann dauern!	0001-01-01 00:00:00	0
-to cook sb.'s goose [coll.]	jdm. den Garaus machen [ugs.]	0001-01-01 00:00:00	0
-to preclude sb./sth.	jdn./etw. ausschließen	0001-01-01 00:00:00	0
-cheek by jowl	dicht beieinander	0001-01-01 00:00:00	0
-to read sb.'s mind	jds. Gedanken lesen	0001-01-01 00:00:00	0
-Go ahead!	Nach Ihnen! [formelle Anrede] [jdm. den Vortritt lassend]	0001-01-01 00:00:00	0
-to drink to sth.	auf etw. anstoßen	0001-01-01 00:00:00	0
-Says you! [coll.]	Sagst du! [ugs.]	0001-01-01 00:00:00	0
-to reinvent the wheel [fig.]	das Rad neu erfinden [fig.]	0001-01-01 00:00:00	0
+at the expense of	auf Kosten von	2017-08-15 00:50:50.788749	1
+under the guise of sth.	unter dem Deckmantel von etw.	2017-08-15 01:00:51.257788	1
+It's (like) water off a duck's back to him.	Das prallt alles an ihm ab.	2017-08-15 01:11:51.855022	1
+to pop the question to sb. [coll.]	jdm. einen Heiratsantrag machen	2017-08-15 01:12:51.907505	1
+to rail against sth.	auf etw. schimpfen	2017-08-15 01:15:52.058811	1
+to toil	hart arbeiten	2017-08-15 01:19:52.275178	1
+a horse of another color [Am.]	etwas ganz anderes	2017-08-15 01:33:52.915516	1
+to flunk sth. [esp. Am.] [coll.] [an exam]	bei etw. [Dat.] durchrasseln [ugs.] [einer Prüfung]	2017-08-15 01:34:52.975903	1
+Don't hold your breath! [fig.]	Das kann dauern!	2017-08-15 08:12:02.861740	1
+Says you! [coll.]	Sagst du! [ugs.]	2017-08-15 08:16:03.031586	1
+to walk on eggshells	einen Eiertanz aufführen	2017-08-15 21:47:32.983246	1
+I must be hearing things.	Ich glaube, ich höre nicht richtig.	2017-08-15 21:49:33.031721	1
+in a nutshell	mit einem Wort	2017-08-15 22:01:33.502423	1
+Who'd have thunk it? [sl., also: Whodathunkit] [Who would have thought it?]	Wer hätte das gedacht?	2017-08-15 22:24:35.775007	1
+Same difference. [sl.]	Das ist dasselbe in Grün.	2017-08-15 22:31:36.161918	1
+to be in over one's head	einer Sache nicht gewachsen sein	2017-08-15 22:33:36.225858	1
+to fit like a glove	wie angegossen passen / sitzen	2017-08-15 22:36:36.399672	1
+to make sb. chuckle	jdn. zum Schmunzeln bringen	2017-08-15 22:38:36.506627	1
+Brace yourself!	Nimm dich zusammen! [Wappne dich, mach dich gefasst]	2017-08-15 22:39:36.568033	1
+to preclude sb./sth.	jdn./etw. ausschließen	2017-08-15 22:41:36.672802	1
+to take the wind out of sb.'s sails	jdm. den Wind aus den Segeln nehmen	2017-08-15 22:48:36.990075	1
+to be canvassing from door to door	Klinken putzen [ugs.] [von Tür zu Tür gehen (Spenden, Wahlwerbung, Befragungen etc.)]	2017-08-15 23:13:38.113792	1
+full stop [Br.]	Punkt {m} [Satzzeichen]	2017-08-15 23:22:38.592461	1
+across-the-board	durch die Bank [nachgestellt]	2017-08-15 23:24:38.712420	1
+to let it all hang out [coll.]	die Sau rauslassen [ugs.]	2017-08-15 23:27:38.883165	1
+I will teach you better.	Ich werde dich eines Besseren belehren.	2017-08-15 23:29:38.930172	1
+to have it in oneself to do sth. [coll.]	das Zeug dazu haben, etw. zu tun	2017-08-15 23:34:39.109770	1
+Health is better than wealth.	Lieber arm und gesund als reich und krank.	2017-08-15 23:38:39.289371	1
+to let one's guard down	unachtsam werden [in seiner Wachsamkeit nachlassen]	2017-08-15 23:39:39.350619	1
+Hear ye, hear ye! [archaic]	Hört, hört!	2017-08-15 23:40:39.410426	1
+to pave the way for sth. [fig.]	den Weg ebnen für etw. [fig.]	2017-08-15 23:51:39.900675	1
+in many ways	in mancherlei Hinsicht	2017-08-15 23:54:40.053021	1
+to catch sb. napping	jdn. überrumpeln	2017-08-15 23:56:40.122640	1
+in plain English	auf gut Deutsch	2017-08-16 00:18:41.180256	1
+to buy a lie	etwas für bare Münze nehmen	2017-08-16 00:31:41.679548	1
+to pull off [coll.] [perform successfully]	zustande bringen	2017-08-16 14:33:26.163519	1
+of / on one's own motion [of the authority's motion]	von Amts wegen	2017-08-16 14:39:26.451657	1
+to cope with sb./sth.	mit jdm./etw. fertig werden	2017-08-16 14:40:26.514362	1
+to give the game away	alles ausplaudern	2017-08-16 14:50:26.895797	1
+to stay put	sich nicht vom Fleck rühren	2017-08-16 14:51:26.908517	1
+to run off at the mouth	labern wie ein Wasserfall [ugs.]	2017-08-16 14:53:27.033074	1
+to sleep (it) off [coll.]	seinen Rausch ausschlafen	2017-08-16 15:02:27.451539	1
+Hit or miss.	Auf gut Glück.	2017-08-16 15:10:27.813018	1
+That's going beyond a joke.	Da hört (doch) der Spaß auf. [ugs.]	2017-08-16 15:28:28.687592	1
+to rub elbows with sb. [rub shoulders with] [Am.] [Aus.] [coll.]	mit jdm. verkehren [(gesellschaftlichen) Umgang haben]	2017-08-16 15:29:28.730776	1
+on good authority	aus glaubwürdiger Quelle	2017-08-16 15:38:29.226145	1
+to drink to sth.	auf etw. anstoßen	2017-08-16 15:45:29.595773	1
+to dabble in sth.	sich oberflächlich mit etw. befassen	2017-08-16 15:47:29.649484	1
+to have sth. on good authority	etw. aus zuverlässiger Quelle wissen	2017-08-16 15:51:29.854946	1
+to recover	(wieder) gesund werden	2017-08-16 15:55:30.060676	1
+It's in the lap of the gods. [Br.]	Es liegt allein bei den Göttern.	2017-08-16 16:16:31.147704	1
+to vanish	verschwinden	2017-08-16 16:17:31.199350	1
+Stay healthy.	Bleib gesund.	2017-08-16 18:52:11.131472	1
+Stop, full stop, finish!	Schluss, aus, Ende!	2017-08-16 20:38:10.183829	1
+to steal sb.'s thunder	jdm. den Wind aus den Segeln nehmen	2017-08-16 21:10:13.896184	1
+by chapter and verse	wortwörtlich	2017-08-16 21:19:14.329536	1
+Works like a charm!	Klappt wunderbar!	2017-08-16 21:20:14.375396	1
+to appeal to sb.'s common sense	jds. gesunden Menschenverstand ansprechen	2017-08-16 21:50:15.901324	1
+gear [coll.]	Klamotten {pl} [ugs.]	2017-08-16 21:51:15.962849	1
+off colour  [Br.]	nicht gesund	2017-08-16 21:55:16.118186	1
+We are even.	Wir sind quitt.	2017-08-16 21:57:16.227222	1
+Pace yourself!	Lass es ruhig angehen!	2017-08-16 22:02:16.505758	1
+to cut sb. some slack [coll.]	mit jdm. nachsichtig sein	2017-08-16 22:10:16.843707	1
+to dig one's heels in	auf stur schalten	2017-08-16 22:20:17.310412	1
+or some such thing	oder sowas (in der Art) [ugs.]	2017-08-16 22:23:17.376398	1
+Thanks for having me.	Danke für die Einladung.	2017-08-16 22:25:17.486416	1
+to know sth. inside out	etw. wie seine Westentasche kennen	2017-08-16 22:30:17.774042	1
+Like father, like son.	Wie der Vater, so der Sohn.	2017-08-16 22:32:17.861243	1
+It's no use.	Es bringt nichts.	2017-08-16 22:34:17.953622	1
+Don't judge a book by its cover.	Der Schein trügt.	2017-08-16 22:41:18.293460	1
+to make sth. palatable to sb.	jdm. etw. schmackhaft machen [fig.] [ugs.]	2017-08-16 22:45:18.495433	1
+to sneak a peek at sth. [fig.]	einen Blick auf etw. riskieren [ugs.]	2017-08-16 22:49:18.666838	1
 on the baker's list [Irish] [coll.] [in good health]	gesund (und munter)	0001-01-01 00:00:00	0
+to drop a dime on sb. [Am.] [coll.]	jdn. verpfeifen [ugs.]	0001-01-01 00:00:00	0
+to bring to the fore	nach vorne bringen	0001-01-01 00:00:00	0
+to apprehend	verstehen	0001-01-01 00:00:00	0
+Has been settled.	Hat sich erledigt.	0001-01-01 00:00:00	0
+to amount to nothing	auf nichts hinauslaufen	0001-01-01 00:00:00	0
+not worth a brass farthing	keinen Pfennig wert	0001-01-01 00:00:00	0
+from every point of view	in jeglicher Hinsicht	0001-01-01 00:00:00	0
+if you will	wenn man so will	0001-01-01 00:00:00	0
+Will wonders never cease!	Man höre und staune!	0001-01-01 00:00:00	0
+Beauty is only skin deep. [coll.]	Der Schein trügt.	0001-01-01 00:00:00	0
+to wear sackcloth and ashes [fig.]	in Sack und Asche gehen [fig.]	0001-01-01 00:00:00	0
 Beauty is in the eye of the beholder.	Schönheit liegt im Auge des Betrachters.	0001-01-01 00:00:00	0
-Health is better than wealth.	Lieber arm und gesund als reich und krank.	0001-01-01 00:00:00	0
+to break a butterfly on a wheel	mit Kanonen auf Spatzen schießen	0001-01-01 00:00:00	0
 to pip sb. at the post [Br.] [fig.]	jdm. um Haaresbreite zuvorkommen	0001-01-01 00:00:00	0
-You said it!	Du sagst es!	0001-01-01 00:00:00	0
-What the heck!	Was soll's!	0001-01-01 00:00:00	0
-to catch sb. napping	jdn. überrumpeln	0001-01-01 00:00:00	0
-in sum [fig.]	mit einem Wort	0001-01-01 00:00:00	0
-to dig one's heels in	auf stur schalten	0001-01-01 00:00:00	0
-Hear ye, hear ye! [archaic]	Hört, hört!	0001-01-01 00:00:00	0
-Belated happy birthday!	(Herzlichen) Glückwunsch nachträglich! [zum Geburtstag]	0001-01-01 00:00:00	0
-to run off at the mouth	labern wie ein Wasserfall [ugs.]	0001-01-01 00:00:00	0
-a horse of another color [Am.]	etwas ganz anderes	0001-01-01 00:00:00	0
-to give the game away	alles ausplaudern	0001-01-01 00:00:00	0
-Works like a charm!	Klappt wunderbar!	0001-01-01 00:00:00	0
-It gives me the willies. [coll.]	Es macht mich verrückt.	0001-01-01 00:00:00	0
+to vanish into thin air	sich in Luft auflösen	0001-01-01 00:00:00	0
+Word has it that ...	Es geht das Gerücht, dass ...	0001-01-01 00:00:00	0
+Give him my best regards.	Grüßen Sie ihn schön von mir. [formelle Anrede]	0001-01-01 00:00:00	0
+It went like clockwork.	Es lief wie am Schnürchen.	0001-01-01 00:00:00	0
+straight from the horse's mouth	aus erster Hand	0001-01-01 00:00:00	0
+as it were	gewissermaßen	0001-01-01 00:00:00	0
+to ride roughshod over sb./sth.	jdn./etw. mit Füßen treten	0001-01-01 00:00:00	0
+at will	absichtlich	0001-01-01 00:00:00	0
+Do as you would be done by!	Was du nicht willst, dass man dir tu, das füg auch keinem andern zu!	0001-01-01 00:00:00	0
+to read sb.'s mind	jds. Gedanken lesen	0001-01-01 00:00:00	0
+to get one's point across	seinen Standpunkt deutlich machen	0001-01-01 00:00:00	0
+to have some merit	etwas für sich haben	0001-01-01 00:00:00	0
+Off with you!	Ab durch die Mitte!	0001-01-01 00:00:00	0
+to cue	das Stichwort geben	0001-01-01 00:00:00	0
+to reinvent the wheel [fig.]	das Rad neu erfinden [fig.]	0001-01-01 00:00:00	0
+hale and hearty	gesund und munter	0001-01-01 00:00:00	0
+Dear Sir / Madam,	Sehr geehrte Damen und Herren, [Briefanrede]	0001-01-01 00:00:00	0
 to be worth a mint	Gold wert sein	0001-01-01 00:00:00	0
-full stop [Br.]	Punkt {m} [Satzzeichen]	0001-01-01 00:00:00	0
-to dabble in sth.	sich oberflächlich mit etw. befassen	0001-01-01 00:00:00	0
-run-of-the-mill	Allerwelts-	0001-01-01 00:00:00	0
-in plain English	auf gut Deutsch	0001-01-01 00:00:00	0
-to toil	hart arbeiten	0001-01-01 00:00:00	0
-to rub elbows with sb. [rub shoulders with] [Am.] [Aus.] [coll.]	mit jdm. verkehren [(gesellschaftlichen) Umgang haben]	0001-01-01 00:00:00	0
-to be off the track	auf dem Holzweg sein	0001-01-01 00:00:00	0
-to put one's money where one's mouth is	seinen Worten Taten folgen lassen [bes. in finanzieller Hinsicht]	0001-01-01 00:00:00	0
-to be barking up the wrong tree [fig.]	auf dem falschen Dampfer sein [fig.]	0001-01-01 00:00:00	0
+all the more	erst recht	0001-01-01 00:00:00	0
 from scratch	aus dem Nichts	0001-01-01 00:00:00	0
+to rain pitchforks	wie aus Eimern gießen [ugs.]	0001-01-01 00:00:00	0
+fair enough	schön und gut	0001-01-01 00:00:00	0
+(down) to the last farthing	auf Heller und Pfennig	0001-01-01 00:00:00	0
+That's not my cup of tea.	Das ist nicht mein Fall.	0001-01-01 00:00:00	0
+gung-ho  [coll.]	kampfeslustig	0001-01-01 00:00:00	0
+It is going nicely.	Es läuft wie geschmiert.	0001-01-01 00:00:00	0
+to bite the bullet [idiom]	in den sauren Apfel beißen [Redewendung]	0001-01-01 00:00:00	0
+to keep sb. current	jdn. auf dem Laufenden halten	0001-01-01 00:00:00	0
+to go viral	einen Riesenerfolg landen [ugs.]	0001-01-01 00:00:00	0
+to hope against hope	an einer unwirklichen Hoffnung festhalten	0001-01-01 00:00:00	0
+What the heck!	Was soll's!	0001-01-01 00:00:00	0
+Put your hand on your heart!	Hand aufs Herz!	0001-01-01 00:00:00	0
+to laugh in one's sleeve [Am.]	sich [Dat.] ins Fäustchen lachen	0001-01-01 00:00:00	0
+It slipped my mind.	Es ist mir entfallen.	0001-01-01 00:00:00	0
+on a par with sb.	mit jdm. auf einer Stufe [fig.]	0001-01-01 00:00:00	0
+Belated happy birthday!	(Herzlichen) Glückwunsch nachträglich! [zum Geburtstag]	0001-01-01 00:00:00	0
+You said it!	Du sagst es!	0001-01-01 00:00:00	0
+peek	kurzer Blick {m}	0001-01-01 00:00:00	0
+in sum [fig.]	mit einem Wort	0001-01-01 00:00:00	0
+in the vein for	in der Stimmung für	0001-01-01 00:00:00	0
+to put sth. off	etw. auf die lange Bank schieben	0001-01-01 00:00:00	0
+to fray	ausfransen	0001-01-01 00:00:00	0
+I'm all for it.	Ich bin ganz dafür.	0001-01-01 00:00:00	0
+While you're at it, ...	Wenn du schon dabei bist, ...	0001-01-01 00:00:00	0
+to enter the fray	sich ins Getümmel stürzen	0001-01-01 00:00:00	0
+to sneak a peek	einen Blick erhaschen [ugs.]	0001-01-01 00:00:00	0
+While you're at it, ...	Wenn du schon dabei bist ,...	0001-01-01 00:00:00	0
+to be barking up the wrong tree [fig.]	auf dem falschen Dampfer sein [fig.]	0001-01-01 00:00:00	0
+Self do, self have.	Selbst ist der Mann.	0001-01-01 00:00:00	0
+to be a travesty [elections]	ein Hohn sein [Wahlen]	0001-01-01 00:00:00	0
+serendipity [fig.]	mehr Glück als Verstand	0001-01-01 00:00:00	0
+to bar sb. from sth.	jdn. von etw. ausschließen	0001-01-01 00:00:00	0
+to keep sb. on their toes	jdn. auf Trab halten	0001-01-01 00:00:00	0
+It gives me the willies. [coll.]	Es macht mich verrückt.	0001-01-01 00:00:00	0
+to eat humble pie	kleine Brötchen backen	0001-01-01 00:00:00	0
+to bark up the wrong tree	an der falschen Adresse sein	0001-01-01 00:00:00	0
+Don't beat your gums. [sl.] [Am.]	Spar dir deinen Atem! [Mach keine unnützen Worte]	0001-01-01 00:00:00	0
+at a pinch ... will do [Br.]	zur Not tut es auch ...	0001-01-01 00:00:00	0
+to think one is the cat's whiskers [Br.]	sich für etwas Besonderes halten	0001-01-01 00:00:00	0
+to fray	abnutzen	0001-01-01 00:00:00	0
+on your behalf	deinetwegen	0001-01-01 00:00:00	0
+to rest on one's laurels [idiom]	sich auf seinen Lorbeeren ausruhen [Idiom]	0001-01-01 00:00:00	0
+Well, I'd say!	Das hoffe ich doch!	0001-01-01 00:00:00	0
+to be off the track	auf dem Holzweg sein	0001-01-01 00:00:00	0
+to do sb. a disservice	jdm. einen Bärendienst erweisen / leisten [Redewendung]	0001-01-01 00:00:00	0
+to cock one's eyebrows	die Stirn runzeln	0001-01-01 00:00:00	0
+to toil and moil	sich abrackern [ugs.]	0001-01-01 00:00:00	0
+to cook sb.'s goose [coll.]	jdm. den Garaus machen [ugs.]	0001-01-01 00:00:00	0
+to catch up with friends [fig.]	sich mit Freunden treffen [auch virtuell]	0001-01-01 00:00:00	0
+Don't believe the hype! [Am.]	Glaub nicht alles, was du in den Medien liest / hörst!	0001-01-01 00:00:00	0
+Take it with a pinch of salt!	Nimm&#8217;s nicht ganz so wörtlich!	0001-01-01 00:00:00	0
+to go awry	danebengehen [ugs.] [misslingen]	0001-01-01 00:00:00	0
+he has a sense of foreboding	ihm schwant nichts Gutes [ugs.]	0001-01-01 00:00:00	0
+not a hunch	keine Ahnung	0001-01-01 00:00:00	0
+on one's own initiative	auf eigene Faust	0001-01-01 00:00:00	0
+to nip sth. in the bud	etw. im Keim ersticken	0001-01-01 00:00:00	0
+to gain pace	an Fahrt gewinnen	0001-01-01 00:00:00	0
+to prick up one's ears	die Ohren spitzen	0001-01-01 00:00:00	0
+to beg the question	an der eigentlichen Frage vorbeigehen	0001-01-01 00:00:00	0
+Just saying. [coll.]	Ich mein ja nur.	0001-01-01 00:00:00	0
+Birds of a feather flock together.	Gleich und Gleich gesellt sich gern.	0001-01-01 00:00:00	0
+to put one's money where one's mouth is	seinen Worten Taten folgen lassen [bes. in finanzieller Hinsicht]	0001-01-01 00:00:00	0
+as the story goes	wie es in der Geschichte heißt	0001-01-01 00:00:00	0
+at one's own peril	auf eigene Gefahr	0001-01-01 00:00:00	0
+for the young and the young at heart	für Junge und Junggebliebene	0001-01-01 00:00:00	0
+sb. can't be bothered to do sth.	jd. ist zu faul, etw. zu tun	0001-01-01 00:00:00	0
+to know one's metes and bounds	seine Grenzen kennen	0001-01-01 00:00:00	0
+run-of-the-mill	Allerwelts-	0001-01-01 00:00:00	0
+to drop a brick [coll.]	ins Fettnäpfchen treten [ugs.]	0001-01-01 00:00:00	0
+to piggyback on sth.	von etw. [Dat.] abhängig sein	0001-01-01 00:00:00	0
+lo and behold [hum.]	siehe da	0001-01-01 00:00:00	0
+by word of mouth	mündlich	0001-01-01 00:00:00	0
+cheek by jowl	dicht beieinander	0001-01-01 00:00:00	0
+to open a can of worms	Probleme schaffen	0001-01-01 00:00:00	0
+Go ahead!	Nach Ihnen! [formelle Anrede] [jdm. den Vortritt lassend]	0001-01-01 00:00:00	0
+under a single roof [esp. fig.]	unter einem Dach [bes. fig.]	0001-01-01 00:00:00	0
+to go to (considerable) length	(beträchtliche) Mühen in Kauf nehmen	0001-01-01 00:00:00	0
+to brace sb. [coll.] [to confront sb.]	jdn. zur Rede stellen	0001-01-01 00:00:00	0
+I for one ...	Ich für meinen Teil ...	0001-01-01 00:00:00	0
 It's all over but the shouting. [Am.]	Die Sache ist so gut wie gelaufen. [Sache, Sieg, Qualifikation]	0001-01-01 00:00:00	0
-Stay healthy.	Bleib gesund.	0001-01-01 00:00:00	0
+You name it!	Such es dir aus!	0001-01-01 00:00:00	0
+I rest my case.	Sag ich doch.	0001-01-01 00:00:00	0
+My, my! [used to express surprise]	Sieh an, sieh an!	0001-01-01 00:00:00	0
+Don't get any ideas!	Komm nicht auf dumme Gedanken!	0001-01-01 00:00:00	0
+to cosy sb. along [Br.]	jdn. in Sicherheit wiegen	0001-01-01 00:00:00	0
+to do sb. a disservice	jdm. einen Bärendienst erweisen	0001-01-01 00:00:00	0
+to be on cloud nine	auf Wolke sieben schweben	0001-01-01 00:00:00	0
+to vanish	den Wert Null annehmen	0001-01-01 00:00:00	0
+to be up to sth.	etw. im Schilde führen	0001-01-01 00:00:00	0
+How's it going?	Wie geht's?	0001-01-01 00:00:00	0
+Knock yourself out! [coll.] [Am.]	Tu, was du nicht lassen kannst! [ugs.] [oft zynisch od. resignierend]	0001-01-01 00:00:00	0
+It's not all roses.	Es gibt auch Schattenseiten.	0001-01-01 00:00:00	0
+to add fresh fuel to a quarrel	Öl ins Feuer schütten	0001-01-01 00:00:00	0
+She was placed in a foster home.	Sie wurde in Pflege gegeben.	0001-01-01 00:00:00	0
+Off you go!	Geh schon!	0001-01-01 00:00:00	0
+to make a proper charlie of oneself [Br.] [coll.]	sich unsterblich blamieren [ugs.]	0001-01-01 00:00:00	0
+Settle it amongst yourselves!	Macht es / das unter euch aus!	0001-01-01 00:00:00	0
+What does that do for me?	Was bringt mir das?	0001-01-01 00:00:00	0
+to cross the line [fig.]	die Grenze überschreiten [fig.]	0001-01-01 00:00:00	0
+to get by [manage, make ends meet]	über die Runden kommen	0001-01-01 00:00:00	0
+to put a spoke in sb.'s wheel	jdm. Steine in den Weg legen	0001-01-01 00:00:00	0
+There's something cooking. [coll.]	Da ist etwas im Busch. [ugs.]	0001-01-01 00:00:00	0
+He who smelt it, dealt it. [coll.]	Immer der, der's zuerst riecht. [ugs.]	0001-01-01 00:00:00	0
+to have a lucid moment	einen lichten Moment haben	0001-01-01 00:00:00	0
+to raise awareness (of ...)	Bewusstsein schaffen (für ...)	0001-01-01 00:00:00	0
+Better safe than sorry.	Vorsicht ist besser als Nachsicht.	0001-01-01 00:00:00	0
+which is saying something	und das will was heißen [ugs.]	0001-01-01 00:00:00	0
 under one umbrella [fig.]	unter einem Dach [fig.]	0001-01-01 00:00:00	0
+to pass a limit	eine Grenze überschreiten [fig.]	2017-08-13 22:24:41.158137	1
+to grind sb.'s gears [coll.]	jdn. zur Weißglut bringen	2017-08-13 21:04:37.176487	1
 A beautiful rear can also endear.	Ein schöner Rücken kann auch entzücken.	2017-08-13 21:50:39.435435	1
 to live and breathe something	nur für etwas leben	2017-08-13 21:07:37.299104	1
 to flunk an exam [coll.]	eine Prüfung verhauen [ugs.]	2017-08-13 21:56:39.801938	1
-to grind sb.'s gears [coll.]	jdn. zur Weißglut bringen	2017-08-13 21:04:37.176487	1
-to pass a limit	eine Grenze überschreiten [fig.]	2017-08-13 22:24:41.158137	1
 Curses, like chickens, come home to roost.	Wer anderen eine Grube gräbt, fällt selbst hinein.	2017-08-13 21:24:38.135213	1
-to clutch at straws	sich an einen Strohhalm klammern	2017-08-13 22:23:41.122197	1
 What the heck? <WTH>	Was zum Kuckuck?	2017-08-13 21:40:38.930860	1
+to clutch at straws	sich an einen Strohhalm klammern	2017-08-13 22:23:41.122197	1
