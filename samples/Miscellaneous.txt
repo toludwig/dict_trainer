@@ -1,90 +1,98 @@
-itchy	juckend	2017-08-15 01:08:51.682246	1
-Mew!	Miau!	2017-08-15 01:32:52.862320	1
-gibberish	Kauderwelsch {n}	2017-08-15 21:46:32.922217	1
-hunter-gatherer	Jäger {m} und Sammler	2017-08-15 21:58:33.399669	1
+planking [lying down game]	Planking {n} [sich in steifer Positur und Bauchlage (an öffentlichen Plätzen) fotografieren lassen]	2017-11-18 12:25:33.404053	1
+hodge-podge	Sammelsurium {n}	2017-11-18 13:13:35.770171	1
+kludgy [sl.]	pfuschig [ugs.]	2017-11-18 13:18:36.031872	1
+to dedupe [coll.]	Dubletten entfernen	2017-11-18 13:28:36.459590	1
+chain letter	Kettenbrief {m}	2017-11-18 14:09:37.336988	1
+general terms and conditions <GTC>	allgemeine Geschäftsbedingungen {pl} <AGB>	2017-11-18 14:24:38.073834	1
+general terms and conditions of business	allgemeine Geschäftsbedingungen {pl} <AGB>	2017-11-18 15:02:38.222736	1
+cetacea	Waltiere {pl}	2017-11-18 15:08:38.486955	1
+cordially	herzlich	2017-11-18 15:19:39.013183	2
+nary  [Am.]	nie	2017-11-18 15:20:39.051299	2
+Can you spare a minute?	Haben Sie eine Minute Zeit? [formelle Anrede]	2017-11-18 15:28:39.367914	2
+citadel	Festung {f}	2017-11-18 15:46:40.089375	2
+inasmuch as	insofern als	2017-11-18 16:24:50.915227	2
+gibberish	Kauderwelsch {n}	2017-11-18 16:44:51.818215	2
+to eschew	meiden	2017-11-18 16:49:52.073528	2
+wall-flower	Mauerblümchen {n}	2017-11-18 17:01:52.593995	2
+to and fro	hin und her	2017-11-18 17:19:53.421217	2
+proper [postpos.]	selbst	2017-11-18 17:28:53.929382	2
+to sass [Am.]	frech antworten	2017-11-18 17:35:54.250060	2
+f-prime of x <f'(x)>	f-Strich von x <f'(x)>	2017-11-18 17:42:54.599276	2
+also known as <aka>	aka [alias]	2017-11-18 17:58:55.438703	2
+or words to that effect <OWTTE>	sinngemäß gesagt [in anderen Worten]	2017-11-18 18:10:56.078647	2
+modulus	Betrag {m}	2017-11-18 18:14:56.321429	2
+Period. [esp. Am.]	"Punkt. [i. S. von ""weiter gibt es nichts zu sagen""]"	2017-11-18 18:25:56.734476	2
+videlicet <viz> [namely, i.e, that is to say]	nämlich	2017-11-18 18:30:56.974316	2
+blue-collar	Arbeiter-	2017-11-18 18:43:57.639461	2
+for what it's worth <FWIW>	wozu immer es auch gut sein mag [ob es nun hilfreich ist oder nicht]	2017-11-18 19:40:00.337186	2
+hunter-gatherer	Jäger {m} und Sammler	2017-11-18 19:59:01.308894	2
+zip code [Am.] [also: ZIP Code, Zip Code]	Postleitzahl {f} <PLZ>	2017-11-18 20:14:02.015351	2
+to carve	schnitzen	2017-11-18 20:53:33.948826	2
+Your mileage may vary. <YMMV>	Dein Ergebnis mag anders sein.	2017-11-18 21:00:34.276427	2
+to chug sth. [Am.] [coll.] [drink in one go]	etw. exen [ugs.]	2017-11-18 23:21:48.250133	2
+awkward	ungeschickt	2017-11-18 23:26:48.468408	2
+tall poppy syndrome <TPS> [pej.] [esp. Br. and Aus.]	"[""Neidsyndrom"" gegenüber besonders erfolgreichen Menschen]"	2017-11-18 23:49:49.706441	2
+to poke	stochern	2017-11-19 10:40:10.005865	2
+to crab [nag]	nörgeln	2017-11-19 11:06:11.177199	2
+wacky  [coll.]	bekloppt [ugs.]	2017-11-19 11:07:11.238929	2
+to go haywire [coll.]	kaputtgehen [ugs.]	2017-11-19 11:30:12.293022	2
+tart [Br.] [sl.] [dated] [prostitute]	Nutte {f}	2017-11-19 11:40:12.832626	2
+itchy	juckend	2017-11-19 17:30:31.765948	2
+savvy  [coll.]	clever	2017-11-19 17:49:32.778987	2
 jug-eared [coll.]	mit abstehenden Ohren [nachgestellt]	2017-08-15 23:06:37.833008	1
-vapor [Am.]	Dunst {m}	2017-08-15 23:10:37.964703	1
-Yuck! [coll.]	Pfui!	2017-08-15 23:20:38.473903	1
-albeit	obgleich	2017-08-16 00:29:41.612367	1
-tall poppy syndrome <TPS> [pej.] [esp. Br. and Aus.]	"[""Neidsyndrom"" gegenüber besonders erfolgreichen Menschen]"	2017-08-16 00:35:41.890447	1
-to savor [Am.]	genießen	2017-08-16 14:38:26.389334	1
-not until	erst, als	2017-08-16 15:19:28.276928	1
-gump [Am.] [coll.]	Schwachkopf {m}	2017-08-16 16:01:30.349651	1
-to sass [Am.]	frech antworten	2017-08-16 16:14:31.109858	1
-blue-collar	Arbeiter-	2017-08-16 18:47:10.866080	1
-to bear with sb.	mit jdm. Nachsicht haben	2017-08-16 18:51:11.076857	1
-videlicet <viz> [namely, i.e, that is to say]	nämlich	2017-08-16 20:44:10.493510	1
+to give sb. a piggyback (ride)	jdn. huckepack nehmen	2017-08-18 16:21:23.435711	1
 to launch	starten [Rakete]	2017-08-16 21:04:13.630518	1
-to wreak havoc	verheerende Schäden anrichten	2017-08-16 21:05:13.681001	1
-cordially	herzlich	2017-08-16 21:11:13.957599	1
-to purr	schnurren	2017-08-16 21:25:14.612508	1
-tart [Br.] [sl.] [dated] [prostitute]	Nutte {f}	2017-08-16 21:28:14.778953	1
-inasmuch as	insofern als	2017-08-16 22:04:16.573477	1
-to be mutual	auf Gegenseitigkeit beruhen	2017-08-16 22:11:16.860344	1
-bounty	Belohnung {f}	2017-08-16 22:17:17.153441	1
+to have sth. up one's sleeve	etw. in der Hinterhand haben	2017-08-18 12:11:34.511697	1
+not until	erst, als	2017-08-16 15:19:28.276928	1
+Yuck! [coll.]	Pfui!	2017-08-15 23:20:38.473903	1
 to spot sth. [discover]	etw. herausfinden	2017-08-16 22:39:18.217011	1
-to chug sth. [Am.] [coll.] [drink in one go]	etw. exen [ugs.]	0001-01-01 00:00:00	0
-piggyback	huckepack	0001-01-01 00:00:00	0
-citadel	Festung {f}	0001-01-01 00:00:00	0
-slippery slope argument <SSA>	Slippery-Slope-Argument {n}	0001-01-01 00:00:00	0
-for your information <FYI>	als Information	0001-01-01 00:00:00	0
-zip code [Am.] [also: ZIP Code, Zip Code]	Postleitzahl {f} <PLZ>	0001-01-01 00:00:00	0
-dusk	Dämmerung {f} [Abenddämmerung]	0001-01-01 00:00:00	0
-to crab [nag]	nörgeln	0001-01-01 00:00:00	0
-Can you spare a minute?	Haben Sie eine Minute Zeit? [formelle Anrede]	0001-01-01 00:00:00	0
-nary  [Am.]	nie	0001-01-01 00:00:00	0
-to carve	schnitzen	0001-01-01 00:00:00	0
-or words to that effect <OWTTE>	sinngemäß gesagt [in anderen Worten]	0001-01-01 00:00:00	0
-dandy  [Am.]  [coll.]	prima [ugs.]	0001-01-01 00:00:00	0
-to sway sb./sth. [influence]	jdn./etw. beeinflussen	0001-01-01 00:00:00	0
-modulus	Betrag {m}	0001-01-01 00:00:00	0
-also known as <aka>	aka [alias]	0001-01-01 00:00:00	0
-virtually	nahezu	0001-01-01 00:00:00	0
-acid test	Zerreißprobe {f}	0001-01-01 00:00:00	0
-to and fro	hin und her	0001-01-01 00:00:00	0
-nifty  [coll.]	raffiniert	0001-01-01 00:00:00	0
-small-time [attr.] [person]	unbedeutend	0001-01-01 00:00:00	0
-to be work in progress <WIP>	in Arbeit sein	0001-01-01 00:00:00	0
-to go haywire [coll.]	kaputtgehen [ugs.]	0001-01-01 00:00:00	0
-to fidget	zappeln	0001-01-01 00:00:00	0
-Period. [esp. Am.]	"Punkt. [i. S. von ""weiter gibt es nichts zu sagen""]"	0001-01-01 00:00:00	0
-manor	Herrenhaus {n}	0001-01-01 00:00:00	0
-reed	Schilf {n}	0001-01-01 00:00:00	0
-wacky  [coll.]	bekloppt [ugs.]	0001-01-01 00:00:00	0
-f-prime of x <f'(x)>	f-Strich von x <f'(x)>	0001-01-01 00:00:00	0
-ace [coll.]	genial [ugs.] [super]	0001-01-01 00:00:00	0
-vaccination	Impfung {f}	0001-01-01 00:00:00	0
-to poke [sl.] [of a man]	ficken [vulg.]	0001-01-01 00:00:00	0
-to be teeming with sth.	von etw. [Dat.] wimmeln	0001-01-01 00:00:00	0
-to pester sb.	jdm. in den Ohren liegen	0001-01-01 00:00:00	0
-to carve (sth.) [wooden objects]	(etw. [Akk.]) schnitzen	0001-01-01 00:00:00	0
-mileage [number of miles travelled or covered]	Kilometerstand {m} [eigentlich: Meilenstand]	0001-01-01 00:00:00	0
-to eschew	meiden	0001-01-01 00:00:00	0
-to have sth. up one's sleeve	etw. in der Hinterhand haben	0001-01-01 00:00:00	0
-Your mileage may vary. <YMMV>	Dein Ergebnis mag anders sein.	0001-01-01 00:00:00	0
-wall-flower	Mauerblümchen {n}	0001-01-01 00:00:00	0
-proper [postpos.]	selbst	0001-01-01 00:00:00	0
-to poke	stochern	0001-01-01 00:00:00	0
-to stumble upon sth.	zufällig auf etw. stoßen	0001-01-01 00:00:00	0
-to give sb. a piggyback (ride)	jdn. huckepack nehmen	0001-01-01 00:00:00	0
-sought	gesucht	0001-01-01 00:00:00	0
-well-nigh	beinah [ugs.]	0001-01-01 00:00:00	0
-to scale	maßstabsgetreu	0001-01-01 00:00:00	0
-pouting	schmollend	0001-01-01 00:00:00	0
-perk [coll.] [advantage]	Vorteil {m}	0001-01-01 00:00:00	0
-awkward	ungeschickt	0001-01-01 00:00:00	0
-to mull over sth.	sich etw. durch den Kopf gehen lassen	0001-01-01 00:00:00	0
-blunt [e.g. knife, pencil]	stumpf [z. B. Messer, Bleistift]	0001-01-01 00:00:00	0
-missile [weapon]	Rakete {f}	0001-01-01 00:00:00	0
-savvy  [coll.]	clever	0001-01-01 00:00:00	0
-gibberish	Geschwafel {n} [ugs.] [pej.]	0001-01-01 00:00:00	0
-sincere	herzlich [z. B. Bitte]	0001-01-01 00:00:00	0
-eye-rolling	augenrollend	0001-01-01 00:00:00	0
-for what it's worth <FWIW>	wozu immer es auch gut sein mag [ob es nun hilfreich ist oder nicht]	0001-01-01 00:00:00	0
-miasma	Gifthauch {m} [literarisch]	2017-08-13 22:06:40.305109	1
-It speaks volumes.	Es spricht Bände.	2017-08-13 22:14:40.653056	1
-bugbear [archaic]	Schreckgespenst {n}	2017-08-13 21:59:39.938672	1
-loose	locker	2017-08-13 21:13:37.582553	1
-sass [Am.] [sl.]	Frechheit {f}	2017-08-13 21:28:38.348796	1
-TBA [to be announced]	wird noch angekündigt	2017-08-13 22:18:40.843629	1
-to act in sb.'s name	in jds. Namen handeln	2017-08-13 21:21:37.947262	1
+sincere	herzlich [z. B. Bitte]	2017-08-19 22:56:42.403819	1
+for your information <FYI>	als Information	2017-08-17 00:16:22.707573	1
+slippery slope argument <SSA>	Slippery-Slope-Argument {n}	2017-08-17 00:15:22.677485	1
+to fidget	zappeln	2017-08-17 17:34:02.779723	1
+vaccination	Impfung {f}	2017-08-17 19:53:09.444605	1
+to scale	maßstabsgetreu	2017-08-19 09:24:00.723756	1
+gibberish	Geschwafel {n} [ugs.] [pej.]	2017-08-19 22:45:36.637871	1
+albeit	obgleich	2017-08-16 00:29:41.612367	1
+eye-rolling	augenrollend	2017-08-19 22:58:42.531306	1
+manor	Herrenhaus {n}	2017-08-17 18:05:04.247345	1
+ace [coll.]	genial [ugs.] [super]	2017-08-17 19:43:09.036056	1
+to sway sb./sth. [influence]	jdn./etw. beeinflussen	2017-08-17 14:06:22.374077	1
+acid test	Zerreißprobe {f}	2017-08-17 15:39:57.248170	1
+to mull over sth.	sich etw. durch den Kopf gehen lassen	2017-08-19 21:04:19.122504	1
+to purr	schnurren	2017-08-16 21:25:14.612508	1
+to be mutual	auf Gegenseitigkeit beruhen	2017-08-16 22:11:16.860344	1
+to be work in progress <WIP>	in Arbeit sein	2017-08-17 17:03:01.411229	1
+Mew!	Miau!	2017-08-15 01:32:52.862320	1
+mileage [number of miles travelled or covered]	Kilometerstand {m} [eigentlich: Meilenstand]	2017-08-18 11:41:33.032458	1
+well-nigh	beinah [ugs.]	2017-08-18 18:50:40.411694	1
+to be teeming with sth.	von etw. [Dat.] wimmeln	2017-08-17 21:07:59.190498	1
+vapor [Am.]	Dunst {m}	2017-08-15 23:10:37.964703	1
+pouting	schmollend	2017-08-19 20:49:18.332285	1
+bounty	Belohnung {f}	2017-08-16 22:17:17.153441	1
+small-time [attr.] [person]	unbedeutend	2017-08-17 16:57:01.063330	1
+to carve (sth.) [wooden objects]	(etw. [Akk.]) schnitzen	2017-08-17 21:48:01.798010	1
+to pester sb.	jdm. in den Ohren liegen	2017-08-17 21:12:59.447474	1
+to savor [Am.]	genießen	2017-08-16 14:38:26.389334	1
+to bear with sb.	mit jdm. Nachsicht haben	2017-08-16 18:51:11.076857	1
+gump [Am.] [coll.]	Schwachkopf {m}	2017-08-16 16:01:30.349651	1
+dusk	Dämmerung {f} [Abenddämmerung]	2017-08-17 00:30:23.361146	1
+virtually	nahezu	2017-08-17 15:36:57.055905	1
+missile [weapon]	Rakete {f}	2017-08-19 21:46:21.631365	1
+to poke [sl.] [of a man]	ficken [vulg.]	2017-08-17 20:16:10.507894	1
+blunt [e.g. knife, pencil]	stumpf [z. B. Messer, Bleistift]	2017-08-19 21:15:19.802444	1
+perk [coll.] [advantage]	Vorteil {m}	2017-08-19 20:55:18.623305	1
+to stumble upon sth.	zufällig auf etw. stoßen	2017-08-18 16:19:23.351780	1
+to wreak havoc	verheerende Schäden anrichten	2017-08-16 21:05:13.681001	1
+reed	Schilf {n}	2017-08-17 18:41:05.857857	1
+nifty  [coll.]	raffiniert	2017-08-17 16:42:00.273899	1
+dandy  [Am.]  [coll.]	prima [ugs.]	2017-08-17 14:01:22.094260	1
+piggyback	huckepack	2017-08-16 23:45:21.135813	1
+sought	gesucht	2017-08-18 16:29:23.865654	1
+TBA [to be announced]	wird noch angekündigt	2017-08-20 17:05:00.036251	2
+loose	locker	2017-08-20 09:13:06.996004	2
+sass [Am.] [sl.]	Frechheit {f}	2017-08-20 09:17:07.223278	2
+bugbear [archaic]	Schreckgespenst {n}	2017-08-20 09:09:06.759682	2
+It speaks volumes.	Es spricht Bände.	2017-08-20 09:03:06.445246	2
+miasma	Gifthauch {m} [literarisch]	2017-08-20 08:50:05.765821	2
+to act in sb.'s name	in jds. Namen handeln	2017-08-20 17:39:01.382871	2

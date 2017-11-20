@@ -1,463 +1,532 @@
-scaffold	Gerüst {n}	2017-08-15 00:57:51.124025	1
-to reek	riechen	2017-08-15 01:01:51.313634	1
-to abide by sth.	sich an etw. [Akk.] halten [etw. befolgen]	2017-08-15 01:05:51.520292	1
-intestine	Darm {m}	2017-08-15 01:09:51.734481	1
-furnace	Ofen {m}	2017-08-15 01:10:51.805157	1
-to dangle	baumeln	2017-08-15 01:13:51.960491	1
-India ink [Am.]	Tusche {f}	2017-08-15 01:14:52.019871	1
-bachelor	Junggeselle {m}	2017-08-15 01:18:52.213621	1
-lawn	Rasen {m}	2017-08-15 01:21:52.395625	1
-to tune	stimmen [Instrumente]	2017-08-15 01:23:52.495101	1
-sludge	Schlamm {m}	2017-08-15 01:25:52.587891	1
-coy	schüchtern	2017-08-15 08:15:03.027914	1
-tack [Am.] [thumbtack]	Reißzwecke {f}	2017-08-15 08:20:03.235581	1
-chore	Hausarbeit {f}	2017-08-15 17:28:31.054856	1
-mermaid	Meerjungfrau {f}	2017-08-15 17:50:15.107610	1
-pedigree	Stammbaum {m}	2017-08-15 17:59:15.625764	1
-to clobber sb. [coll.]	jdn. verprügeln	2017-08-15 21:45:32.870445	1
-meager [Am.]	mager [dürftig kärglich, selten auch hager]	2017-08-15 21:57:33.341496	1
-gasoline [Am.]	Benzin {n}	2017-08-15 22:00:33.498336	1
-roster	Liste {f}	2017-08-15 22:03:33.596935	1
-to toil	hart arbeiten	2017-08-15 22:05:33.708764	1
-burglar	Einbrecher {m}	2017-08-15 22:07:33.828945	1
-faucet [Am.] [water faucet]	Wasserhahn {m}	2017-08-15 22:08:33.884303	1
-chunk	Brocken {m}	2017-08-15 22:09:33.933787	1
-heir	Erbe {m}	2017-08-15 22:10:33.969282	1
-barrow	Schubkarre {f}	2017-08-15 22:20:35.601458	1
-to commute [to travel between home and work]	pendeln	2017-08-15 22:26:35.891188	1
-to mourn	trauern	2017-08-15 22:27:35.961636	1
-deluge [also fig.]	Flut {f} [Überschwemmung] [auch fig.]	2017-08-15 22:28:36.021350	1
-to sift sth.	etw. überprüfen	2017-08-15 22:29:36.074373	1
-ladle	Schöpfkelle {f}	2017-08-15 22:35:36.336698	1
-carrion	Aas {n}	2017-08-15 22:37:36.470404	1
-cozy  [Am.]	gemütlich	2017-08-15 22:45:36.815260	1
-spiteful	gehässig	2017-08-15 22:46:36.870474	1
-grease	Fett {n}	2017-08-15 22:50:37.073936	1
-crayon	Buntstift {m}	2017-08-15 22:52:37.167303	1
-dietary fiber {sg} [Am.]	Ballaststoffe {pl}	2017-08-15 22:56:37.354924	1
-gums {pl}	Zahnfleisch {n}	2017-08-15 23:00:37.562249	1
-lane	Fahrbahn {f}	2017-08-15 23:05:37.780032	1
-maw [also fig.]	Schlund {m}	2017-08-15 23:11:38.010248	1
-pear [Pyrus communis] [common pear]	Birne {f}	2017-08-15 23:15:38.210475	1
-poll	Umfrage {f}	2017-08-15 23:18:38.390657	1
-to trawl	mit dem Netz fischen	2017-08-15 23:19:38.417881	1
-to plummet	abstürzen	2017-08-15 23:25:38.749363	1
-to wink	zwinkern	2017-08-15 23:30:38.981464	1
-bud	Knospe {f}	2017-08-15 23:31:39.034215	1
-padding	Polsterung {f}	2017-08-15 23:32:39.073816	1
-expiration date	Ablaufdatum {n} [österr.] [Haltbarkeitsdatum]	2017-08-15 23:37:39.227777	1
-to flap	flattern [im Wind]	2017-08-15 23:41:39.462505	1
-pane	Fensterscheibe {f}	2017-08-15 23:43:39.562299	1
-thigh	Oberschenkel {m}	2017-08-15 23:44:39.568716	1
-carb [short] [carbohydrate]	Kohlenhydrat {n}	2017-08-15 23:48:39.748169	1
-to squirm	sich krümmen	2017-08-15 23:52:39.946996	1
-lump	Klumpen {m}	2017-08-15 23:55:40.076507	1
-shelter	Unterschlupf {m}	2017-08-15 23:59:40.224750	1
-falcon	Falke {m}	2017-08-16 00:01:40.348153	1
-cheetah [Acinonyx jubatus]	Gepard {m}	2017-08-16 00:06:40.530927	1
-purse [for carrying money]	Geldbeutel {m}	2017-08-16 00:08:40.619634	1
-hood [Am.]	Motorhaube {f}	2017-08-16 00:10:40.722692	1
-bathtub	Badewanne {f}	2017-08-16 00:11:40.769365	1
-brook	Bach {m}	2017-08-16 00:12:40.826397	1
-to grate	reiben [zerkleinern]	2017-08-16 00:22:41.340819	1
-bun [hairstyle]	Dutt {m} [regional] [Haarknoten]	2017-08-16 00:23:41.393131	1
-to veer [wind]	drehen [Wind]	2017-08-16 00:26:41.461733	1
-maggot	Made {f}	2017-08-16 00:27:41.530487	1
-to scoop	ausschöpfen	2017-08-16 14:35:26.259753	1
-to murmur	murmeln	2017-08-16 14:36:26.299365	1
-to dye sth.	etw. [Akk.] färben [Haar, Stoff etc.]	2017-08-16 14:42:26.555588	1
-nap	Nickerchen {n} [ugs.]	2017-08-16 14:44:26.608091	1
-black eye	blaues Auge {n}	2017-08-16 14:46:26.699924	1
-loath	abgeneigt	2017-08-16 14:58:27.255501	1
-to trawl sth. [esp. Br.] [fig.] [scour, sift]	etw. durchkämmen [fig.]	2017-08-16 15:01:27.390269	1
-to shrug (one's shoulders)	mit den Schultern zucken	2017-08-16 15:06:27.651572	1
-vacancy	Stellenangebot {n}	2017-08-16 15:08:27.713641	1
-to recover	(wieder) gesund werden	2017-08-16 15:09:27.771506	1
-faint	Ohnmacht {f}	2017-08-16 15:18:28.214425	1
-ridge	Erhöhung {f}	2017-08-16 15:24:28.481635	1
-squash [Cucurbita maxima]	Speisekürbis {m}	2017-08-16 15:27:28.641934	1
-tally	Strichliste {f}	2017-08-16 15:31:28.852705	1
-pip	Kern {m} [v. Obst]	2017-08-16 15:32:28.899516	1
-peg	Haken {m} [Kleiderhaken]	2017-08-16 15:33:28.947353	1
-vial	Ampulle {f}	2017-08-16 15:34:29.040478	1
-ribbon	Schleife {f} [Band, Kranzschleife]	2017-08-16 15:40:29.339771	1
-soil	Erde {f} [Erdreich, Bodenart]	2017-08-16 15:42:29.421893	1
-traineeship	Praktikum {n}	2017-08-16 15:53:29.970575	1
+the sniffles {pl} [coll.]	Schnupfen {m}	2017-11-18 12:15:32.979880	1
+phone booth	Telefonzelle {f}	2017-11-18 12:16:33.040417	1
+potluck [Am.]	[Essen, bei dem jeder etwas mitbringt]	2017-11-18 12:18:33.106015	1
+squad	Gruppe {f} [Trupp, Kommando, Kommission etc.]	2017-11-18 12:21:33.243632	1
+to rock sb./sth. [a baby etc.]	jdn./etw. wiegen [sanft schaukeln]	2017-11-18 12:22:33.274500	1
+snot [coll.]	Rotz {m} [vulg.]	2017-11-18 12:23:33.317275	1
+eatery [coll.] [restaurant]	Restaurant {n}	2017-11-18 12:29:33.533630	1
+pastry	Teig {m}	2017-11-18 12:30:33.583203	1
+bait	Köder {m}	2017-11-18 12:31:33.647076	1
+Gotcha. [sl.] [I understand.]	Verstanden.	2017-11-18 12:33:33.801197	1
+joiner	Schreiner {m}	2017-11-18 12:36:33.871168	1
+paste	Brei {m}	2017-11-18 12:38:33.967173	1
+to seize	packen [fassen, auch fig.]	2017-11-18 12:40:34.090046	1
+to nurse sb./sth. [cradle]	jdn./etw. wiegen [in den Armen]	2017-11-18 12:41:34.128665	1
+conductor	Dirigent {m}	2017-11-18 12:42:34.140509	1
+baton	Taktstock {m}	2017-11-18 12:45:34.277480	1
+lead <Pb>	Blei {n} <Pb>	2017-11-18 12:46:34.339305	1
+buttock	Pobacke {f} [ugs.]	2017-11-18 12:47:34.402364	1
+to munch (sth.)	(etw.) mampfen [ugs.]	2017-11-18 12:48:34.444060	1
+to blanch	erbleichen	2017-11-18 12:50:34.567291	1
+to flout sth. [an order, a rule, a law, etc.]	etw. missachten [einen Befehl, eine Regel, ein Gesetz etc.]	2017-11-18 12:53:34.707102	1
+flea market	Flohmarkt {m}	2017-11-18 12:55:34.779612	1
+padlock	Vorhängeschloss {n}	2017-11-18 12:56:34.837426	1
+booth	Bude {f}	2017-11-18 12:57:34.900293	1
+callbox	Telefonzelle {f}	2017-11-18 12:58:34.930028	1
+noughts and crosses [Br.]	Tic Tac Toe {n}	2017-11-18 12:59:34.984322	1
+hot-water bottle	Wärmflasche {f}	2017-11-18 13:04:35.243959	1
+mold [Am.] [furry growth of minute fungi]	Schimmel {m} [von Schimmelpilzen gebildeter Belag]	2017-11-18 13:05:35.290597	1
+oat [Avena sativa]	Hafer {m}	2017-11-18 13:06:35.352601	1
+drizzle	Niesel {m} [selten] [Nieselregen]	2017-11-18 13:08:35.460840	1
+to wag its tail	mit dem Schwanz wedeln	2017-11-18 13:09:35.523155	1
+ointment	Salbe {f}	2017-11-18 13:10:35.583144	1
+booth	Stand {m} [Markt-, Messestand]	2017-11-18 13:12:35.707969	1
+nutmeg	Muskat {m}	2017-11-18 13:16:35.928394	1
+cushion	Polster {n} [österr. auch: {m}]	2017-11-18 13:21:36.165195	1
+heath	Heide {f}	2017-11-18 13:24:36.347223	1
+cream	Sahne {f}	2017-11-18 13:31:36.595844	1
+nostril	Nasenloch {n}	2017-11-18 13:32:36.652070	1
+to feint [move]	täuschen [Bewegung]	2017-11-18 13:33:36.709145	1
+flaky pastry	Blätterteig {m}	2017-11-18 13:34:36.759094	1
+gopher [Am.] [coll.] [ground squirrel]	Erdhörnchen {n}	2017-11-18 13:37:36.901008	1
+shrub	Busch {m}	2017-11-18 13:38:36.948314	1
+blackcurrant [Ribes nigrum]	Schwarze Johannisbeere {f}	2017-11-18 13:44:37.215748	1
+socket [wall socket]	Steckdose {f}	2017-11-18 13:56:36.684310	1
+currant	Johannisbeere {f}	2017-11-18 13:59:36.883427	1
+suspension bridge	Hängebrücke {f}	2017-11-18 14:00:36.942555	1
+ballot box	Urne {f}	2017-11-18 14:02:37.063057	1
+vulture	Geier {m}	2017-11-18 14:04:37.073383	1
+thoroughfare	Durchgangsstraße {f}	2017-11-18 14:05:37.084670	1
+retirement home	Altersheim {n}	2017-11-18 14:07:37.204976	1
+city hall [Am.]	Rathaus {n}	2017-11-18 14:11:37.459124	1
+nare	Nasenloch {n}	2017-11-18 14:12:37.492172	1
+piglet	Ferkel {n}	2017-11-18 14:16:37.726614	1
+ballot	Abstimmung {f}	2017-11-18 14:18:37.779505	1
+diet [usual food (and drink)]	Ernährung {f} [Nahrung, Kost]	2017-11-18 14:20:37.920709	1
+sucker	Saugnapf {m}	2017-11-18 14:28:38.245871	1
+barley [Hordeum vulgare]	Gerste {f}	2017-11-18 14:33:38.435391	1
+aphid	Blattlaus {f}	2017-11-18 14:38:38.707401	1
+crease	Falte {f} [Knitterfalte, Bügelfalte od. im Gesicht]	2017-11-18 14:41:38.887171	1
+pond	Teich {m}	2017-11-18 14:43:38.983174	1
+sweep [chimney sweep]	Schornsteinfeger {m}	2017-11-18 14:44:39.038104	1
+bevy	Schwarm {m}	2017-11-18 14:47:39.073169	1
+colander	Durchschlag {m} [grobes Sieb] [bes. fachspr.]	2017-11-18 14:56:37.874094	1
+stick [Am.] [coll.]	Schalthebel {m}	2017-11-18 14:59:38.076459	1
+fad	Modeerscheinung {f}	2017-11-18 15:01:38.164203	1
+earwig [Forficula auricularia]	Ohrkneifer {m}	2017-11-18 15:06:38.360043	1
+nursing home	Altersheim {n}	2017-11-18 15:09:38.515419	1
+leek [Allium porrum]	Lauch {m} [Porree]	2017-11-18 15:10:38.577231	1
+temple [Tempus]	Schläfe {f}	2017-11-18 15:13:38.711239	1
+to toil	hart arbeiten	2017-11-18 15:18:38.951361	2
+soil	Erde {f} [Erdreich, Bodenart]	2017-11-18 15:25:39.239578	2
+brittle	spröde	2017-11-18 15:26:39.301949	2
+vial	Ampulle {f}	2017-11-18 15:29:39.427396	2
+streak	Strähne {f} [Glücks-, Pech-, Haar-]	2017-11-18 15:33:39.521159	2
+to squat	hocken	2017-11-18 15:34:39.577521	2
+to grind	zerreiben	2017-11-18 15:35:39.584669	2
+uphill	bergauf	2017-11-18 15:36:39.645882	2
+carpet	Teppich {m}	2017-11-18 15:37:39.719199	2
+pawn [chess]	Bauer {m} [Schach]	2017-11-18 15:40:39.831479	2
+to ignore sb.'s right of way	jdm. die Vorfahrt nehmen	2017-11-18 15:41:39.868559	2
+hunch	Buckel {m}	2017-11-18 15:43:39.952179	2
+plumber	Klempner {m}	2017-11-18 15:44:40.013924	2
+to go off pat	nach Schema F gehen	2017-11-18 15:45:40.027647	2
+lawn	Rasen {m}	2017-11-18 15:47:40.142881	2
+cider	Apfelwein {m}	2017-11-18 15:48:40.189040	2
+wheat [genus Triticum]	Weizen {m}	2017-11-18 15:54:40.453008	2
+plant [factory]	Fabrikanlage {f}	2017-11-18 15:56:40.543124	2
+carrion	Aas {n}	2017-11-18 15:59:40.689714	2
+goo	Schmiere {f} [schmieriges Zeug]	2017-11-18 16:00:40.740709	2
+gums {pl}	Zahnfleisch {n}	2017-11-18 16:01:40.803313	2
+cabbage	Kohl {m}	2017-11-18 16:02:40.841131	2
+bladder	Blase {f}	2017-11-18 16:04:40.935886	2
+pickle [Am.] [Can.] [pickled cucumber]	Essiggurke {f}	2017-11-18 16:23:50.859836	2
+key fob	Schlüsselanhänger {m}	2017-11-18 16:25:50.947503	2
+faucet [Am.] [water faucet]	Wasserhahn {m}	2017-11-18 16:27:51.038214	2
+warrior	Krieger {m}	2017-11-18 16:28:51.060632	2
+to retire [from employment]	ausscheiden [in Rente, Pension gehen]	2017-11-18 16:29:51.122398	2
+shelter	Unterschlupf {m}	2017-11-18 16:35:51.388460	2
+to dabble in sth.	sich in einem Gebiet versuchen	2017-11-18 16:37:51.503474	2
+to nag [find fault]	nörgeln [kleinlich kritisch sein]	2017-11-18 16:41:51.704522	2
+meager [Am.]	mager [dürftig kärglich, selten auch hager]	2017-11-18 16:46:51.907077	2
+honeymoon {sg}	Flitterwochen {pl}	2017-11-18 16:48:52.023399	2
+hood	Kapuze {f}	2017-11-18 16:53:52.241996	2
+to shatter	zerbrechen	2017-11-18 16:59:52.509647	2
+priest	Priester {m}	2017-11-18 17:00:52.565816	2
+blunder	Fehler {m}	2017-11-18 17:06:52.804920	2
+akin to	verwandt mit	2017-11-18 17:07:52.844075	2
+grease	Fett {n}	2017-11-18 17:11:53.001534	2
+bun [bread roll]	Brötchen {n} [meist für Hamburger etc.]	2017-11-18 17:18:53.377807	2
+to deceive	betrügen	2017-11-18 17:23:53.679382	2
+cathode ray tube <CRT>	Röhrenbildschirm {m}	2017-11-18 17:26:53.815375	2
+to sow	säen	2017-11-18 17:29:53.985275	2
+groom [bridegroom]	Bräutigam {m}	2017-11-18 17:37:54.317311	2
+mat	Matte {f}	2017-11-18 17:43:54.601103	2
+to flap	flattern [im Wind]	2017-11-18 17:51:55.020706	2
+forge	Schmiede {f}	2017-11-18 17:53:55.159376	2
+fuse	Zünder {m}	2017-11-18 17:54:55.207240	2
+deluge [also fig.]	Flut {f} [Überschwemmung] [auch fig.]	2017-11-18 18:00:55.563767	2
+to tilt	kippen	2017-11-18 18:02:55.671757	2
+intestine	Darm {m}	2017-11-18 18:03:55.729429	2
+to sift sth.	etw. überprüfen	2017-11-18 18:18:56.442708	2
+pitchfork	Heugabel {f}	2017-11-18 18:22:56.628939	2
+falcon	Falke {m}	2017-11-18 18:23:56.690320	2
+squat	Kniebeuge {f}	2017-11-18 18:26:56.782652	2
+to sprout	aufkeimen	2017-11-18 18:27:56.843955	2
+entree [esp. Am.] [main course]	Hauptgang {m}	2017-11-18 18:31:57.035423	2
+dietary fiber {sg} [Am.]	Ballaststoffe {pl}	2017-11-18 18:33:57.163426	2
+punch	Locher {m}	2017-11-18 18:37:57.357000	2
+timber-framed	Fachwerk-	2017-11-18 18:39:57.421216	2
+to scoop	ausschöpfen	2017-11-18 18:41:57.532051	2
+rook [chess]	Turm {m} [Schach]	2017-11-18 18:45:57.693866	2
+to drool	sabbern [ugs.]	2017-11-18 18:49:57.823604	2
+hale and hearty	gesund und munter	2017-11-18 18:50:57.858354	2
+skit [act]	Nummer {f} [Sketch]	2017-11-18 18:57:58.147856	2
+hawk	Habicht {m}	2017-11-18 18:59:58.224947	2
+burglar	Einbrecher {m}	2017-11-18 19:02:58.420388	2
+to tally	abhaken	2017-11-18 19:05:58.552878	2
+debit	Lastschrift {f}	2017-11-18 19:17:59.183066	2
+sprout	Spross {m}	2017-11-18 19:22:59.521370	2
+spiteful	gehässig	2017-11-18 19:28:59.743643	2
+to pickle	einlegen	2017-11-18 19:29:59.803778	2
+condiment	Gewürz {n}	2017-11-18 19:31:59.878993	2
+barrow	Schubkarre {f}	2017-11-18 19:34:00.016999	2
+to choke	ersticken	2017-11-18 19:35:00.071238	2
+smallpox {sg}	Pocken {pl}	2017-11-18 19:43:00.458884	2
+hood [Am.]	Motorhaube {f}	2017-11-18 19:45:00.573546	2
+to recover	(wieder) gesund werden	2017-11-18 19:46:00.635385	2
+to flout	missachten [Befehl]	2017-11-18 19:47:00.666093	2
+to cringe	zusammenzucken	2017-11-18 19:53:01.003225	2
+stag	Hirsch {m}	2017-11-18 19:56:01.151923	2
+strainer	Sieb {n} [für Flüssigkeiten]	2017-11-18 20:05:01.556029	2
+to butcher	schlachten	2017-11-18 20:06:01.611165	2
+sludge	Schlamm {m}	2017-11-18 20:11:01.866578	2
+to grate	reiben [zerkleinern]	2017-11-18 20:16:02.103300	2
+laundromat ® [Am.]	Waschsalon {m}	2017-11-18 20:17:02.160699	2
+to whine	jammern	2017-11-18 20:19:02.276973	2
+to writhe [emotionally]	beben [erschauern]	2017-11-18 20:34:33.096921	2
+giddy	schwindlig	2017-11-18 20:37:33.170817	2
+sinew	Sehne {f}	2017-11-18 20:39:33.259012	2
+to itch	jucken	2017-11-18 20:41:33.366747	2
+fringe	Saum {m}	2017-11-18 20:47:33.620244	2
+spouse	Ehegatte {m} [geh.] [Ehemann; jur. auch: einer der beiden Ehepartner]	2017-11-18 20:49:33.740876	2
+to purge	reinigen	2017-11-18 20:50:33.799996	2
+to strap sb. in	jdn. anschnallen	2017-11-18 20:51:33.834933	2
+blob	Klecks {m}	2017-11-18 20:58:34.198505	2
+to stomp	stampfen	2017-11-18 21:01:34.312883	2
+tip	Trinkgeld {n}	2017-11-18 21:06:34.534053	2
+hinge	Scharnier {n}	2017-11-18 21:16:35.112638	2
+to wad	zusammenknüllen	2017-11-18 21:19:35.248005	2
+stent	Lumenspirale {f} [für Arterien]	2017-11-18 21:24:35.548978	2
+fur [thick fur, e.g. on a bear or fox]	Pelz {m}	2017-11-18 23:17:48.039274	2
+inmate	Gefängnisinsasse {m}	2017-11-18 23:18:48.091041	2
+jug	Krug {m}	2017-11-18 23:19:48.139940	2
+closet [esp. Am.]	Wandschrank {m}	2017-11-18 23:22:48.311303	2
+notch	Kerbe {f}	2017-11-18 23:27:48.519799	2
+thistle	Distel {f}	2017-11-18 23:32:48.739498	2
+to shun sb./sth.	jdn./etw. meiden	2017-11-18 23:34:48.877678	2
+ivy [Hedera helix]	Efeu {m} [auch {n}]	2017-11-18 23:39:49.145822	2
+trolley [Am.] [trolley car]	Straßenbahn {f}	2017-11-18 23:43:49.363011	2
+to scratch oneself	sich kratzen	2017-11-18 23:47:49.613501	2
+to crouch	hocken	2017-11-19 10:02:09.134667	2
+to blur (into sth.)	(zu etw.) verschwimmen	2017-11-19 10:08:09.371431	2
+fuse	Sicherung {f}	2017-11-19 10:14:09.603213	2
+pillar	Säule {f}	2017-11-19 10:16:09.666709	2
+hose	Schlauch {m}	2017-11-19 10:26:09.304928	2
+dandelion [Taraxacum officinale]	Löwenzahn {m}	2017-11-19 10:33:09.636531	2
+to chuckle	kichern	2017-11-19 10:34:09.708904	2
+to fray	ausfransen	2017-11-19 10:37:09.868945	2
+freelancer	Freiberufler {m}	2017-11-19 10:50:10.426002	2
+to sift sth.	etw. sieben	2017-11-19 10:54:10.634429	2
+batch	Stapel {m}	2017-11-19 10:57:10.772612	2
+to trawl	mit dem Netz fischen	2017-11-19 10:58:10.794913	2
+wreath	Kranz {m}	2017-11-19 10:59:10.855778	2
+to douche	duschen	2017-11-19 11:04:11.079097	2
+to dye sth.	etw. [Akk.] färben [Haar, Stoff etc.]	2017-11-19 11:08:11.294609	2
+to frown	böse gucken [ugs.]	2017-11-19 11:10:11.401416	2
+tinfoil	Alufolie {f} [ugs.]	2017-11-19 11:21:11.971698	2
+fervor [Am.]	Eifer {m}	2017-11-19 11:24:12.074372	2
+hairdo [coll.]	Frisur {f}	2017-11-19 11:25:12.077550	2
+peacock [also fig.: vainglorious man]	Pfau {m} [bes. männlicher] [auch fig.: eitler Mann]	2017-11-19 11:26:12.138758	2
+ottoman	Sitzkissen {n}	2017-11-19 11:31:12.342073	2
+brook	Bach {m}	2017-11-19 11:42:12.922799	2
+loath	abgeneigt	2017-11-19 11:43:12.973327	2
+cutlery	Besteck {n}	2017-11-19 16:59:30.080231	2
+handle	Griff {m} [Stiel, Knauf]	2017-11-19 17:00:30.104736	2
+attorney [Am.]	Anwalt {m}	2017-11-19 17:03:30.261895	2
+to hop	hüpfen	2017-11-19 17:10:30.668468	2
+bounty	Belohnung {f}	2017-11-19 17:11:30.722188	2
+syringe	Spritze {f}	2017-11-19 17:12:30.783996	2
+hairdryer	Föhn {m} [Haartrockner]	2017-11-19 17:15:30.959678	2
+ink	Tinte {f}	2017-11-19 17:22:31.303194	2
+raid	Angriff {m}	2017-11-19 17:27:31.598564	2
+eligible	berechtigt	2017-11-19 17:28:31.680791	2
+kindred	verwandt	2017-11-19 17:32:31.886979	2
+gullet	Speiseröhre {f}	2017-11-19 17:42:32.378986	2
+dungeon	Kerker {m}	2017-11-19 17:43:32.438989	2
+vapor [Am.]	Dunst {m}	2017-11-19 17:45:32.559314	2
+tip [Br.] [rubbish tip]	Müllhalde {f}	2017-11-19 17:53:33.046457	2
+caterpillar	Raupe {f}	2017-11-19 17:54:33.091493	2
+compass	Zirkel {m}	2017-11-19 17:55:33.150981	2
+nursery [day nursery]	Kindertagesstätte {f} <Kita>	2017-11-19 17:57:33.272766	2
+fringe [chiefly Br.]	Pony {m} [Frisur]	2017-11-19 18:00:33.487003	2
+fodder	Futter {n} [bes. f. Kühe, Pferde]	2017-11-19 18:02:33.602519	2
+to commute [to travel between home and work]	pendeln	2017-11-19 18:03:33.669737	2
+to braid sth.	etw. flechten [Haare, Garn etc.]	2017-11-19 18:07:33.906986	2
+mansion [large, imposing house]	Villa {f} [groß]	2017-08-19 09:08:59.952300	1
 to swirl	strudeln	2017-08-16 15:56:30.122411	1
-tub	Wanne {f}	2017-08-16 15:59:30.267516	1
-internship	Praktikum {n}	2017-08-16 16:00:30.329045	1
-tip [Br.] [rubbish tip]	Müllhalde {f}	2017-08-16 16:04:30.509908	1
-to shun sth.	etw. scheuen [Licht, Menschen]	2017-08-16 16:06:30.632391	1
-bounty	Belohnung {f}	2017-08-16 16:13:31.035877	1
-merl [Turdus merula] [esp. Scot. or archaic] [spv.]	Amsel {f}	2017-08-16 16:15:31.125782	1
-cemetery	Friedhof {m}	2017-08-16 16:37:19.970644	1
-checkered  [Am.]	kariert	2017-08-16 16:50:24.036226	1
 peg	Wäscheklammer {f}	2017-08-16 18:42:10.557958	1
-barrow	Hügel {m}	2017-08-16 18:44:10.707585	1
-carpet	Teppich {m}	2017-08-16 18:46:10.803292	1
-pulp	Brei {m}	2017-08-16 18:48:10.927276	1
-vet [esp. Br.]	Tierarzt {m} <TA>	2017-08-16 18:50:11.034110	1
-fur [thick fur, e.g. on a bear or fox]	Pelz {m}	2017-08-16 18:55:11.350015	1
-to falter	schwanken	2017-08-16 20:29:09.656326	1
-wheelbarrow	Schubkarre {f}	2017-08-16 20:34:09.947848	1
-to braid sth.	etw. flechten [Haare, Garn etc.]	2017-08-16 20:43:10.430306	1
-bile	Galle {f} [Flüssigkeit]	2017-08-16 20:59:12.179052	1
-to hobble	humpeln	2017-08-16 21:06:13.707256	1
-stent	Lumenspirale {f} [für Arterien]	2017-08-16 21:08:13.828756	1
-prone  [illness, accident]	anfällig	2017-08-16 21:12:14.002308	1
-entrepreneur	Unternehmer {m}	2017-08-16 21:13:14.064038	1
-to rinse	ausspülen	2017-08-16 21:15:14.174943	1
-to go off pat	nach Schema F gehen	2017-08-16 21:23:14.541872	1
-key fob	Schlüsselanhänger {m}	2017-08-16 21:27:14.716347	1
-beak	Schnabel {m}	2017-08-16 21:29:14.833966	1
-to berate	beschimpfen	2017-08-16 21:31:14.931786	1
-to pummel	verprügeln	2017-08-16 21:32:14.979388	1
-waffle	Waffel {f}	2017-08-16 21:35:15.137462	1
-swamp	Sumpf {m}	2017-08-16 21:36:15.183995	1
-trench	Graben {m}	2017-08-16 21:37:15.233652	1
-to tally	abhaken	2017-08-16 21:39:15.360649	1
-freelancer	Freiberufler {m}	2017-08-16 21:40:15.411821	1
-gorge	Schlucht {f}	2017-08-16 21:41:15.459515	1
-no frigging idea <NFI> [coll.]	keine Ahnung [ugs.]	2017-08-16 21:47:15.727126	1
-tinfoil	Alufolie {f} [ugs.]	2017-08-16 21:48:15.810549	1
-ivy [Hedera helix]	Efeu {m} [auch {n}]	2017-08-16 21:49:15.859840	1
-to flick sth. on [switch]	etw. anknipsen [ugs.] [Schalter]	2017-08-16 21:53:16.000065	1
-to knead	massieren	2017-08-16 21:58:16.299161	1
-rhubarb [Rheum rhabarbarum L.]	(Gemeiner) Rhabarber {m}	2017-08-16 22:03:16.564006	1
-funnel	Trichter {m}	2017-08-16 22:05:16.593244	1
-sieve	Sieb {n}	2017-08-16 22:06:16.617617	1
-stuffed	ausgestopft	2017-08-16 22:07:16.677244	1
-timber-framed	Fachwerk-	2017-08-16 22:12:16.908430	1
-to dye	färben [Haar, Stoff]	2017-08-16 22:15:17.033276	1
-bladder	Blase {f}	2017-08-16 22:16:17.094263	1
+lightsaber [Am.] [Star Wars]	Lichtschwert {n}	2017-08-17 17:16:01.832797	1
+beam	Balken {m} [Holzbalken, Schwebebalken, an Waage]	2017-08-18 18:58:40.859071	1
+pork	Schweinefleisch {n}	2017-08-18 13:00:36.969313	1
+checkered  [Am.]	kariert	2017-08-16 16:50:24.036226	1
+gill	Kieme {f}	2017-08-18 15:47:20.986806	1
+to tie one's shoes	sich [Dat.] die Schuhe binden	2017-08-17 19:58:09.677616	1
+jowl [cheek, fold of flesh]	Wange {f} [bes. hängende Wange, Hängebacke]	2017-08-19 22:19:58.694810	1
+pane	Fensterscheibe {f}	2017-08-15 23:43:39.562299	1
+flock	Herde {f} [Schafherde]	2017-08-17 17:29:02.476419	1
+waistcoat [Br.]	Weste {f}	2017-08-18 15:56:21.374268	1
+rutabaga [Am.]	Steckrübe {f}	2017-08-19 22:34:08.101825	1
+sheets [bedlinen]	Laken {pl}	2017-08-17 18:45:06.073950	1
+bedsheet	Bettlaken {n}	2017-08-17 15:47:57.622684	1
+tab	Deckel {m} [Bierdeckel (mit Rechnung)]	2017-08-17 19:40:08.902212	1
+black eye	blaues Auge {n}	2017-08-16 14:46:26.699924	1
+poacher	Wilderer {m}	2017-08-19 21:53:21.925535	1
+pip	Kern {m} [v. Obst]	2017-08-16 15:32:28.899516	1
+merl [Turdus merula] [esp. Scot. or archaic] [spv.]	Amsel {f}	2017-08-16 16:15:31.125782	1
+aisle	Gang {m} [zwischen Sitzbänken etc.]	2017-08-17 18:40:05.809906	1
+to plummet	abstürzen	2017-08-15 23:25:38.749363	1
+centipede [any of the class Chilopoda] [coll. also: thousand legger]	Tausendfüßer {m} [ugs.] [Hundertfüßer (Klasse)]	2017-08-17 20:41:11.808906	1
+match [matchstick]	Streichholz {n}	2017-08-19 09:21:00.650114	1
+inoculation	Impfung {f}	2017-08-18 13:05:37.259376	1
 lid	Deckel {m}	2017-08-16 22:18:17.204913	1
+pedigree	Stammbaum {m}	2017-08-15 17:59:15.625764	1
+nap	Nickerchen {n} [ugs.]	2017-08-16 14:44:26.608091	1
+envelope	Briefumschlag {m}	2017-08-19 21:40:21.303838	1
+tar	Teer {m}	2017-08-18 12:51:36.550675	1
+peephole	Guckloch {n}	2017-08-17 00:58:24.645512	1
+to drain	entleeren	2017-08-18 16:35:24.148951	1
+bud	Knospe {f}	2017-08-15 23:31:39.034215	1
+gasoline [Am.]	Benzin {n}	2017-08-15 22:00:33.498336	1
+sermon	Predigt {f}	2017-08-17 00:03:22.020149	1
+prone [lying flat esp. face down]	liegend [in Bauchlage]	2017-08-17 18:13:04.645748	1
+cemetery	Friedhof {m}	2017-08-16 16:37:19.970644	1
+to wink	zwinkern	2017-08-15 23:30:38.981464	1
+rodent	Nagetier {n}	2017-08-18 11:29:32.431690	1
+liquorice [Br.]	Lakritz {m} {n} [regional]	2017-08-17 16:44:00.380367	1
+jack hammer	Anschlaghammer {m}	2017-08-17 19:22:07.955292	1
+maple [genus Acer]	Ahorn {m}	2017-08-18 14:32:04.609160	1
+mug	Becher {m} [bes. mit Henkel]	2017-08-18 11:52:33.533854	1
+cloak	Umhang {m}	2017-08-17 17:52:03.604910	1
+spread	Brotaufstrich {m}	2017-08-17 17:14:01.767959	1
+to garnish	garnieren	2017-08-18 16:07:21.875122	1
+pulp	Brei {m}	2017-08-16 18:48:10.927276	1
+to blend	mischen	2017-08-19 23:33:46.595025	1
+grasp	Griff {m} [Handgriff]	2017-08-19 23:22:46.050305	1
+waning moon	abnehmender Mond {m}	2017-08-17 18:39:05.778599	1
+buttercup [genus Ranunculus]	Hahnenfuß {m}	2017-08-17 17:21:02.091303	1
+varnish	Lack {m}	2017-08-19 20:57:18.761023	1
+shard	Scherbe {f}	2017-08-16 23:16:19.811247	1
+carb [short] [carbohydrate]	Kohlenhydrat {n}	2017-08-15 23:48:39.748169	1
+broom	Ginster {m}	2017-08-17 19:20:07.850519	1
+to berate	beschimpfen	2017-08-16 21:31:14.931786	1
+to gobble sth.	etw. hinunterschlingen	2017-08-17 21:35:01.166110	1
+tack [Am.] [thumbtack]	Reißzwecke {f}	2017-08-15 08:20:03.235581	1
+tenement	Mietshaus {n}	2017-08-19 09:15:00.305692	1
+to cling to sb.	sich an jdn. hängen	2017-08-16 23:34:20.603608	1
+to lag	nachhinken	2017-08-17 17:02:01.350453	1
+to reek of sth.	nach etw. stinken	2017-08-18 11:51:33.471074	1
+immersion	Vertiefung {f}	2017-08-17 13:16:19.546763	1
+grater	Reibe {f}	2017-08-19 23:01:42.711348	1
+flat share	Wohngemeinschaft {f} <WG>	2017-08-18 12:40:35.971140	1
+pelvis	Becken {n}	2017-08-18 12:52:36.606255	1
+to clobber sth. [to overwrite data]	etw. überschreiben [normalerweise unabsichtlich]	2017-08-17 18:32:05.494960	1
+to pummel	verprügeln	2017-08-16 21:32:14.979388	1
+grub	Larve {f} [Insekt]	2017-08-17 18:17:04.818206	1
+waffle	Waffel {f}	2017-08-16 21:35:15.137462	1
+jellyfish	Qualle {f}	2017-08-17 17:15:01.770919	1
+bong	Wasserpfeife {f} [für Haschisch]	2017-08-17 00:36:23.628788	1
+testicle	Hoden {m}	2017-08-18 12:00:33.913535	1
+on the baker's list [Irish] [coll.] [in good health]	gesund (und munter)	2017-08-19 21:42:21.399262	1
+vacancy	Stellenangebot {n}	2017-08-16 15:08:27.713641	1
+to rack sb.	jdn. foltern	2017-08-17 18:02:04.099297	1
+purse [for carrying money]	Geldbeutel {m}	2017-08-16 00:08:40.619634	1
+to abide by sth.	sich an etw. [Akk.] halten [etw. befolgen]	2017-08-15 01:05:51.520292	1
+to rinse	ausspülen	2017-08-16 21:15:14.174943	1
+washer [washing machine]	Waschmaschine {f}	2017-08-17 01:04:24.935642	1
+to adorn	zieren	2017-08-18 11:38:32.875164	1
+India ink [Am.]	Tusche {f}	2017-08-15 01:14:52.019871	1
+maggot	Made {f}	2017-08-16 00:27:41.530487	1
+gorge	Schlucht {f}	2017-08-16 21:41:15.459515	1
+to fizz	sprudeln	2017-08-17 20:15:10.446281	1
+ratchet	Ratsche {f}	2017-08-17 20:11:10.277199	1
+to squirm	sich krümmen	2017-08-15 23:52:39.946996	1
+refugee	Flüchtling {m}	2017-08-20 08:45:05.512737	1
+hairdresser	Frisör {m}	2017-08-18 12:46:36.326417	1
+swallow	Schwalbe {f}	2017-08-18 18:40:39.991649	1
+canopy	Vordach {n}	2017-08-17 00:09:22.394374	1
+vinegar	Essig {m}	2017-08-17 20:37:11.610459	1
+to shrug (one's shoulders)	mit den Schultern zucken	2017-08-16 15:06:27.651572	1
+petal	Blumenblatt {n}	2017-08-19 23:03:42.858803	1
+lane	Fahrbahn {f}	2017-08-15 23:05:37.780032	1
+magpie [Pica pica]	Elster {f}	2017-08-18 11:37:32.863465	1
+to dangle	baumeln	2017-08-15 01:13:51.960491	1
+to hover	schweben	2017-08-17 21:16:59.648044	1
+fir [genus Abies]	Tanne {f}	2017-08-17 18:09:04.406938	1
+cog [cogwheel]	Zahnrad {n}	2017-08-18 13:03:37.148723	1
+ravine	Schlucht {f}	2017-08-19 23:12:43.387261	1
+sheet [bed sheet]	Bettlaken {n}	2017-08-18 11:16:31.751525	1
+furnace	Ofen {m}	2017-08-15 01:10:51.805157	1
+to reek	riechen	2017-08-15 01:01:51.313634	1
+bun [hairstyle]	Dutt {m} [regional] [Haarknoten]	2017-08-16 00:23:41.393131	1
+to flick sth. on [switch]	etw. anknipsen [ugs.] [Schalter]	2017-08-16 21:53:16.000065	1
+to scoop	schaufeln	2017-08-17 00:10:22.430159	1
+foam	Schaum {m}	2017-08-19 21:39:21.242153	1
+roster	Liste {f}	2017-08-15 22:03:33.596935	1
+to sweep [with a broom] [also move fast]	fegen	2017-08-18 15:50:21.131483	1
+coy	schüchtern	2017-08-15 08:15:03.027914	1
+embassy	Botschaft {f}	2017-08-17 16:55:00.960980	1
+to veer [wind]	drehen [Wind]	2017-08-16 00:26:41.461733	1
+trench	Graben {m}	2017-08-16 21:37:15.233652	1
+stroll	Spaziergang {m}	2017-08-17 20:34:11.445530	1
+to jest	spaßen	2017-08-18 16:30:23.904581	1
+meadow	Wiese {f}	2017-08-17 00:12:22.510149	1
+loom	Webstuhl {m}	2017-08-19 22:44:36.584329	1
+livestock	Viehbestand {m}	2017-08-17 00:37:23.687087	1
+buzzer	Wecker {m}	2017-08-18 12:16:34.778977	1
+bathtub	Badewanne {f}	2017-08-16 00:11:40.769365	1
+to flatter sb.	jdm. schmeicheln [auch Farbe, Licht etc.]	2017-08-17 16:51:00.742240	1
+damp	Dampf {m}	2017-08-17 15:43:57.424646	1
+ostrich	Strauß {m}	2017-08-17 16:37:00.015320	1
+to give a jump	zusammenzucken	2017-08-19 21:43:21.427475	1
+walker [Am.]	Gehhilfe {f}	2017-08-17 17:46:03.336988	1
+squash [Cucurbita maxima]	Speisekürbis {m}	2017-08-16 15:27:28.641934	1
+mainstay	Standbein {n}	2017-08-19 09:20:00.590906	1
+to dye	färben [Haar, Stoff]	2017-08-16 22:15:17.033276	1
+platypus [Ornithorhynchus anatinus]	Schnabeltier {n}	2017-08-16 23:30:20.458663	1
+drain	Abfluss {m}	2017-08-19 21:12:19.675290	1
+vet [esp. Br.]	Tierarzt {m} <TA>	2017-08-16 18:50:11.034110	1
+gland	Drüse {f}	2017-08-17 18:28:05.295535	1
+vessel [also anat., bot.]	Gefäß {n} [auch anat., bot.]	2017-08-17 15:48:57.689156	1
+to furnish sth. [a room, etc.]	etw. einrichten [ein Zimmer etc.]	2017-08-18 11:49:33.416631	1
+Beats me.	Keine Ahnung.	2017-08-17 19:54:09.500946	1
+torso	Oberkörper {m}	2017-08-17 16:28:59.589498	1
+helm	Steuer {n}	2017-08-16 23:28:20.345709	1
+to glean	sammeln [Informationen, Fakten; i. d. R. mühsam]	2017-08-17 16:54:00.901929	1
+bile	Galle {f} [Flüssigkeit]	2017-08-16 20:59:12.179052	1
+scaffold	Gerüst {n}	2017-08-15 00:57:51.124025	1
+puppy	Welpe {m}	2017-08-17 20:17:10.565199	1
+beaker	Becherglas {n} [Labor]	2017-08-17 16:21:59.222367	1
+to scoff [mock]	spotten	2017-08-18 23:16:45.576049	1
+grate	Gitter {n}	2017-08-18 13:07:37.379058	1
+pea	Erbse {f}	2017-08-19 23:14:43.524252	1
+thigh	Oberschenkel {m}	2017-08-15 23:44:39.568716	1
+chickpea [Cicer arietinum]	Kichererbse {f}	2017-08-18 16:06:21.812036	1
+culprit	Täter {m}	2017-08-19 22:33:08.039321	1
+beak	Schnabel {m}	2017-08-16 21:29:14.833966	1
+heir	Erbe {m}	2017-08-15 22:10:33.969282	1
+funnel	Trichter {m}	2017-08-16 22:05:16.593244	1
+copse	Wäldchen {n}	2017-08-17 14:12:22.626760	1
+prone  [illness, accident]	anfällig	2017-08-16 21:12:14.002308	1
+dime [Am.] [Can.]	Zehncentstück {n} [Dollar]	2017-08-18 13:06:37.319615	1
+expiration date	Ablaufdatum {n} [österr.] [Haltbarkeitsdatum]	2017-08-15 23:37:39.227777	1
+spruce [genus Picea]	Fichte {f}	2017-08-17 19:26:08.146312	1
+tray	Tablett {n}	2017-08-18 18:44:40.179619	1
+to mourn	trauern	2017-08-15 22:27:35.961636	1
+to falter	schwanken	2017-08-16 20:29:09.656326	1
+to hoist	heben	2017-08-17 13:45:21.165860	1
+slate	Schiefer-	2017-08-19 23:20:45.956231	1
+cashier	Kassierer {m}	2017-08-17 19:44:09.094161	1
+pulp	Fruchtfleisch {n}	2017-08-17 20:42:11.866381	1
+broom	Besen {m}	2017-08-17 16:06:58.434098	1
+tendon	Sehne {f}	2017-08-18 12:43:36.154081	1
+pear [Pyrus communis] [common pear]	Birne {f}	2017-08-15 23:15:38.210475	1
+drought	Dürre {f}	2017-08-18 15:42:20.751818	1
+to yawn	gähnen	2017-08-17 20:48:12.158403	1
+ladle	Schöpfkelle {f}	2017-08-15 22:35:36.336698	1
+rhubarb [Rheum rhabarbarum L.]	(Gemeiner) Rhabarber {m}	2017-08-16 22:03:16.564006	1
+to afford [have the money for]	sich leisten können	2017-08-18 18:37:39.803611	1
+to fudge sth. [falsify, manipulate]	etw. fälschen [manipulieren, frisieren]	2017-08-16 23:19:19.902452	1
+cheetah [Acinonyx jubatus]	Gepard {m}	2017-08-16 00:06:40.530927	1
+to rummage	durchstöbern	2017-08-17 17:06:01.466425	1
+forefinger	Zeigefinger {m}	2017-08-18 12:15:34.733714	1
+padding	Polsterung {f}	2017-08-15 23:32:39.073816	1
+horseradish [Armoracia rusticana]	Meerrettich {m}	2017-08-18 14:42:05.073805	1
+bra	BH {m}	2017-08-16 23:54:21.566466	1
+to wither	verwelken	2017-08-17 20:12:10.327507	1
+bog	Sumpf {m}	2017-08-17 16:22:59.280508	1
+stuffed	ausgestopft	2017-08-16 22:07:16.677244	1
+crayon	Buntstift {m}	2017-08-15 22:52:37.167303	1
+faint	Ohnmacht {f}	2017-08-16 15:18:28.214425	1
+driveway	Einfahrt {f}	2017-08-17 20:09:10.167818	1
+ransom	Lösegeld {n}	2017-08-17 21:15:59.593875	1
+to clobber sb. [coll.]	jdn. verprügeln	2017-08-15 21:45:32.870445	1
+suds [mostly foam]	Schaum {m} [Seifenschaum, Waschlauge]	2017-08-17 19:28:08.219309	1
+Stay healthy.	Bleib gesund.	2017-08-17 20:59:58.785722	1
+swamp	Sumpf {m}	2017-08-16 21:36:15.183995	1
+hit and run	Fahrerflucht {f}	2017-08-18 12:24:35.211785	1
+gagging [retch]	Würgen {n} [Brechreiz]	2017-08-17 16:15:58.902696	1
+toad	Kröte {f}	2017-08-17 21:47:01.737165	1
+jigsaw (puzzle)	Puzzle {n}	2017-08-19 21:57:22.194800	1
+to hobble	humpeln	2017-08-16 21:06:13.707256	1
+to tune	stimmen [Instrumente]	2017-08-15 01:23:52.495101	1
+to stir sth.	etw. rühren [beim Kochen etc.]	2017-08-17 21:36:01.210215	1
 to wobble [chin, jelly, etc.]	schwabbeln [ugs.] [schwabbelige Masse i. A., Kinn, Pudding usw.]	2017-08-16 22:21:17.354833	1
-to butcher	schlachten	2017-08-16 22:24:17.427498	1
-cathode ray tube <CRT>	Röhrenbildschirm {m}	2017-08-16 22:28:17.661518	1
-to fray	abnutzen	2017-08-16 22:47:18.583454	1
+stove	Herd {m}	2017-08-19 22:08:58.105779	1
+boar	Wildschwein {n}	2017-08-18 16:32:23.969698	1
+pushups [Am.]	Liegestütze {pl}	2017-08-17 20:14:10.409982	1
+tally	Strichliste {f}	2017-08-16 15:31:28.852705	1
 to veer	ausscheren	2017-08-16 22:51:18.736765	1
+streak	Streifen {m}	2017-08-18 18:48:40.391054	1
+to reap [also fig.]	ernten [auch fig.]	2017-08-17 20:13:10.368559	1
+to murmur	murmeln	2017-08-16 14:36:26.299365	1
+to trawl sth. [esp. Br.] [fig.] [scour, sift]	etw. durchkämmen [fig.]	2017-08-16 15:01:27.390269	1
+lilac [genus Syringa]	Flieder {m}	2017-08-19 21:14:19.791285	1
+obituary	Todesanzeige {f}	2017-08-17 17:11:01.606897	1
+sieve	Sieb {n}	2017-08-16 22:06:16.617617	1
+thumb drive	USB-Stick {m}	2017-08-17 18:19:04.919342	1
+rye [Secale cereale]	Roggen {m}	2017-08-17 17:23:02.205828	1
+to quench sth. [flames, thirst]	etw. löschen [Flammen, Durst]	2017-08-18 11:42:33.082495	1
+to roost [bird]	[auf der Stange / dem Ast] schlafen	2017-08-19 21:13:19.727351	1
+to fray	abnutzen	2017-08-16 22:47:18.583454	1
+to shun sth.	etw. scheuen [Licht, Menschen]	2017-08-16 16:06:30.632391	1
+overcast	bewölkt	2017-08-17 18:36:05.666532	1
+cozy  [Am.]	gemütlich	2017-08-15 22:45:36.815260	1
+lint	Fussel {f} [auch {m}]	2017-08-18 14:38:04.919668	1
+sober	nüchtern [nicht alkoholisiert] [auch: ernst, vernünftig, schlicht]	2017-08-17 19:13:07.489411	1
+crab	Krebs {m}	2017-08-17 21:13:59.507622	1
+tart	Torte {f}	2017-08-18 11:21:32.017466	1
+pigeonhole	Sortierfach {n}	2017-08-18 14:52:05.517600	1
+fee	Gebühr {f}	2017-08-16 23:15:19.778433	1
 jelly	Gelee {n} {m}	2017-08-16 22:53:18.807196	1
-akin to	verwandt mit	2017-08-16 22:55:18.878417	1
-to itch	jucken	0001-01-01 00:00:00	0
-brittle	spröde	0001-01-01 00:00:00	0
-fee	Gebühr {f}	0001-01-01 00:00:00	0
-shard	Scherbe {f}	0001-01-01 00:00:00	0
-to fudge sth. [falsify, manipulate]	etw. fälschen [manipulieren, frisieren]	0001-01-01 00:00:00	0
-helm	Steuer {n}	0001-01-01 00:00:00	0
-hairdo [coll.]	Frisur {f}	0001-01-01 00:00:00	0
-platypus [Ornithorhynchus anatinus]	Schnabeltier {n}	0001-01-01 00:00:00	0
-to cling to sb.	sich an jdn. hängen	0001-01-01 00:00:00	0
-to sift sth.	etw. sieben	0001-01-01 00:00:00	0
-uphill	bergauf	0001-01-01 00:00:00	0
-cider	Apfelwein {m}	0001-01-01 00:00:00	0
-bra	BH {m}	0001-01-01 00:00:00	0
-compass	Zirkel {m}	0001-01-01 00:00:00	0
-sermon	Predigt {f}	0001-01-01 00:00:00	0
-squat	Kniebeuge {f}	0001-01-01 00:00:00	0
-canopy	Vordach {n}	0001-01-01 00:00:00	0
-to scoop	schaufeln	0001-01-01 00:00:00	0
-meadow	Wiese {f}	0001-01-01 00:00:00	0
-to take a shit [Am.] [vulg.]	kacken [vulg.]	0001-01-01 00:00:00	0
-hawk	Habicht {m}	0001-01-01 00:00:00	0
-plumber	Klempner {m}	0001-01-01 00:00:00	0
-fodder	Futter {n} [bes. f. Kühe, Pferde]	0001-01-01 00:00:00	0
-slant	schräg	0001-01-01 00:00:00	0
-bong	Wasserpfeife {f} [für Haschisch]	0001-01-01 00:00:00	0
-livestock	Viehbestand {m}	0001-01-01 00:00:00	0
-inmate	Gefängnisinsasse {m}	0001-01-01 00:00:00	0
-to nag [find fault]	nörgeln [kleinlich kritisch sein]	0001-01-01 00:00:00	0
-trolley [Am.] [trolley car]	Straßenbahn {f}	0001-01-01 00:00:00	0
-to deceive	betrügen	0001-01-01 00:00:00	0
-notch	Kerbe {f}	0001-01-01 00:00:00	0
-to crush	zerdrücken	0001-01-01 00:00:00	0
-peephole	Guckloch {n}	0001-01-01 00:00:00	0
-to honk [car horn]	hupen	0001-01-01 00:00:00	0
-pelvic	Becken-	0001-01-01 00:00:00	0
-punch	Locher {m}	0001-01-01 00:00:00	0
-washer [washing machine]	Waschmaschine {f}	0001-01-01 00:00:00	0
-peacock [also fig.: vainglorious man]	Pfau {m} [bes. männlicher] [auch fig.: eitler Mann]	0001-01-01 00:00:00	0
-bun [bread roll]	Brötchen {n} [meist für Hamburger etc.]	0001-01-01 00:00:00	0
-immersion	Vertiefung {f}	0001-01-01 00:00:00	0
-abyss	Abgrund {m}	0001-01-01 00:00:00	0
-cradle	Wiege {f}	0001-01-01 00:00:00	0
-scroll [roll of parchment, paper, etc., with writing on it]	Schriftrolle {f}	0001-01-01 00:00:00	0
-smallpox {sg}	Pocken {pl}	0001-01-01 00:00:00	0
-robin	Rotkehlchen {n}	0001-01-01 00:00:00	0
-warrior	Krieger {m}	0001-01-01 00:00:00	0
-to hoist	heben	0001-01-01 00:00:00	0
-debit	Lastschrift {f}	0001-01-01 00:00:00	0
-stag	Hirsch {m}	0001-01-01 00:00:00	0
-to douche	duschen	0001-01-01 00:00:00	0
-hose	Schlauch {m}	0001-01-01 00:00:00	0
-closet [esp. Am.]	Wandschrank {m}	0001-01-01 00:00:00	0
-copse	Wäldchen {n}	0001-01-01 00:00:00	0
-wedge	Keil {m}	0001-01-01 00:00:00	0
-damp	Dampf {m}	0001-01-01 00:00:00	0
-bedsheet	Bettlaken {n}	0001-01-01 00:00:00	0
-vessel [also anat., bot.]	Gefäß {n} [auch anat., bot.]	0001-01-01 00:00:00	0
-pickle [Am.] [Can.] [pickled cucumber]	Essiggurke {f}	0001-01-01 00:00:00	0
-pillar	Säule {f}	0001-01-01 00:00:00	0
-ink	Tinte {f}	0001-01-01 00:00:00	0
-broom	Besen {m}	0001-01-01 00:00:00	0
-attorney [Am.]	Anwalt {m}	0001-01-01 00:00:00	0
-gagging [retch]	Würgen {n} [Brechreiz]	0001-01-01 00:00:00	0
-jug	Krug {m}	0001-01-01 00:00:00	0
-beaker	Becherglas {n} [Labor]	0001-01-01 00:00:00	0
-bog	Sumpf {m}	0001-01-01 00:00:00	0
-torso	Oberkörper {m}	0001-01-01 00:00:00	0
-blunder	Fehler {m}	0001-01-01 00:00:00	0
-ostrich	Strauß {m}	0001-01-01 00:00:00	0
-ottoman	Sitzkissen {n}	0001-01-01 00:00:00	0
-liquorice [Br.]	Lakritz {m} {n} [regional]	0001-01-01 00:00:00	0
-mat	Matte {f}	0001-01-01 00:00:00	0
-to frown	böse gucken [ugs.]	0001-01-01 00:00:00	0
-to flatter sb.	jdm. schmeicheln [auch Farbe, Licht etc.]	0001-01-01 00:00:00	0
-to blow-dry one's hair	sich [Dat.] die Haare mit dem Föhn trocknen	0001-01-01 00:00:00	0
-to glean	sammeln [Informationen, Fakten; i. d. R. mühsam]	0001-01-01 00:00:00	0
-embassy	Botschaft {f}	0001-01-01 00:00:00	0
-to lag	nachhinken	0001-01-01 00:00:00	0
-to rummage	durchstöbern	0001-01-01 00:00:00	0
-to retire [from employment]	ausscheiden [in Rente, Pension gehen]	0001-01-01 00:00:00	0
-obituary	Todesanzeige {f}	0001-01-01 00:00:00	0
-spread	Brotaufstrich {m}	0001-01-01 00:00:00	0
-jellyfish	Qualle {f}	0001-01-01 00:00:00	0
-lightsaber [Am.] [Star Wars]	Lichtschwert {n}	0001-01-01 00:00:00	0
-buttercup [genus Ranunculus]	Hahnenfuß {m}	0001-01-01 00:00:00	0
-caterpillar	Raupe {f}	0001-01-01 00:00:00	0
-rye [Secale cereale]	Roggen {m}	0001-01-01 00:00:00	0
-to ramify	(sich) verzweigen [auch fig.]	0001-01-01 00:00:00	0
-hairdryer	Föhn {m} [Haartrockner]	0001-01-01 00:00:00	0
-flock	Herde {f} [Schafherde]	0001-01-01 00:00:00	0
-streak	Strähne {f} [Glücks-, Pech-, Haar-]	0001-01-01 00:00:00	0
-to stomp	stampfen	0001-01-01 00:00:00	0
-walker [Am.]	Gehhilfe {f}	0001-01-01 00:00:00	0
-barbell	Hantel {f} [groß, für beide Arme]	0001-01-01 00:00:00	0
-cloak	Umhang {m}	0001-01-01 00:00:00	0
-vessel	Schiff {n}	0001-01-01 00:00:00	0
-pavement [Br.] [footpath]	Bürgersteig {m}	0001-01-01 00:00:00	0
-to rack sb.	jdn. foltern	0001-01-01 00:00:00	0
-to blur (into sth.)	(zu etw.) verschwimmen	0001-01-01 00:00:00	0
-fir [genus Abies]	Tanne {f}	0001-01-01 00:00:00	0
-prone [lying flat esp. face down]	liegend [in Bauchlage]	0001-01-01 00:00:00	0
-tangerine [Citrus reticulata]	Mandarine {f}	0001-01-01 00:00:00	0
-grub	Larve {f} [Insekt]	0001-01-01 00:00:00	0
-thumb drive	USB-Stick {m}	0001-01-01 00:00:00	0
-to strap sb. in	jdn. anschnallen	0001-01-01 00:00:00	0
-gland	Drüse {f}	0001-01-01 00:00:00	0
-to squat	hocken	0001-01-01 00:00:00	0
-to clobber sth. [to overwrite data]	etw. überschreiben [normalerweise unabsichtlich]	0001-01-01 00:00:00	0
-overcast	bewölkt	0001-01-01 00:00:00	0
-waning moon	abnehmender Mond {m}	0001-01-01 00:00:00	0
-aisle	Gang {m} [zwischen Sitzbänken etc.]	0001-01-01 00:00:00	0
-raid	Angriff {m}	0001-01-01 00:00:00	0
-sheets [bedlinen]	Laken {pl}	0001-01-01 00:00:00	0
-hunch	Buckel {m}	0001-01-01 00:00:00	0
-to purge	reinigen	0001-01-01 00:00:00	0
-off colour  [Br.]	nicht gesund	0001-01-01 00:00:00	0
-entree [esp. Am.] [main course]	Hauptgang {m}	0001-01-01 00:00:00	0
-goo	Schmiere {f} [schmieriges Zeug]	0001-01-01 00:00:00	0
-to writhe [emotionally]	beben [erschauern]	0001-01-01 00:00:00	0
-sober	nüchtern [nicht alkoholisiert] [auch: ernst, vernünftig, schlicht]	0001-01-01 00:00:00	0
-to whine	jammern	0001-01-01 00:00:00	0
-syringe	Spritze {f}	0001-01-01 00:00:00	0
-tinfoil [popular misnomer]	Aluminiumfolie {f}	0001-01-01 00:00:00	0
-broom	Ginster {m}	0001-01-01 00:00:00	0
-jack hammer	Anschlaghammer {m}	0001-01-01 00:00:00	0
-spruce [genus Picea]	Fichte {f}	0001-01-01 00:00:00	0
-fudge {sg} [sweets]	Karamellen {pl} [Bonbons]	0001-01-01 00:00:00	0
-suds [mostly foam]	Schaum {m} [Seifenschaum, Waschlauge]	0001-01-01 00:00:00	0
-honeymoon {sg}	Flitterwochen {pl}	0001-01-01 00:00:00	0
-tab	Deckel {m} [Bierdeckel (mit Rechnung)]	0001-01-01 00:00:00	0
-cashier	Kassierer {m}	0001-01-01 00:00:00	0
-to flout	missachten [Befehl]	0001-01-01 00:00:00	0
-sinew	Sehne {f}	0001-01-01 00:00:00	0
-Beats me.	Keine Ahnung.	0001-01-01 00:00:00	0
-to tie one's shoes	sich [Dat.] die Schuhe binden	0001-01-01 00:00:00	0
-to sow	säen	0001-01-01 00:00:00	0
-fuse	Zünder {m}	0001-01-01 00:00:00	0
-driveway	Einfahrt {f}	0001-01-01 00:00:00	0
-palate	Gaumen {m}	0001-01-01 00:00:00	0
-ratchet	Ratsche {f}	0001-01-01 00:00:00	0
-to wither	verwelken	0001-01-01 00:00:00	0
-to reap [also fig.]	ernten [auch fig.]	0001-01-01 00:00:00	0
-pushups [Am.]	Liegestütze {pl}	0001-01-01 00:00:00	0
-to fizz	sprudeln	0001-01-01 00:00:00	0
-puppy	Welpe {m}	0001-01-01 00:00:00	0
-eligible	berechtigt	0001-01-01 00:00:00	0
-tip	Trinkgeld {n}	0001-01-01 00:00:00	0
-to staple [with a tacker]	tackern [ugs.]	0001-01-01 00:00:00	0
-stroll	Spaziergang {m}	0001-01-01 00:00:00	0
-vinegar	Essig {m}	0001-01-01 00:00:00	0
-to dabble in sth.	sich in einem Gebiet versuchen	0001-01-01 00:00:00	0
-centipede [any of the class Chilopoda] [coll. also: thousand legger]	Tausendfüßer {m} [ugs.] [Hundertfüßer (Klasse)]	0001-01-01 00:00:00	0
-pulp	Fruchtfleisch {n}	0001-01-01 00:00:00	0
-to yawn	gähnen	0001-01-01 00:00:00	0
-laundromat ® [Am.]	Waschsalon {m}	0001-01-01 00:00:00	0
-Stay healthy.	Bleib gesund.	0001-01-01 00:00:00	0
-porridge	Haferbrei {m}	0001-01-01 00:00:00	0
-crab	Krebs {m}	0001-01-01 00:00:00	0
-ransom	Lösegeld {n}	0001-01-01 00:00:00	0
-to hover	schweben	0001-01-01 00:00:00	0
-to shatter	zerbrechen	0001-01-01 00:00:00	0
-bolt [thunderbolt]	Blitz {m}	0001-01-01 00:00:00	0
-to gobble sth.	etw. hinunterschlingen	0001-01-01 00:00:00	0
-to stir sth.	etw. rühren [beim Kochen etc.]	0001-01-01 00:00:00	0
-strainer	Sieb {n} [für Flüssigkeiten]	0001-01-01 00:00:00	0
-pinafore	Schürze {f}	0001-01-01 00:00:00	0
-toad	Kröte {f}	0001-01-01 00:00:00	0
-to choke	ersticken	0001-01-01 00:00:00	0
-gullet	Speiseröhre {f}	0001-01-01 00:00:00	0
-sheet [bed sheet]	Bettlaken {n}	0001-01-01 00:00:00	0
-fringe	Saum {m}	0001-01-01 00:00:00	0
-tart	Torte {f}	0001-01-01 00:00:00	0
-vapor [Am.]	Dunst {m}	0001-01-01 00:00:00	0
-grocery	Lebensmittelgeschäft {n}	0001-01-01 00:00:00	0
-rodent	Nagetier {n}	0001-01-01 00:00:00	0
-priest	Priester {m}	0001-01-01 00:00:00	0
-magpie [Pica pica]	Elster {f}	0001-01-01 00:00:00	0
-to adorn	zieren	0001-01-01 00:00:00	0
-to quench sth. [flames, thirst]	etw. löschen [Flammen, Durst]	0001-01-01 00:00:00	0
-fringe [chiefly Br.]	Pony {m} [Frisur]	0001-01-01 00:00:00	0
-to furnish sth. [a room, etc.]	etw. einrichten [ein Zimmer etc.]	0001-01-01 00:00:00	0
-cabbage	Kohl {m}	0001-01-01 00:00:00	0
-to reek of sth.	nach etw. stinken	0001-01-01 00:00:00	0
-mug	Becher {m} [bes. mit Henkel]	0001-01-01 00:00:00	0
-testicle	Hoden {m}	0001-01-01 00:00:00	0
-rook [chess]	Turm {m} [Schach]	0001-01-01 00:00:00	0
-forefinger	Zeigefinger {m}	0001-01-01 00:00:00	0
-buzzer	Wecker {m}	0001-01-01 00:00:00	0
-pitchfork	Heugabel {f}	0001-01-01 00:00:00	0
-to ignore sb.'s right of way	jdm. die Vorfahrt nehmen	0001-01-01 00:00:00	0
-blob	Klecks {m}	0001-01-01 00:00:00	0
-hit and run	Fahrerflucht {f}	0001-01-01 00:00:00	0
-mucus	Schleim {m}	0001-01-01 00:00:00	0
-gnat	Mücke {f}	0001-01-01 00:00:00	0
-spouse	Ehegatte {m} [geh.] [Ehemann; jur. auch: einer der beiden Ehepartner]	0001-01-01 00:00:00	0
-flat share	Wohngemeinschaft {f} <WG>	0001-01-01 00:00:00	0
-tendon	Sehne {f}	0001-01-01 00:00:00	0
-hairdresser	Frisör {m}	0001-01-01 00:00:00	0
-fervor [Am.]	Eifer {m}	0001-01-01 00:00:00	0
-tar	Teer {m}	0001-01-01 00:00:00	0
-pelvis	Becken {n}	0001-01-01 00:00:00	0
-plant [factory]	Fabrikanlage {f}	0001-01-01 00:00:00	0
-to drown	ertrinken	0001-01-01 00:00:00	0
-pork	Schweinefleisch {n}	0001-01-01 00:00:00	0
-cog [cogwheel]	Zahnrad {n}	0001-01-01 00:00:00	0
-roster [duty roster]	Dienstplan {m}	0001-01-01 00:00:00	0
-inoculation	Impfung {f}	0001-01-01 00:00:00	0
-dime [Am.] [Can.]	Zehncentstück {n} [Dollar]	0001-01-01 00:00:00	0
-grate	Gitter {n}	0001-01-01 00:00:00	0
-to pickle	einlegen	0001-01-01 00:00:00	0
-pawn [chess]	Bauer {m} [Schach]	0001-01-01 00:00:00	0
-maple [genus Acer]	Ahorn {m}	0001-01-01 00:00:00	0
-fuse	Zündschnur {f}	0001-01-01 00:00:00	0
-handle	Griff {m} [Stiel, Knauf]	0001-01-01 00:00:00	0
-lint	Fussel {f} [auch {m}]	0001-01-01 00:00:00	0
-thistle	Distel {f}	0001-01-01 00:00:00	0
-horseradish [Armoracia rusticana]	Meerrettich {m}	0001-01-01 00:00:00	0
-crusader	Kreuzritter {m}	0001-01-01 00:00:00	0
-pigeonhole	Sortierfach {n}	0001-01-01 00:00:00	0
-to chuckle	kichern	0001-01-01 00:00:00	0
-drought	Dürre {f}	0001-01-01 00:00:00	0
-hood	Kapuze {f}	0001-01-01 00:00:00	0
-gill	Kieme {f}	0001-01-01 00:00:00	0
-to sweep [with a broom] [also move fast]	fegen	0001-01-01 00:00:00	0
-waistcoat [Br.]	Weste {f}	0001-01-01 00:00:00	0
-condiment	Gewürz {n}	0001-01-01 00:00:00	0
-chickpea [Cicer arietinum]	Kichererbse {f}	0001-01-01 00:00:00	0
-to garnish	garnieren	0001-01-01 00:00:00	0
-mainframe	Großrechner {m}	0001-01-01 00:00:00	0
-to sprout	aufkeimen	0001-01-01 00:00:00	0
-to scratch oneself	sich kratzen	0001-01-01 00:00:00	0
-to jest	spaßen	0001-01-01 00:00:00	0
-boar	Wildschwein {n}	0001-01-01 00:00:00	0
-to drain	entleeren	0001-01-01 00:00:00	0
-giddy	schwindlig	0001-01-01 00:00:00	0
-to shun sb./sth.	jdn./etw. meiden	0001-01-01 00:00:00	0
-dandelion [Taraxacum officinale]	Löwenzahn {m}	0001-01-01 00:00:00	0
-to afford [have the money for]	sich leisten können	0001-01-01 00:00:00	0
-swallow	Schwalbe {f}	0001-01-01 00:00:00	0
-tray	Tablett {n}	0001-01-01 00:00:00	0
-to chop	hacken	0001-01-01 00:00:00	0
-streak	Streifen {m}	0001-01-01 00:00:00	0
-wreath	Kranz {m}	0001-01-01 00:00:00	0
-beam	Balken {m} [Holzbalken, Schwebebalken, an Waage]	0001-01-01 00:00:00	0
-to scoff [mock]	spotten	0001-01-01 00:00:00	0
-expiry date	Verfallsdatum {n}	0001-01-01 00:00:00	0
-to bolt [door etc.]	verriegeln	0001-01-01 00:00:00	0
-mansion [large, imposing house]	Villa {f} [groß]	0001-01-01 00:00:00	0
-tenement	Mietshaus {n}	0001-01-01 00:00:00	0
-mainstay	Standbein {n}	0001-01-01 00:00:00	0
-match [matchstick]	Streichholz {n}	0001-01-01 00:00:00	0
-to fray	ausfransen	0001-01-01 00:00:00	0
-to cringe	zusammenzucken	0001-01-01 00:00:00	0
-groom [bridegroom]	Bräutigam {m}	0001-01-01 00:00:00	0
-varnish	Lack {m}	0001-01-01 00:00:00	0
-hinge	Scharnier {n}	0001-01-01 00:00:00	0
-drain	Abfluss {m}	0001-01-01 00:00:00	0
-to roost [bird]	[auf der Stange / dem Ast] schlafen	0001-01-01 00:00:00	0
-lilac [genus Syringa]	Flieder {m}	0001-01-01 00:00:00	0
-cutlery	Besteck {n}	0001-01-01 00:00:00	0
-frantic	hektisch	0001-01-01 00:00:00	0
-nursery [day nursery]	Kindertagesstätte {f} <Kita>	0001-01-01 00:00:00	0
-to cling [hold on tightly to sb.]	klammern [an, bei jdm.]	0001-01-01 00:00:00	0
-to tilt	kippen	0001-01-01 00:00:00	0
-foam	Schaum {m}	0001-01-01 00:00:00	0
-envelope	Briefumschlag {m}	0001-01-01 00:00:00	0
-hale and hearty	gesund und munter	0001-01-01 00:00:00	0
-on the baker's list [Irish] [coll.] [in good health]	gesund (und munter)	0001-01-01 00:00:00	0
-to give a jump	zusammenzucken	0001-01-01 00:00:00	0
-fuse	Sicherung {f}	0001-01-01 00:00:00	0
-to crouch	hocken	0001-01-01 00:00:00	0
-wheat [genus Triticum]	Weizen {m}	0001-01-01 00:00:00	0
-poacher	Wilderer {m}	0001-01-01 00:00:00	0
-grooming	Körperpflege {f}	0001-01-01 00:00:00	0
-jigsaw (puzzle)	Puzzle {n}	0001-01-01 00:00:00	0
-dungeon	Kerker {m}	0001-01-01 00:00:00	0
-to hop	hüpfen	0001-01-01 00:00:00	0
-stove	Herd {m}	0001-01-01 00:00:00	0
-kindred	verwandt	0001-01-01 00:00:00	0
-jowl [cheek, fold of flesh]	Wange {f} [bes. hängende Wange, Hängebacke]	0001-01-01 00:00:00	0
-forge	Schmiede {f}	0001-01-01 00:00:00	0
-culprit	Täter {m}	0001-01-01 00:00:00	0
-rutabaga [Am.]	Steckrübe {f}	0001-01-01 00:00:00	0
-loom	Webstuhl {m}	0001-01-01 00:00:00	0
-grater	Reibe {f}	0001-01-01 00:00:00	0
-petal	Blumenblatt {n}	0001-01-01 00:00:00	0
-to grind	zerreiben	0001-01-01 00:00:00	0
-batch	Stapel {m}	0001-01-01 00:00:00	0
-ravine	Schlucht {f}	0001-01-01 00:00:00	0
-crate	Kiste {f} [Lattenkiste, ugs.: Auto, Flugzeug]	0001-01-01 00:00:00	0
-pea	Erbse {f}	0001-01-01 00:00:00	0
-to drool	sabbern [ugs.]	0001-01-01 00:00:00	0
-slate	Schiefer-	0001-01-01 00:00:00	0
-grasp	Griff {m} [Handgriff]	0001-01-01 00:00:00	0
-daisy [Bellis perennis]	Gänseblümchen {n}	0001-01-01 00:00:00	0
-to wad	zusammenknüllen	0001-01-01 00:00:00	0
-sprout	Spross {m}	0001-01-01 00:00:00	0
-skit [act]	Nummer {f} [Sketch]	0001-01-01 00:00:00	0
-to blend	mischen	0001-01-01 00:00:00	0
-refugee	Flüchtling {m}	0001-01-01 00:00:00	0
-spire	Spitze {f} [eines Daches, Turms]	2017-08-13 22:28:41.283715	1
-rake	Harke {f} [bes. nordd.]	2017-08-13 21:18:37.787773	1
-yeast	Hefe {f}	2017-08-13 22:27:41.221191	1
-collar	Kragen {m}	2017-08-13 21:37:38.771957	1
-to smirk	schmunzeln	2017-08-13 21:33:38.567475	1
-to squash	zerquetschen	2017-08-13 21:20:37.889404	1
-ridge	Kamm {m} [Gebirgskamm]	2017-08-13 22:30:41.393038	1
-lather	Seifenschaum {m}	2017-08-13 21:11:37.514621	1
-wasteland	Einöde {f}	2017-08-13 21:17:37.728684	1
-well [water well, fountain]	Brunnen {m}	2017-08-13 22:05:40.263203	1
-to snap [fingers]	schnipsen	2017-08-13 22:02:40.089180	1
-to flush [rinse]	hinunterspülen	2017-08-13 22:10:40.436022	1
-to tickle	kitzeln	2017-08-13 21:32:38.545829	1
-clover [genus Trifolium]	Klee {m}	2017-08-13 21:26:38.249594	1
-lopsided	schief	2017-08-13 21:10:37.453457	1
-to bust	sprengen	2017-08-13 21:29:38.399163	1
-yeast [attr.]	Hefe-	2017-08-13 21:23:38.075240	1
-to cuddle	kuscheln	2017-08-13 21:02:37.098920	1
-stiff	steif	2017-08-13 21:27:38.296472	1
-gem	Edelstein {m}	2017-08-13 21:58:39.911695	1
-to craze	verrückt machen	2017-08-13 21:05:37.235238	1
-to hint at sth.	auf etw. hinweisen	2017-08-13 21:15:37.663588	1
-to zest	würzen	2017-08-13 22:00:39.990331	1
+to drown	ertrinken	2017-08-18 12:59:36.919345	1
+scroll [roll of parchment, paper, etc., with writing on it]	Schriftrolle {f}	2017-08-17 13:30:20.336172	1
+frantic	hektisch	2017-08-19 21:23:20.291276	1
+entrepreneur	Unternehmer {m}	2017-08-16 21:13:14.064038	1
+to take a shit [Am.] [vulg.]	kacken [vulg.]	2017-08-17 00:23:22.996169	1
+peg	Haken {m} [Kleiderhaken]	2017-08-16 15:33:28.947353	1
+robin	Rotkehlchen {n}	2017-08-17 13:39:20.845747	1
+gnat	Mücke {f}	2017-08-18 12:29:35.461167	1
+ridge	Erhöhung {f}	2017-08-16 15:24:28.481635	1
+poll	Umfrage {f}	2017-08-15 23:18:38.390657	1
+grooming	Körperpflege {f}	2017-08-19 21:54:21.978577	1
+to ramify	(sich) verzweigen [auch fig.]	2017-08-17 17:24:02.246047	1
+traineeship	Praktikum {n}	2017-08-16 15:53:29.970575	1
+tinfoil [popular misnomer]	Aluminiumfolie {f}	2017-08-17 19:19:07.804274	1
+to chop	hacken	2017-08-18 18:46:40.282383	1
+chore	Hausarbeit {f}	2017-08-15 17:28:31.054856	1
+internship	Praktikum {n}	2017-08-16 16:00:30.329045	1
+crate	Kiste {f} [Lattenkiste, ugs.: Auto, Flugzeug]	2017-08-19 23:13:43.461201	1
+mucus	Schleim {m}	2017-08-18 12:28:35.415654	1
+wheelbarrow	Schubkarre {f}	2017-08-16 20:34:09.947848	1
+fudge {sg} [sweets]	Karamellen {pl} [Bonbons]	2017-08-17 19:27:08.161114	1
+pinafore	Schürze {f}	2017-08-17 21:45:01.646188	1
+to blow-dry one's hair	sich [Dat.] die Haare mit dem Föhn trocknen	2017-08-17 16:53:00.865710	1
+mermaid	Meerjungfrau {f}	2017-08-15 17:50:15.107610	1
+porridge	Haferbrei {m}	2017-08-17 21:11:59.371028	1
+to crush	zerdrücken	2017-08-17 00:54:24.461550	1
+bolt [thunderbolt]	Blitz {m}	2017-08-17 21:31:00.393229	1
+ribbon	Schleife {f} [Band, Kranzschleife]	2017-08-16 15:40:29.339771	1
+wedge	Keil {m}	2017-08-17 14:13:22.687508	1
+barrow	Hügel {m}	2017-08-16 18:44:10.707585	1
+tub	Wanne {f}	2017-08-16 15:59:30.267516	1
+abyss	Abgrund {m}	2017-08-17 13:22:19.856975	1
+tangerine [Citrus reticulata]	Mandarine {f}	2017-08-17 18:16:04.788738	1
+chunk	Brocken {m}	2017-08-15 22:09:33.933787	1
+pelvic	Becken-	2017-08-17 01:02:24.844355	1
+to honk [car horn]	hupen	2017-08-17 01:01:24.783639	1
+roster [duty roster]	Dienstplan {m}	2017-08-18 13:04:37.200830	1
+to staple [with a tacker]	tackern [ugs.]	2017-08-17 20:33:11.425983	1
+pavement [Br.] [footpath]	Bürgersteig {m}	2017-08-17 17:59:03.970242	1
+to knead	massieren	2017-08-16 21:58:16.299161	1
+palate	Gaumen {m}	2017-08-17 20:10:10.227091	1
+to bolt [door etc.]	verriegeln	2017-08-19 09:06:59.875337	1
+daisy [Bellis perennis]	Gänseblümchen {n}	2017-08-19 23:27:46.305951	1
+fuse	Zündschnur {f}	2017-08-18 14:33:04.643632	1
+off colour  [Br.]	nicht gesund	2017-08-17 18:59:06.864910	1
+maw [also fig.]	Schlund {m}	2017-08-15 23:11:38.010248	1
+cradle	Wiege {f}	2017-08-17 13:24:20.006328	1
+mainframe	Großrechner {m}	2017-08-18 16:14:23.186638	1
+bachelor	Junggeselle {m}	2017-08-15 01:18:52.213621	1
+lump	Klumpen {m}	2017-08-15 23:55:40.076507	1
+expiry date	Verfallsdatum {n}	2017-08-19 09:02:59.637378	1
+slant	schräg	2017-08-17 00:34:23.529575	1
+barbell	Hantel {f} [groß, für beide Arme]	2017-08-17 17:51:03.560392	1
+crusader	Kreuzritter {m}	2017-08-18 14:50:05.431666	1
+vessel	Schiff {n}	2017-08-17 17:56:03.795279	1
+no frigging idea <NFI> [coll.]	keine Ahnung [ugs.]	2017-08-16 21:47:15.727126	1
+to cling [hold on tightly to sb.]	klammern [an, bei jdm.]	2017-08-19 21:36:21.071343	1
+grocery	Lebensmittelgeschäft {n}	2017-08-18 11:27:32.327414	1
+lather	Seifenschaum {m}	2017-08-20 09:24:07.619850	2
+wasteland	Einöde {f}	2017-08-20 09:30:26.260456	2
+to bust	sprengen	2017-08-20 17:28:59.910108	2
+to smirk	schmunzeln	2017-08-20 09:12:06.941017	2
+lopsided	schief	2017-08-20 17:21:00.883499	2
+well [water well, fountain]	Brunnen {m}	2017-08-20 09:32:26.363556	2
+yeast [attr.]	Hefe-	2017-08-20 17:33:00.183190	2
+to snap [fingers]	schnipsen	2017-08-20 17:09:00.258626	2
+to flush [rinse]	hinunterspülen	2017-08-20 17:11:00.384714	2
+ridge	Kamm {m} [Gebirgskamm]	2017-08-20 09:22:07.499251	2
+gem	Edelstein {m}	2017-08-20 17:44:01.599545	2
+collar	Kragen {m}	2017-08-20 09:08:06.702643	2
+rake	Harke {f} [bes. nordd.]	2017-08-20 08:56:06.121456	2
+to hint at sth.	auf etw. hinweisen	2017-08-20 17:49:01.833591	2
+yeast	Hefe {f}	2017-08-20 09:02:06.387929	2
+to cuddle	kuscheln	2017-08-20 17:35:00.299255	2
+to tickle	kitzeln	2017-08-20 17:17:00.627366	2
+to zest	würzen	2017-08-20 17:50:01.893417	2
+clover [genus Trifolium]	Klee {m}	2017-08-20 17:20:00.858216	2
+to craze	verrückt machen	2017-08-20 17:45:01.661466	2
+stiff	steif	2017-08-20 17:36:00.358299	2
+to squash	zerquetschen	2017-08-20 09:14:07.049514	2
+spire	Spitze {f} [eines Daches, Turms]	2017-08-20 08:52:05.853778	2

@@ -1,8 +1,8 @@
 import csv
-import json
 import re
 import random
 import optparse
+import ruamel.yaml as yaml
 from datetime import datetime
 
 from notifier import Notifier
@@ -39,7 +39,7 @@ the index of the file within sources is saved.
 vocs = []
 
 '''
-Config object, loaded from a json file.
+Config object, loaded from a yaml file.
 '''
 config = {}
 
@@ -53,8 +53,6 @@ def load_files():
                                 delimiter=DICT_DELIMITER)
         temp = list(reader)
         for voc in temp:
-            # TODO duplicate check: don't include if voc with same head and body already in vocs
-
             # ensure right types and fill missing values (as for fresh vocs)
             voc["total"] = int(voc["total"]) if not voc["total"] == None else 0
             if not voc["last"] == None:
@@ -69,7 +67,7 @@ def load_files():
             vocs.append(voc)
 
 
-def download_sources():
+def merge_downloaded_sources():
     '''
     NOTE that local and remote paths have to match in order!
     Remotes will be downloaded and new vocs will be included into
@@ -84,7 +82,7 @@ def download_sources():
         entries = [tuple(entry.split(DICT_DELIMITER)) for entry in entries]
 
         # merge entries into the locally loaded vocs
-        old_vocs =  [(voc["head"], voc["body"]) for voc in vocs]
+        old_vocs = [(voc["head"], voc["body"]) for voc in vocs]
         for entry in entries:
             if not entry in old_vocs:
                 new_voc = {"head": entry[0],
@@ -155,13 +153,13 @@ if __name__ == '__main__':
 
     # read the config file within this directory
     # which stores the file paths for the sources
-    config = json.load(open("config.json"))
+    config = yaml.load(open("config.yaml"), yaml.RoundTripLoader)
     sources = config["source_paths"]
     remotes = config["remote_paths"]
 
     load_files()
     # if "-d" in optparse:
-    download_sources()
+    merge_downloaded_sources()
     shuffle_vocs() # shuffling before ranking: vary, but not destroy order
     rank_vocs()
     try:

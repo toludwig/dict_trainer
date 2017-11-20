@@ -1,108 +1,117 @@
+Cheers! [esp. Br.] [coll.]	Tschüss! [ugs.]	2017-11-18 13:07:35.401687	1
+Cheers! [esp. Br.] [coll.]	Danke!	2017-11-18 13:25:36.360566	1
+Aight! [sl.]	In Ordnung!	2017-11-18 14:06:37.140793	1
+pal [coll.]	Kumpel {m} [ugs.]	2017-11-18 14:23:38.023648	1
+booze [coll.] [alcoholic drink]	Alkohol {m} [alkoholisches Getränk]	2017-11-18 14:27:38.227040	1
+smashed  [coll.]	sturzbesoffen [ugs.]	2017-11-18 14:37:38.645616	1
+to whip sth. up [coll.]	etw. zusammenpantschen [ugs.] [etw. eilig und achtlos verarbeiten]	2017-11-18 14:39:38.788163	1
+to booze [coll.]	saufen [ugs.]	2017-11-18 14:42:38.926597	1
+straight  [coll.]	hetero [ugs.]	2017-11-18 14:46:39.068651	1
+moron [coll.]	Idiot {m} [ugs.]	2017-11-18 15:24:39.224049	2
+Third time lucky.	Aller guten Dinge sind drei.	2017-11-18 15:53:40.393048	2
+dopey  [coll.]	dämlich [ugs.]	2017-11-18 16:31:51.186071	2
+I can't be bothered.	Ich habe keinen Bock. [ugs.]	2017-11-18 16:50:52.111158	2
+to jibe with sth. [Am.] [coll.]	mit etw. übereinstimmen	2017-11-18 17:13:53.138927	2
+crush [Am.] [coll.]	Schwarm {m}	2017-11-18 17:34:54.215878	2
+avail  [coll.]	verfügbar	2017-11-18 17:38:54.341875	2
+to burp [coll.]	rülpsen [ugs.]	2017-11-18 17:52:55.098649	2
+to marmalise sb. [Br.] [coll.] [to defeat decisively]	jdn. abservieren [ugs.]	2017-11-18 18:20:56.552936	2
+The best things come in threes.	Aller guten Dinge sind drei.	2017-11-18 18:29:56.933251	2
+at its best	in bester Form	2017-11-18 18:34:57.225185	2
+for your information <FYI>	zu deiner Information	2017-11-18 18:51:57.877304	2
+Peek-a-boo!	Kuckuck! [beim Versteckspiel mit Kindern]	2017-11-18 19:15:59.075484	2
+tum [coll.] [tummy, stomach]	Bauch {m}	2017-11-18 19:25:59.649655	2
+Howdy! [Am.]	Hallo!	2017-11-18 19:42:00.403918	2
+monkey business [coll.]	Blödsinn {m}	2017-11-18 19:54:01.059937	2
+thingy [coll.]	Dingsda {n} [ugs.]	2017-11-18 20:02:01.389910	2
+darn [coll.]	verdammt [salopp pej.]	2017-11-18 20:36:33.133500	2
+floozy [coll.] [pej.]	Flittchen {n} [ugs.] [pej.]	2017-11-18 20:42:33.421164	2
+You're barmy! [Br.] [coll.]	Du hast einen Knall! [ugs.]	2017-11-18 20:59:34.254585	2
+vibe [coll.]	Stimmung {f} [Gefühl]	2017-11-18 21:20:35.307260	2
+to graft [Br.] [coll.]	schuften [ugs.]	2017-11-18 21:23:35.490864	2
+scam [coll.]	Betrug {m}	2017-11-18 23:25:48.406897	2
+clout [coll.]	Einfluss {m}	2017-11-18 23:28:48.581586	2
+Bugger! [Br.] [vulg.] [damn]	Scheiße! [vulg.]	2017-11-18 23:35:48.929545	2
+totes [coll.] [totally]	total	2017-11-18 23:51:49.786547	2
+smidgen [coll.]	klitzekleines bisschen [ugs.]	2017-11-19 10:09:09.395593	2
+minger [Br.] [coll.] [pej.] [unattractive person]	Hackfresse {f} [derb] [pej.] [hässliche Person]	2017-11-19 10:19:09.072975	2
+wimp [coll.]	Niete {f} [ugs.] [Versager]	2017-11-19 10:20:09.113408	2
+at its finest	vom Feinsten	2017-11-19 10:28:09.427451	2
+to veg out	rumhängen	2017-11-19 10:39:09.961739	2
+slew [Am.] [coll.]	Menge {f}	2017-11-19 10:41:10.068707	2
+dunce [pej.]	Dummkopf {m} [pej.]	2017-11-19 11:17:11.757303	2
+to grope sb. [coll.]	jdn. begrabschen [ugs.]	2017-11-19 11:44:13.043747	2
+hassle [coll.]	Ärger {m}	2017-11-19 17:13:30.842998	2
+rip-off [coll.]	Abzocke {f} [ugs.]	2017-11-19 17:19:31.177701	2
+back-of-the-envelope calculation [coll.]	Überschlagsrechnung {f}	2017-08-18 12:57:36.808465	1
+to get along	klarkommen [ugs.]	2017-08-18 12:56:36.779877	1
+booby [coll.]	Trottel {m} [ugs.]	2017-08-16 15:07:27.689644	1
+to be in the know [coll.] [idiom]	Bescheid wissen [Redewendung]	2017-08-17 18:52:06.486129	1
+frat [coll.]	Studentenverbindung {f}	2017-08-18 12:39:35.920104	1
+way too [coll.] [esp. Am.]	viel zu	2017-08-19 22:03:57.823289	1
+stone-cold crazy  [coll.]	vollkommen verrückt	2017-08-16 22:14:16.987454	1
+lingo [coll.]	Fachjargon {m}	2017-08-17 21:27:00.176599	1
+to chomp [coll.]	mampfen [ugs.]	2017-08-19 22:32:07.976834	1
+Stay healthy.	Bleib gesund.	2017-08-16 23:22:20.083167	1
+crappy  [sl.]	beschissen [ugs.]	2017-08-16 00:21:41.298962	1
+iffy  [coll.]	fraglich	2017-08-18 12:14:34.687635	1
+ding [coll.]	Delle {f}	2017-08-16 20:45:10.531900	1
+nifty  [coll.]	schick	2017-08-16 15:12:27.886058	1
+perk [coll.] [advantage]	Vorteil {m}	2017-08-19 21:07:19.373199	1
+Gee! [esp. Am.] [coll.]	Meine Güte!	2017-08-16 20:40:10.297977	1
+gump [Am.] [coll.]	Schwachkopf {m}	2017-08-17 21:01:58.884071	1
+nitty-gritty  [coll.]	praktisch veranlagt	2017-08-16 00:17:41.119888	1
+tit-for-tat response	Retourkutsche {f} [ugs.]	2017-08-17 16:18:59.067098	1
+So long! [Am.]	Bis dann!	2017-08-17 14:07:22.413352	1
+in good company	in geselliger Runde	2017-08-16 00:09:40.677870	1
+stone-cold	eiskalt	2017-08-17 20:53:12.353050	1
+booger [Am.] [coll.]	Popel {m} [ugs.]	2017-08-16 22:52:18.793029	1
+jiffy [coll.]	Augenblick {m}	2017-08-16 22:29:17.713369	1
+to catcall	ausbuhen	2017-08-16 22:09:16.784670	1
+pesky  [coll.]	lästig	2017-08-18 18:45:40.239274	1
+dang  [esp. Am.]  [coll.]	verflixt [ugs.]	2017-08-15 23:17:38.342688	1
+off colour  [Br.]	nicht gesund	2017-08-16 00:07:40.559853	1
+lad [coll.]	Bursche {m}	2017-08-16 15:20:28.305830	1
+natty  [coll.]	schick [ugs.]	2017-08-15 23:42:39.519650	1
+to pop the question to sb. [coll.]	jdm. einen Heiratsantrag machen	2017-08-18 18:51:40.469874	1
+booby [coll.] [a woman's breast]	Titte {f} [vulg.]	2017-08-17 21:44:01.599396	1
+icky  [sl.]	eklig	2017-08-19 09:05:59.799705	1
+spoof [Br.] [coll.]	Parodie {f}	2017-08-16 15:15:28.054398	1
+-wise [coll.] [as regards]	-mäßig [ugs.]	2017-08-17 14:15:22.836279	1
+rad	krass [ugs.] [toll]	2017-08-17 19:56:09.586244	1
+Gosh! [coll.]	Donnerwetter! [ugs.]	2017-08-17 19:04:07.123317	1
+chow [coll.] [food]	Futter {n} [ugs.] [Essen]	2017-08-18 18:35:39.683036	1
+to go ballistic [coll.]	an die Decke gehen [fig.] [ugs.]	2017-08-16 15:21:28.310525	1
 Is anyone on for ... ? [coll.]	Hat jemand Bock auf ... ? [ugs.]	2017-08-15 01:26:52.642172	1
 wally [Br.] [sl.]	Trottel {m}	2017-08-15 01:30:52.798847	1
-moron [coll.]	Idiot {m} [ugs.]	2017-08-15 22:04:33.659672	1
-chopper [coll.]	Helikopter {m}	2017-08-15 22:16:34.282079	1
-to graft [Br.] [coll.]	schuften [ugs.]	2017-08-15 22:21:35.654664	1
-tum [coll.] [tummy, stomach]	Bauch {m}	2017-08-15 22:53:37.207043	1
-thingy [coll.]	Dingsda {n} [ugs.]	2017-08-15 23:12:38.054233	1
-dang  [esp. Am.]  [coll.]	verflixt [ugs.]	2017-08-15 23:17:38.342688	1
-natty  [coll.]	schick [ugs.]	2017-08-15 23:42:39.519650	1
-clinger [coll.]	Klette {f} [fig.] [ugs.]	2017-08-15 23:49:39.804456	1
-rip-off [coll.]	Abzocke {f} [ugs.]	2017-08-15 23:50:39.859367	1
-to marmalise sb. [Br.] [coll.] [to defeat decisively]	jdn. abservieren [ugs.]	2017-08-16 00:03:40.390440	1
-off colour  [Br.]	nicht gesund	2017-08-16 00:07:40.559853	1
-in good company	in geselliger Runde	2017-08-16 00:09:40.677870	1
-on the cheap [coll.]	billig	2017-08-16 00:16:41.046196	1
-nitty-gritty  [coll.]	praktisch veranlagt	2017-08-16 00:17:41.119888	1
-antsy  [Am.]  [coll.]	kribbelig [ugs.]	2017-08-16 00:20:41.286178	1
-crappy  [sl.]	beschissen [ugs.]	2017-08-16 00:21:41.298962	1
+goofy  [Am.]  [coll.]	albern	2017-08-18 12:17:34.813397	1
+to ramble on and on [Br.] [coll.]	herumlabern [ugs.] [endlos reden]	2017-08-19 09:26:00.816590	1
+cringe-making [Br.] [coll.]	extrem peinlich	2017-08-17 17:49:03.470308	1
+silly-ass  [Am.]  [vulg.]	Schwachsinns- [ugs.]	2017-08-17 13:53:21.615449	1
 hale and hearty	gesund und munter	2017-08-16 14:57:27.196241	1
-run-of-the-mill	Allerwelts-	2017-08-16 15:05:27.590215	1
-booby [coll.]	Trottel {m} [ugs.]	2017-08-16 15:07:27.689644	1
-nifty  [coll.]	schick	2017-08-16 15:12:27.886058	1
-spoof [Br.] [coll.]	Parodie {f}	2017-08-16 15:15:28.054398	1
-lad [coll.]	Bursche {m}	2017-08-16 15:20:28.305830	1
-to go ballistic [coll.]	an die Decke gehen [fig.] [ugs.]	2017-08-16 15:21:28.310525	1
-wee  [esp. Scot.]	klein	2017-08-16 16:02:30.387067	1
-floozy [coll.] [pej.]	Flittchen {n} [ugs.] [pej.]	2017-08-16 16:07:30.691583	1
-for your information <FYI>	zu deiner Information	2017-08-16 16:10:30.877307	1
-I can't be bothered.	Ich habe keinen Bock. [ugs.]	2017-08-16 20:30:09.719260	1
-crush [Am.] [coll.]	Schwarm {m}	2017-08-16 20:32:09.835243	1
-to burp [coll.]	rülpsen [ugs.]	2017-08-16 20:33:09.884865	1
-Gee! [esp. Am.] [coll.]	Meine Güte!	2017-08-16 20:40:10.297977	1
-ding [coll.]	Delle {f}	2017-08-16 20:45:10.531900	1
-to get tarted up [coll.]	sich aufdonnern [ugs.]	2017-08-16 21:07:13.746794	1
-spiffy  [Am.]  [coll.]	schick	2017-08-16 21:09:13.870744	1
-shut-in [Am.] [coll.]	ans Haus / Bett gefesselt [Kranker etc.]	2017-08-16 21:16:14.229419	1
+antsy  [Am.]  [coll.]	kribbelig [ugs.]	2017-08-16 00:20:41.286178	1
+clinger [coll.]	Klette {f} [fig.] [ugs.]	2017-08-15 23:49:39.804456	1
 critter [Am.] [coll.] [creature]	Viech {n} [ugs.]	2017-08-16 21:59:16.359541	1
-to catcall	ausbuhen	2017-08-16 22:09:16.784670	1
-stone-cold crazy  [coll.]	vollkommen verrückt	2017-08-16 22:14:16.987454	1
-jiffy [coll.]	Augenblick {m}	2017-08-16 22:29:17.713369	1
+to get tarted up [coll.]	sich aufdonnern [ugs.]	2017-08-16 21:07:13.746794	1
+on the cheap [coll.]	billig	2017-08-16 00:16:41.046196	1
+spiffy  [Am.]  [coll.]	schick	2017-08-16 21:09:13.870744	1
+run-of-the-mill	Allerwelts-	2017-08-16 15:05:27.590215	1
+to dodge	ausweichen	2017-08-18 16:22:23.497381	1
+I daresay ...	Ich könnte mir denken ...	2017-08-17 20:46:12.053228	1
 blind drunk	sternhagelvoll [ugs.]	2017-08-16 22:38:18.163187	1
+freeloader [coll.]	Schmarotzer {m}	2017-08-16 23:40:20.902676	1
+jabberwocky	Quark {m} [ugs.] [Unsinn]	2017-08-19 23:11:43.324304	1
+wee  [esp. Scot.]	klein	2017-08-16 16:02:30.387067	1
+shut-in [Am.] [coll.]	ans Haus / Bett gefesselt [Kranker etc.]	2017-08-16 21:16:14.229419	1
 confer <cf.>	vergleiche <vgl.>	2017-08-16 22:48:18.613406	1
-booger [Am.] [coll.]	Popel {m} [ugs.]	2017-08-16 22:52:18.793029	1
-Stay healthy.	Bleib gesund.	0001-01-01 00:00:00	0
-Howdy! [Am.]	Hallo!	0001-01-01 00:00:00	0
-freeloader [coll.]	Schmarotzer {m}	0001-01-01 00:00:00	0
-to grope sb. [coll.]	jdn. begrabschen [ugs.]	0001-01-01 00:00:00	0
-dunce [pej.]	Dummkopf {m} [pej.]	0001-01-01 00:00:00	0
-to jibe with sth. [Am.] [coll.]	mit etw. übereinstimmen	0001-01-01 00:00:00	0
-silly-ass  [Am.]  [vulg.]	Schwachsinns- [ugs.]	0001-01-01 00:00:00	0
-So long! [Am.]	Bis dann!	0001-01-01 00:00:00	0
--wise [coll.] [as regards]	-mäßig [ugs.]	0001-01-01 00:00:00	0
-You're barmy! [Br.] [coll.]	Du hast einen Knall! [ugs.]	0001-01-01 00:00:00	0
-tit-for-tat response	Retourkutsche {f} [ugs.]	0001-01-01 00:00:00	0
-totes [coll.] [totally]	total	0001-01-01 00:00:00	0
-nifty  [coll.]	raffiniert	0001-01-01 00:00:00	0
-voracious	unersättlich	0001-01-01 00:00:00	0
-cringe-making [Br.] [coll.]	extrem peinlich	0001-01-01 00:00:00	0
-Peek-a-boo!	Kuckuck! [beim Versteckspiel mit Kindern]	0001-01-01 00:00:00	0
-to poop [coll.] [to defecate]	kacken [vulg.]	0001-01-01 00:00:00	0
-wimp [coll.]	Niete {f} [ugs.] [Versager]	0001-01-01 00:00:00	0
-Bugger! [Br.] [vulg.] [damn]	Scheiße! [vulg.]	0001-01-01 00:00:00	0
-at its finest	vom Feinsten	0001-01-01 00:00:00	0
-to be in the know [coll.] [idiom]	Bescheid wissen [Redewendung]	0001-01-01 00:00:00	0
-Gosh! [coll.]	Donnerwetter! [ugs.]	0001-01-01 00:00:00	0
-rad	krass [ugs.] [toll]	0001-01-01 00:00:00	0
-I daresay ...	Ich könnte mir denken ...	0001-01-01 00:00:00	0
-stone-cold	eiskalt	0001-01-01 00:00:00	0
-gump [Am.] [coll.]	Schwachkopf {m}	0001-01-01 00:00:00	0
-at its best	in bester Form	0001-01-01 00:00:00	0
-lingo [coll.]	Fachjargon {m}	0001-01-01 00:00:00	0
-monkey business [coll.]	Blödsinn {m}	0001-01-01 00:00:00	0
-slew [Am.] [coll.]	Menge {f}	0001-01-01 00:00:00	0
-booby [coll.] [a woman's breast]	Titte {f} [vulg.]	0001-01-01 00:00:00	0
-iffy  [coll.]	fraglich	0001-01-01 00:00:00	0
-goofy  [Am.]  [coll.]	albern	0001-01-01 00:00:00	0
-Third time lucky.	Aller guten Dinge sind drei.	0001-01-01 00:00:00	0
-minger [Br.] [coll.] [pej.] [unattractive person]	Hackfresse {f} [derb] [pej.] [hässliche Person]	0001-01-01 00:00:00	0
-frat [coll.]	Studentenverbindung {f}	0001-01-01 00:00:00	0
-to get along	klarkommen [ugs.]	0001-01-01 00:00:00	0
-back-of-the-envelope calculation [coll.]	Überschlagsrechnung {f}	0001-01-01 00:00:00	0
-darn [coll.]	verdammt [salopp pej.]	0001-01-01 00:00:00	0
-dopey  [coll.]	dämlich [ugs.]	0001-01-01 00:00:00	0
-hassle [coll.]	Ärger {m}	0001-01-01 00:00:00	0
-to dodge	ausweichen	0001-01-01 00:00:00	0
-poop [sl.]	Scheiß {m} [vulg.]	0001-01-01 00:00:00	0
-The best things come in threes.	Aller guten Dinge sind drei.	0001-01-01 00:00:00	0
-chow [coll.] [food]	Futter {n} [ugs.] [Essen]	0001-01-01 00:00:00	0
-pesky  [coll.]	lästig	0001-01-01 00:00:00	0
-to pop the question to sb. [coll.]	jdm. einen Heiratsantrag machen	0001-01-01 00:00:00	0
-clout [coll.]	Einfluss {m}	0001-01-01 00:00:00	0
-icky  [sl.]	eklig	0001-01-01 00:00:00	0
-smidgen [coll.]	klitzekleines bisschen [ugs.]	0001-01-01 00:00:00	0
-to ramble on and on [Br.] [coll.]	herumlabern [ugs.] [endlos reden]	0001-01-01 00:00:00	0
-perk [coll.] [advantage]	Vorteil {m}	0001-01-01 00:00:00	0
-scam [coll.]	Betrug {m}	0001-01-01 00:00:00	0
-avail  [coll.]	verfügbar	0001-01-01 00:00:00	0
-badass [esp. Am.] [sl.]	krass [ugs.]	0001-01-01 00:00:00	0
-way too [coll.] [esp. Am.]	viel zu	0001-01-01 00:00:00	0
-vibe [coll.]	Stimmung {f} [Gefühl]	0001-01-01 00:00:00	0
-to veg out	rumhängen	0001-01-01 00:00:00	0
-to chomp [coll.]	mampfen [ugs.]	0001-01-01 00:00:00	0
-to cringe at sth. [coll.] [feel embarrassed]	etw. höchst peinlich finden	0001-01-01 00:00:00	0
-jabberwocky	Quark {m} [ugs.] [Unsinn]	0001-01-01 00:00:00	0
-hubby [coll.]	Ehemann {m}	2017-08-13 21:16:37.705692	1
-jittery [coll.]	hibbelig [ugs.]	2017-08-13 21:25:38.191641	1
-bossy	rechthaberisch	2017-08-13 22:15:40.695396	1
-on the baker's list [Irish] [coll.] [in good health]	gesund (und munter)	2017-08-13 22:04:40.203512	1
+to cringe at sth. [coll.] [feel embarrassed]	etw. höchst peinlich finden	2017-08-19 23:04:42.916861	1
+nifty  [coll.]	raffiniert	2017-08-17 16:49:00.642569	1
+badass [esp. Am.] [sl.]	krass [ugs.]	2017-08-19 21:56:22.135270	1
+chopper [coll.]	Helikopter {m}	2017-08-15 22:16:34.282079	1
+to poop [coll.] [to defecate]	kacken [vulg.]	2017-08-17 18:01:04.058228	1
+voracious	unersättlich	2017-08-17 17:44:03.247669	1
+poop [sl.]	Scheiß {m} [vulg.]	2017-08-18 16:34:24.093008	1
+bossy	rechthaberisch	2017-08-20 17:24:59.741634	2
+jittery [coll.]	hibbelig [ugs.]	2017-08-20 17:19:00.794657	2
+on the baker's list [Irish] [coll.] [in good health]	gesund (und munter)	2017-08-20 17:46:01.718738	2
+hubby [coll.]	Ehemann {m}	2017-08-20 09:19:07.321350	2
