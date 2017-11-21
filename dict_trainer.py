@@ -144,12 +144,20 @@ def run_training(dump_frequency=10):
             dump_all_vocs()
 
 
+def _parse_options():
+    parser = optparse.OptionParser()
+    parser.add_option("-d", "--download",
+                      action="store_true", dest="download", default=False,
+                      help="download/sync sources from dict.cc")
+    return parser.parse_args()
+
+
 if __name__ == '__main__':
-    # TODO option parser
-    # - config-editor (add/remove files, set interval)
+    ### TODO optparse
+    # - set interval / frequency
     # - verbose mode (print pairs, ...)
     # - download from dict.cc (-d)
-    ### optparse
+    (options, _) = _parse_options()
 
     # read the config file within this directory
     # which stores the file paths for the sources
@@ -158,8 +166,9 @@ if __name__ == '__main__':
     remotes = config["remote_paths"]
 
     load_files()
-    # if "-d" in optparse:
-    merge_downloaded_sources()
+    if options.download:
+        print("Downloading / Syncing sources from dict.cc ...")
+        merge_downloaded_sources()
     shuffle_vocs() # shuffling before ranking: vary, but not destroy order
     rank_vocs()
     try:
