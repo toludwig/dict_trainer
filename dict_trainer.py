@@ -49,6 +49,7 @@ def load_files():
 
     for i, source in enumerate(sources):
         reader = csv.DictReader(open(source, 'r'),
+                                restval=None, # if last and total are missing
                                 fieldnames=FIELDNAMES,
                                 delimiter=DICT_DELIMITER)
         temp = list(reader)
@@ -61,7 +62,7 @@ def load_files():
                 except ValueError: # in case microseconds are not given, try:
                     voc["last"] = datetime.strptime(voc["last"], "%Y-%m-%d %H:%M:%S")
             else:
-                datetime.min
+                voc["last"] = datetime.min
             # add source index as a reference for later dumping
             voc["source"] = i
             vocs.append(voc)
@@ -112,7 +113,7 @@ def eval_voc(voc):
     Writes the current date timestamp in the "last" field and
     increases the value in "total".
     '''
-    voc["last"] = datetime.now()
+    voc["last"] = datetime.now().replace(microsecond=0) # second precision
     voc["total"] += 1
 
 
