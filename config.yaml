@@ -19,10 +19,11 @@ remote_paths:
 # - http://denl.my.dict.cc/export/853312/NL-DE-11289.txt
 
 source_paths:
-- /home/tobi/Orga/dict.cc/Abstracta.txt
-- /home/tobi/Orga/dict.cc/Colloquials.txt
-- /home/tobi/Orga/dict.cc/Concreta.txt
-- /home/tobi/Orga/dict.cc/Phrases.txt
-- /home/tobi/Orga/dict.cc/Miscellaneous.txt
+- /home/tobi/Orga/autodidact/history.txt
+# - /home/tobi/Orga/dict.cc/Abstracta.txt
+# - /home/tobi/Orga/dict.cc/Colloquials.txt
+# - /home/tobi/Orga/dict.cc/Concreta.txt
+# - /home/tobi/Orga/dict.cc/Phrases.txt
+# - /home/tobi/Orga/dict.cc/Miscellaneous.txt
 # - /home/tobi/Orga/dict.cc/Dansk.txt
 # - /home/tobi/Orga/dict.cc/Nederlands.txt
