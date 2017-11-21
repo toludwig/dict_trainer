@@ -1,0 +1,5 @@
+Nederlands	holländisch [niederländisch]	2017-11-21 00:47:44.485621	1
+Welterusten!	Schlaf schön!	0001-01-01 00:00:00	0
+Nederlands	niederländisch	0001-01-01 00:00:00	0
+Goed gedaan!	Gut gemacht!	0001-01-01 00:00:00	0
+Slaap lekker!	Schlaf gut!	0001-01-01 00:00:00	0

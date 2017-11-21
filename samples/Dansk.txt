@@ -1,0 +1,110 @@
+immer noch	stadig	2017-11-21 00:45:41.214436	1
+immer noch	fortsat	0001-01-01 00:00:00	0
+Vergnügen {n}	fornøjelse {fk}	0001-01-01 00:00:00	0
+in ... hinein	ind i	0001-01-01 00:00:00	0
+verlieren	at tabe	0001-01-01 00:00:00	0
+Wie bitte?	Hvad behager?	0001-01-01 00:00:00	0
+Geld {n}	penge {pl}	0001-01-01 00:00:00	0
+rechts	højre	0001-01-01 00:00:00	0
+das heißt <d. h.>	det vil sige <dvs.>	0001-01-01 00:00:00	0
+Nacht {f}	nat {fk}	0001-01-01 00:00:00	0
+tot	død	0001-01-01 00:00:00	0
+Sahne {f}	fløde {fk}	0001-01-01 00:00:00	0
+kein	ingen	0001-01-01 00:00:00	0
+Idee {f}	idé {fk}	0001-01-01 00:00:00	0
+Utrum {n}	fælleskøn {n} <fk.>	0001-01-01 00:00:00	0
+sowohl ... als auch	både ... og	0001-01-01 00:00:00	0
+töten	at dræbe	0001-01-01 00:00:00	0
+anerkannt	godkendt	0001-01-01 00:00:00	0
+Viel Vergnügen!	God fornøjelse!	0001-01-01 00:00:00	0
+schwachsinnig	åndssvag	0001-01-01 00:00:00	0
+schön	dejlig	0001-01-01 00:00:00	0
+Wurst {f}	pølse {fk}	0001-01-01 00:00:00	0
+schnell	hurtig	0001-01-01 00:00:00	0
+Herbst {m}	efterår {n}	0001-01-01 00:00:00	0
+etwas	lidt	0001-01-01 00:00:00	0
+gestern	i går	0001-01-01 00:00:00	0
+vielleicht <viell.>	måske	0001-01-01 00:00:00	0
+ein bisschen	en smule	0001-01-01 00:00:00	0
+Gleichfalls.	I lige måde.	0001-01-01 00:00:00	0
+Gott sei Dank!	Gudskelov!	0001-01-01 00:00:00	0
+Gaststätte {f}	kro {fk} [gæstgiveri]	0001-01-01 00:00:00	0
+spielen	at lege	0001-01-01 00:00:00	0
+es gibt	der er	0001-01-01 00:00:00	0
+Gewohnheit {f}	vane {fk}	0001-01-01 00:00:00	0
+gemeinsam	fælles	0001-01-01 00:00:00	0
+Ich treffe mich mit (meinen) Freunden.	Jeg møder mine venner.	0001-01-01 00:00:00	0
+jd. soll	ngn. skal	0001-01-01 00:00:00	0
+schlecht	dårlig	0001-01-01 00:00:00	0
+bevor	før	0001-01-01 00:00:00	0
+innen	inde	0001-01-01 00:00:00	0
+Körper {m} [auch bei Wein]	krop {fk} [også vin]	0001-01-01 00:00:00	0
+Arsch {m} [derb] [auch als Beleidigung]	røv {fk} [uform.] [også som skældsord]	0001-01-01 00:00:00	0
+Fluss {m}	å {fk}	0001-01-01 00:00:00	0
+mieten	at leje	0001-01-01 00:00:00	0
+Kleidung {f}	tøj {n}	0001-01-01 00:00:00	0
+aha	nå	0001-01-01 00:00:00	0
+vorne	fremme	0001-01-01 00:00:00	0
+bekommen	at få	0001-01-01 00:00:00	0
+Stundenplan {m}	skema {n} [skole-]	0001-01-01 00:00:00	0
+krank	syg	0001-01-01 00:00:00	0
+Geist {m}	ånd {fk}	0001-01-01 00:00:00	0
+erlaubt	tilladt	0001-01-01 00:00:00	0
+Fahrradweg {m}	cykelsti {fk}	0001-01-01 00:00:00	0
+gefährlich	farlig	0001-01-01 00:00:00	0
+etw. absagen [Veranstaltung, Vorhaben]	at aflyse ngt.	0001-01-01 00:00:00	0
+Monat {m} [bayr., österr.: {n}]	måned {fk}	0001-01-01 00:00:00	0
+Weg {m} [Art und Weise]	måde {fk} [vis]	0001-01-01 00:00:00	0
+verheiratet	gift	0001-01-01 00:00:00	0
+betreffend <betr.>	vedrørende <vedr.>	0001-01-01 00:00:00	0
+schwer [hart, anstrengend, schwierig]	svær	0001-01-01 00:00:00	0
+Gegenzug {m}	gengæld {fk}	0001-01-01 00:00:00	0
+Kein Problem!	Ingen problemer!	0001-01-01 00:00:00	0
+Weihnachten {n}	jul {fk}	0001-01-01 00:00:00	0
+Wohnung {f} <Whg.>	lejlighed {fk} <lejl.>	0001-01-01 00:00:00	0
+erwachsen	voksen	0001-01-01 00:00:00	0
+Gesundheit {f}	sundhed {fk}	0001-01-01 00:00:00	0
+links	venstre	0001-01-01 00:00:00	0
+Markt {m}	torv {n}	0001-01-01 00:00:00	0
+einkaufen	at indkøbe	0001-01-01 00:00:00	0
+Blut {n}	blod {n}	0001-01-01 00:00:00	0
+nicht ruhen, bis ...	ikke at helme før ...	0001-01-01 00:00:00	0
+Angebot {n}	tilbud {n}	0001-01-01 00:00:00	0
+verzögern	at forsinke	0001-01-01 00:00:00	0
+gesund	sund	0001-01-01 00:00:00	0
+Du bist dran.	Det er din tur.	0001-01-01 00:00:00	0
+Krankheit {f}	sygdom {fk}	0001-01-01 00:00:00	0
+beide	begge	0001-01-01 00:00:00	0
+noch	endnu	0001-01-01 00:00:00	0
+erst [nächste Woche]	ikke før [næste uge]	0001-01-01 00:00:00	0
+Absatz {m} [im Text]	afsnit {n}	0001-01-01 00:00:00	0
+Nachricht {f}	efterretning {fk}	0001-01-01 00:00:00	0
+Party {f}	fest {fk}	0001-01-01 00:00:00	0
+Mitglied {n}	medlem {n} <medl.>	0001-01-01 00:00:00	0
+der [Relativpronomen]	som	0001-01-01 00:00:00	0
+ebenfalls	ligeledes	0001-01-01 00:00:00	0
+fliegen	at flyve	0001-01-01 00:00:00	0
+lang	lang	0001-01-01 00:00:00	0
+riesig	kæmpe	0001-01-01 00:00:00	0
+jdn. verletzen	at såre ngn.	0001-01-01 00:00:00	0
+darüber hinaus	derudover	0001-01-01 00:00:00	0
+Egal!	Lige meget!	0001-01-01 00:00:00	0
+Wie ist das Wetter?	Hvordan er vejret?	0001-01-01 00:00:00	0
+wehen	at blæse	0001-01-01 00:00:00	0
+wenige	få	0001-01-01 00:00:00	0
+Macht nichts!	Glem det!	0001-01-01 00:00:00	0
+einfach	nem	0001-01-01 00:00:00	0
+leer	tom	0001-01-01 00:00:00	0
+sicher	tryg	0001-01-01 00:00:00	0
+zum Beispiel <z. B.>	for eksempel <fx, f.eks.>	0001-01-01 00:00:00	0
+anrufen	at ringe (op) til	0001-01-01 00:00:00	0
+Woche {f}	uge {fk}	0001-01-01 00:00:00	0
+Toi toi toi!	Held og lykke!	0001-01-01 00:00:00	0
+teilen	at dele	0001-01-01 00:00:00	0
+jung	ung	0001-01-01 00:00:00	0
+Wer nicht wagt, der nicht gewinnt.	Hvo intet vover, intet vinder.	0001-01-01 00:00:00	0
+besuchen	at besøge	0001-01-01 00:00:00	0
+lange	længe	0001-01-01 00:00:00	0
+Alles Gute!	Held og lykke!	0001-01-01 00:00:00	0
+Danke gleichfalls!	Tak i lige måde!	0001-01-01 00:00:00	0
+beide	begge to	0001-01-01 00:00:00	0

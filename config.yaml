@@ -11,13 +11,13 @@ account_data:
 
 ###
 # The following are list of URLs for the local and remote files
-# Uncomment and change them!
+# Change them!
 # NOTE that the order of local and remote URLs has to match!
 
 remote_paths:
-# - http://dade.my.dict.cc/export/840202/DE-DA-11249.txt
-# - http://denl.my.dict.cc/export/853312/NL-DE-11289.txt
+- http://dade.my.dict.cc/export/840202/DE-DA-11249.txt
+- http://denl.my.dict.cc/export/853312/NL-DE-11289.txt
 
 source_paths:
-# - /home/tobi/Orga/dict.cc/Dansk.txt
-# - /home/tobi/Orga/dict.cc/Nederlands.txt
+- ./samples/Dansk.txt
+- ./samples/Nederlands.txt
