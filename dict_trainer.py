@@ -81,7 +81,7 @@ def merge_downloaded_sources():
     for i, remote in enumerate(config["remote_paths"]):
         newlist = downloader.download_list(remote)
         # parse lines as entries and split them at the (tab) separator
-        entries = str.splitlines(newlist)
+        entries = newlist.splitlines()
         entries = [tuple(entry.split(DICT_DELIMITER)) for entry in entries]
 
         # merge entries into the locally loaded vocs
