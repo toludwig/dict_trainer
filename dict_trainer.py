@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+
 import csv
 import re
 import random
@@ -130,13 +132,13 @@ def dump_all_vocs():
             writer.writerows(vocs_from_i)
 
 
-def run_training(dump_frequency=10):
+def run_training(verbose=False, dump_frequency=10):
     '''
     Launches the training in a notify-eval-dump loop.
     In every dump_frequency cycle the whole vocabulary is dumped.
     '''
     global vocs, config
-    notifier = Notifier(**config["notifications"])
+    notifier = Notifier(verbose=verbose, **config["notifications"])
 
     for i, voc in enumerate(vocs):
         notifier.notify(voc)
@@ -150,14 +152,15 @@ def _parse_options():
     parser.add_option("-d", "--download",
                       action="store_true", dest="download", default=False,
                       help="download/sync sources from dict.cc")
+    parser.add_option("-v", "--verbose",
+                      action="store_true", dest="verbose", default=False,
+                      help="verbose print voc pairs + statistics")
     return parser.parse_args()
 
 
 if __name__ == '__main__':
-    ### TODO optparse
-    # - set interval / frequency
-    # - verbose mode (print pairs, ...)
-    # - download from dict.cc (-d)
+    # -v verbose mode (print pairs, ...)
+    # -d download from dict.cc
     (options, _) = _parse_options()
 
     # read the config file within this directory
@@ -173,6 +176,6 @@ if __name__ == '__main__':
     shuffle_vocs() # shuffling before ranking: vary, but not destroy order
     rank_vocs()
     try:
-        run_training()
+        run_training(verbose=options.verbose)
     finally:
         dump_all_vocs() # finalization: dump to files in the end

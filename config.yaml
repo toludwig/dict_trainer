@@ -3,7 +3,6 @@
 notifications:
   interval: 50
   duration: 10
-  verbose : True
 
 account_data:
   user: ___ # your username here

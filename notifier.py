@@ -6,7 +6,7 @@ class Notifier:
     Currently this is specialised for GNOME. Feel free to extend it.
     '''
 
-    def __init__(self, interval=50, duration=10, verbose=True):
+    def __init__(self, interval=50, duration=10, verbose=False):
         '''
         interval - the time between fading of a notification and popup of a new
         duration - the time between popup and fading of a single notification
