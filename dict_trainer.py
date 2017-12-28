@@ -148,24 +148,27 @@ def run_training(verbose=False, dump_frequency=10):
 
 
 def _parse_options():
-    parser = optparse.OptionParser()
+    parser = optparse.OptionParser(usage="dict_trainer [options]")
+    parser.add_option("-c", "--config",
+                      action="store", type="string", dest="config_file",
+                      metavar="FILE", default="config.yaml",
+                      help="yaml config file including sources and settings")
     parser.add_option("-d", "--download",
                       action="store_true", dest="download", default=False,
                       help="download/sync sources from dict.cc")
     parser.add_option("-v", "--verbose",
                       action="store_true", dest="verbose", default=False,
-                      help="verbose print voc pairs + statistics")
+                      help="verbosely print pairs and statistics")
     return parser.parse_args()
 
 
 if __name__ == '__main__':
-    # -v verbose mode (print pairs, ...)
-    # -d download from dict.cc
     (options, _) = _parse_options()
 
-    # read the config file within this directory
+    # read the config file specified in the options (default: in this dir)
     # which stores the file paths for the sources
-    config = yaml.load(open("config.yaml"), yaml.RoundTripLoader)
+    # as well as notifier and downloader preferences
+    config = yaml.load(open(options.config_file), yaml.RoundTripLoader)
     sources = config["source_paths"]
     remotes = config["remote_paths"]
 
